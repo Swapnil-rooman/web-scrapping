@@ -1,0 +1,256 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Web Scraper Lambda Function with Playwright - Container-based deployment'
+
+Parameters:
+  ProjectName:
+    Type: String
+    Default: web-scraper
+    Description: Project name used for resource naming
+  
+  LambdaMemorySize:
+    Type: Number
+    Default: 3008
+    MinValue: 1024
+    MaxValue: 10240
+    Description: Memory allocation for Lambda function (MB)
+  
+  LambdaTimeout:
+    Type: Number
+    Default: 900
+    MinValue: 60
+    MaxValue: 900
+    Description: Lambda function timeout in seconds
+  
+  EphemeralStorageSize:
+    Type: Number
+    Default: 2048
+    MinValue: 512
+    MaxValue: 10240
+    Description: Ephemeral storage size for Lambda (/tmp directory) in MB
+
+Resources:
+  # ECR Repository for Docker images
+  ECRRepository:
+    Type: AWS::ECR::Repository
+    Properties:
+      RepositoryName: !Sub '${ProjectName}-repo'
+      ImageScanningConfiguration:
+        ScanOnPush: true
+      LifecyclePolicy:
+        LifecyclePolicyText: |
+          {
+            "rules": [
+              {
+                "rulePriority": 1,
+                "description": "Keep last 5 images",
+                "selection": {
+                  "tagStatus": "any",
+                  "countType": "imageCountMoreThan",
+                  "countNumber": 5
+                },
+                "action": {
+                  "type": "expire"
+                }
+              }
+            ]
+          }
+      Tags:
+        - Key: Project
+          Value: !Ref ProjectName
+
+  # S3 Bucket for scraped data
+  ScrapedDataBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub '${ProjectName}-output-${AWS::AccountId}'
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      VersioningConfiguration:
+        Status: Enabled
+      LifecycleConfiguration:
+        Rules:
+          - Id: DeleteOldFiles
+            Status: Enabled
+            ExpirationInDays: 90
+            NoncurrentVersionExpirationInDays: 30
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      Tags:
+        - Key: Project
+          Value: !Ref ProjectName
+
+  # IAM Role for Lambda function
+  LambdaExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Sub '${ProjectName}-lambda-role'
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: S3AccessPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:PutObject
+                  - s3:PutObjectAcl
+                  - s3:GetObject
+                  - s3:ListBucket
+                Resource:
+                  - !GetAtt ScrapedDataBucket.Arn
+                  - !Sub '${ScrapedDataBucket.Arn}/*'
+        - PolicyName: CloudWatchLogsPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - logs:CreateLogGroup
+                  - logs:CreateLogStream
+                  - logs:PutLogEvents
+                Resource: !Sub 'arn:aws:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/${ProjectName}-function:*'
+      Tags:
+        - Key: Project
+          Value: !Ref ProjectName
+
+  # CloudWatch Log Group for Lambda
+  LambdaLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub '/aws/lambda/${ProjectName}-function'
+      RetentionInDays: 7
+
+  # Lambda Function
+  WebScraperFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub '${ProjectName}-function'
+      PackageType: Image
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Code:
+        ImageUri: !Sub '${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest'
+      MemorySize: !Ref LambdaMemorySize
+      Timeout: !Ref LambdaTimeout
+      EphemeralStorage:
+        Size: !Ref EphemeralStorageSize
+      Environment:
+        Variables:
+          S3_BUCKET_NAME: !Ref ScrapedDataBucket
+          AWS_REGION: !Ref AWS::Region
+      Tags:
+        - Key: Project
+          Value: !Ref ProjectName
+
+  # EventBridge Rule for scheduled execution (optional - disabled by default)
+  ScheduledRule:
+    Type: AWS::Events::Rule
+    Properties:
+      Name: !Sub '${ProjectName}-schedule'
+      Description: Scheduled execution of web scraper
+      ScheduleExpression: 'rate(1 day)'
+      State: DISABLED
+      Targets:
+        - Arn: !GetAtt WebScraperFunction.Arn
+          Id: WebScraperTarget
+
+  # Permission for EventBridge to invoke Lambda
+  PermissionForEventsToInvokeLambda:
+    Type: AWS::Lambda::Permission
+    Properties:
+      FunctionName: !Ref WebScraperFunction
+      Action: lambda:InvokeFunction
+      Principal: events.amazonaws.com
+      SourceArn: !GetAtt ScheduledRule.Arn
+
+  # Lambda Function URL (optional - for HTTP trigger)
+  FunctionUrl:
+    Type: AWS::Lambda::Url
+    Properties:
+      TargetFunctionArn: !Ref WebScraperFunction
+      AuthType: AWS_IAM
+      Cors:
+        AllowOrigins:
+          - '*'
+        AllowMethods:
+          - POST
+          - GET
+        MaxAge: 300
+
+  # Permission for Function URL
+  FunctionUrlPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      FunctionName: !Ref WebScraperFunction
+      Action: lambda:InvokeFunctionUrl
+      Principal: '*'
+      FunctionUrlAuthType: AWS_IAM
+
+Outputs:
+  ECRRepositoryUri:
+    Description: ECR Repository URI for pushing Docker images
+    Value: !GetAtt ECRRepository.RepositoryUri
+    Export:
+      Name: !Sub '${ProjectName}-ecr-uri'
+
+  ECRRepositoryName:
+    Description: ECR Repository Name
+    Value: !Ref ECRRepository
+    Export:
+      Name: !Sub '${ProjectName}-ecr-name'
+
+  S3BucketName:
+    Description: S3 Bucket for scraped data
+    Value: !Ref ScrapedDataBucket
+    Export:
+      Name: !Sub '${ProjectName}-bucket-name'
+
+  LambdaFunctionArn:
+    Description: Lambda Function ARN
+    Value: !GetAtt WebScraperFunction.Arn
+    Export:
+      Name: !Sub '${ProjectName}-function-arn'
+
+  LambdaFunctionName:
+    Description: Lambda Function Name
+    Value: !Ref WebScraperFunction
+    Export:
+      Name: !Sub '${ProjectName}-function-name'
+
+  LambdaRoleArn:
+    Description: IAM Role ARN for Lambda
+    Value: !GetAtt LambdaExecutionRole.Arn
+    Export:
+      Name: !Sub '${ProjectName}-role-arn'
+
+  FunctionUrlEndpoint:
+    Description: Lambda Function URL endpoint
+    Value: !GetAtt FunctionUrl.FunctionUrl
+    Export:
+      Name: !Sub '${ProjectName}-function-url'
+
+  DeploymentCommands:
+    Description: Commands to build and deploy the Docker image
+    Value: !Sub |
+      # Login to ECR
+      aws ecr get-login-password --region ${AWS::Region} | docker login --username AWS --password-stdin ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com
+      
+      # Build and push Docker image
+      docker build -t ${ProjectName}-repo .
+      docker tag ${ProjectName}-repo:latest ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest
+      docker push ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest
+      
+      # Update Lambda function
+      aws lambda update-function-code --function-name ${ProjectName}-function --image-uri ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest --region ${AWS::Region}

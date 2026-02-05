@@ -2,12 +2,14 @@ import asyncio
 import json
 import re
 import time
+import os
+import boto3
 from urllib.parse import urljoin, urlparse
 from playwright.async_api import async_playwright
 
 MAX_LINKS_PER_SITE = 15
 CONCURRENT_ARTICLES = 5
-
+OUTPUT_FILE = "/tmp/scraped_data.json"  # Lambda writable path
 
 # -----------------------------
 # URL HEURISTIC FILTER
@@ -310,7 +312,10 @@ async def main():
     results = []
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(
+            headless=True,
+            args=["--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage", "--single-process"]
+        )
 
         for site in sites:
             site_start = time.time()
@@ -344,10 +349,10 @@ async def main():
     # ---------------- SAVE JSON ----------------
 
     if results:
-        with open("scraped_data.json", "w", encoding="utf-8") as f:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=2, ensure_ascii=False)
 
-        print("\nSaved", len(results), "articles to scraped_data.json")
+        print("\nSaved", len(results), f"articles to {OUTPUT_FILE}")
 
     else:
         print("\nNo articles scraped")
@@ -363,9 +368,50 @@ async def main():
     print("=" * 60)
 
 
+def upload_to_s3(file_path, bucket_name, object_name=None):
+    if object_name is None:
+        object_name = os.path.basename(file_path)
+
+    s3_client = boto3.client('s3')
+    try:
+        response = s3_client.upload_file(file_path, bucket_name, object_name)
+        print(f"Successfully uploaded {file_path} to s3://{bucket_name}/{object_name}")
+    except Exception as e:
+        print(f"Error uploading to S3: {e}")
+        return False
+    return True
+
+
 # -----------------------------
-# RUN
+# LAMBDA HANDLER
+# -----------------------------
+
+def handler(event, context):
+    print("Lambda handler started")
+    asyncio.run(main())
+    
+    bucket_name = os.environ.get("S3_BUCKET_NAME")
+    if bucket_name:
+        if os.path.exists(OUTPUT_FILE):
+             # Append timestamp to filename to prevent overwriting
+            timestamp = int(time.time())
+            s3_key = f"scraped_data_{timestamp}.json"
+            upload_to_s3(OUTPUT_FILE, bucket_name, s3_key)
+        else:
+            print("No output file generated to upload.")
+    else:
+        print("S3_BUCKET_NAME environment variable not set. Skipping upload.")
+        
+    return {
+        "statusCode": 200,
+        "body": json.dumps("Scraping completed!")
+    }
+
+# -----------------------------
+# LOCAL RUN
 # -----------------------------
 
 if __name__ == "__main__":
+    # For local testing, we can just run main
     asyncio.run(main())
+

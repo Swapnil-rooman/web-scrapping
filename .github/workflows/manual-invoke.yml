@@ -1,0 +1,84 @@
+name: Manual Lambda Invoke
+
+on:
+  workflow_dispatch:
+    inputs:
+      async:
+        description: 'Invoke asynchronously'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+env:
+  AWS_REGION: ap-south-1
+  LAMBDA_FUNCTION_NAME: web-scraper-function
+
+jobs:
+  invoke:
+    name: Invoke Lambda Function
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          role-session-name: GitHubActions-${{ github.run_id }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Invoke Lambda (Async)
+        if: inputs.async == 'true'
+        run: |
+          echo "🚀 Invoking Lambda function asynchronously..."
+          aws lambda invoke \
+            --function-name ${{ env.LAMBDA_FUNCTION_NAME }} \
+            --region ${{ env.AWS_REGION }} \
+            --invocation-type Event \
+            --payload '{}' \
+            response.json
+          
+          echo "✅ Lambda invoked asynchronously"
+          echo "Check CloudWatch Logs for execution details:"
+          echo "aws logs tail /aws/lambda/${{ env.LAMBDA_FUNCTION_NAME }} --follow --region ${{ env.AWS_REGION }}"
+
+      - name: Invoke Lambda (Sync)
+        if: inputs.async == 'false'
+        run: |
+          echo "🚀 Invoking Lambda function synchronously..."
+          aws lambda invoke \
+            --function-name ${{ env.LAMBDA_FUNCTION_NAME }} \
+            --region ${{ env.AWS_REGION }} \
+            --invocation-type RequestResponse \
+            --payload '{}' \
+            response.json
+          
+          echo "✅ Lambda completed"
+          echo "Response:"
+          cat response.json
+
+      - name: Get recent logs
+        run: |
+          echo "📋 Recent logs (last 5 minutes):"
+          aws logs tail /aws/lambda/${{ env.LAMBDA_FUNCTION_NAME }} \
+            --since 5m \
+            --region ${{ env.AWS_REGION }} || echo "No recent logs found"
+
+      - name: Summary
+        run: |
+          echo "## 🎯 Lambda Invocation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Function**: ${{ env.LAMBDA_FUNCTION_NAME }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Region**: ${{ env.AWS_REGION }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Invocation Type**: ${{ inputs.async == 'true' && 'Asynchronous' || 'Synchronous' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Triggered by**: @${{ github.actor }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### View Logs" >> $GITHUB_STEP_SUMMARY
+          echo '```bash' >> $GITHUB_STEP_SUMMARY
+          echo "aws logs tail /aws/lambda/${{ env.LAMBDA_FUNCTION_NAME }} --follow --region ${{ env.AWS_REGION }}" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY

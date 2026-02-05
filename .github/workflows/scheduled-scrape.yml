@@ -1,0 +1,132 @@
+name: Scheduled Web Scraping
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC (7:30 AM IST)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+env:
+  AWS_REGION: ap-south-1
+  LAMBDA_FUNCTION_NAME: web-scraper-function
+  STACK_NAME: web-scraper-stack
+
+jobs:
+  scrape:
+    name: Execute Web Scraping
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          role-session-name: GitHubActions-${{ github.run_id }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Invoke Lambda function
+        id: invoke
+        run: |
+          echo "🚀 Starting scheduled web scraping..."
+          REQUEST_ID=$(aws lambda invoke \
+            --function-name ${{ env.LAMBDA_FUNCTION_NAME }} \
+            --region ${{ env.AWS_REGION }} \
+            --invocation-type Event \
+            --payload '{}' \
+            response.json \
+            --query 'ResponseMetadata.RequestId' \
+            --output text)
+          
+          echo "request_id=$REQUEST_ID" >> $GITHUB_OUTPUT
+          echo "✅ Lambda invoked with Request ID: $REQUEST_ID"
+
+      - name: Wait for execution
+        run: |
+          echo "⏳ Waiting for scraping to complete (checking logs)..."
+          sleep 30
+
+      - name: Check execution status
+        id: status
+        continue-on-error: true
+        run: |
+          # Get recent logs
+          LOGS=$(aws logs tail /aws/lambda/${{ env.LAMBDA_FUNCTION_NAME }} \
+            --since 5m \
+            --region ${{ env.AWS_REGION }} \
+            --format short 2>&1)
+          
+          echo "$LOGS"
+          
+          # Check for completion or errors
+          if echo "$LOGS" | grep -q "SCRAPING COMPLETED"; then
+            echo "status=success" >> $GITHUB_OUTPUT
+            echo "✅ Scraping completed successfully"
+          elif echo "$LOGS" | grep -q "Error"; then
+            echo "status=error" >> $GITHUB_OUTPUT
+            echo "❌ Scraping encountered errors"
+          else
+            echo "status=running" >> $GITHUB_OUTPUT
+            echo "⏳ Scraping is still running"
+          fi
+
+      - name: Get S3 bucket info
+        id: s3
+        run: |
+          BUCKET=$(aws cloudformation describe-stacks \
+            --stack-name ${{ env.STACK_NAME }} \
+            --region ${{ env.AWS_REGION }} \
+            --query "Stacks[0].Outputs[?OutputKey=='S3BucketName'].OutputValue" \
+            --output text)
+          
+          echo "bucket=$BUCKET" >> $GITHUB_OUTPUT
+          
+          echo "📦 Latest files in S3:"
+          aws s3 ls s3://$BUCKET/ --region ${{ env.AWS_REGION }} --human-readable | tail -10
+
+      - name: Get file count
+        id: files
+        run: |
+          BUCKET=${{ steps.s3.outputs.bucket }}
+          FILE_COUNT=$(aws s3 ls s3://$BUCKET/ --region ${{ env.AWS_REGION }} | wc -l)
+          LATEST_FILE=$(aws s3 ls s3://$BUCKET/ --region ${{ env.AWS_REGION }} | sort | tail -1 | awk '{print $4}')
+          
+          echo "count=$FILE_COUNT" >> $GITHUB_OUTPUT
+          echo "latest=$LATEST_FILE" >> $GITHUB_OUTPUT
+          
+          if [ -n "$LATEST_FILE" ]; then
+            FILE_SIZE=$(aws s3 ls s3://$BUCKET/$LATEST_FILE --region ${{ env.AWS_REGION }} --human-readable | awk '{print $3}')
+            echo "size=$FILE_SIZE" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 📊 Scheduled Scraping Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Execution Details" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Request ID**: ${{ steps.invoke.outputs.request_id }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ steps.status.outputs.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Storage" >> $GITHUB_STEP_SUMMARY
+          echo "- **S3 Bucket**: ${{ steps.s3.outputs.bucket }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Files**: ${{ steps.files.outputs.count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Latest File**: ${{ steps.files.outputs.latest }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **File Size**: ${{ steps.files.outputs.size }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Quick Commands" >> $GITHUB_STEP_SUMMARY
+          echo '```bash' >> $GITHUB_STEP_SUMMARY
+          echo "# Download latest file" >> $GITHUB_STEP_SUMMARY
+          echo "aws s3 cp s3://${{ steps.s3.outputs.bucket }}/${{ steps.files.outputs.latest }} . --region ${{ env.AWS_REGION }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "# View logs" >> $GITHUB_STEP_SUMMARY
+          echo "aws logs tail /aws/lambda/${{ env.LAMBDA_FUNCTION_NAME }} --follow --region ${{ env.AWS_REGION }}" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Notify on failure
+        if: steps.status.outputs.status == 'error'
+        run: |
+          echo "::error::Scraping encountered errors. Check CloudWatch Logs for details."
+          exit 1
