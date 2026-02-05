@@ -21,13 +21,15 @@ RUN mkdir -p ${FUNCTION_DIR}
 COPY webscrape.py ${FUNCTION_DIR}
 COPY requirements.txt ${FUNCTION_DIR}
 
-# Install Python dependencies
-# We install into the function directory or global
-RUN pip install --no-cache-dir -r ${FUNCTION_DIR}/requirements.txt --target ${FUNCTION_DIR}
+# Install Python dependencies globally first for playwright CLI
+RUN pip install --no-cache-dir playwright==1.44.0
 
 # Install Playwright browsers (critical for Lambda)
 RUN playwright install chromium
 RUN playwright install-deps chromium
+
+# Now install all dependencies to function directory
+RUN pip install --no-cache-dir -r ${FUNCTION_DIR}/requirements.txt --target ${FUNCTION_DIR}
 
 # Install the Lambda Runtime Interface Client (RIC)
 # It's already in requirements.txt but just being explicit about its role
