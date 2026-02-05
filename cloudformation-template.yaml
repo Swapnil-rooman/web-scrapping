@@ -167,8 +167,8 @@ Resources:
     Type: AWS::Events::Rule
     Properties:
       Name: !Sub '${ProjectName}-schedule'
-      Description: Scheduled execution of web scraper
-      ScheduleExpression: 'rate(1 day)'
+      Description: Scheduled execution of web scraper every 5 minutes
+      ScheduleExpression: 'rate(5 minutes)'
       State: ENABLED
       Targets:
         - Arn: !GetAtt WebScraperFunction.Arn
