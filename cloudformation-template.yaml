@@ -32,6 +32,29 @@ Resources:
   # Note: ECR Repository is created separately (not managed by this stack)
   # Run: aws ecr create-repository --repository-name web-scraper-repo --region ap-south-1
 
+  # DynamoDB Table for scraped articles
+  ScrapedArticlesTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: !Sub '${ProjectName}-articles'
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: article_id
+          AttributeType: S
+        - AttributeName: scraped_at
+          AttributeType: N
+      KeySchema:
+        - AttributeName: article_id
+          KeyType: HASH
+        - AttributeName: scraped_at
+          KeyType: RANGE
+      TimeToLiveSpecification:
+        AttributeName: ttl
+        Enabled: true
+      Tags:
+        - Key: Project
+          Value: !Ref ProjectName
+
   # S3 Bucket for scraped data
   ScrapedDataBucket:
     Type: AWS::S3::Bucket
@@ -85,8 +108,19 @@ Resources:
                   - s3:ListBucket
                 Resource:
                   - !GetAtt ScrapedDataBucket.Arn
-                  - !Sub '${ScrapedDataBucket.Arn}/*'
-        - PolicyName: CloudWatchLogsPolicy
+                  - !Sub '${ScrapedDataBucket.Arn}/*'        - PolicyName: DynamoDBAccessPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - dynamodb:PutItem
+                  - dynamodb:BatchWriteItem
+                  - dynamodb:Query
+                  - dynamodb:Scan
+                  - dynamodb:GetItem
+                Resource:
+                  - !GetAtt ScrapedArticlesTable.Arn        - PolicyName: CloudWatchLogsPolicy
           PolicyDocument:
             Version: '2012-10-17'
             Statement:
@@ -123,6 +157,7 @@ Resources:
       Environment:
         Variables:
           S3_BUCKET_NAME: !Ref ScrapedDataBucket
+          DYNAMODB_TABLE_NAME: !Ref ScrapedArticlesTable
       Tags:
         - Key: Project
           Value: !Ref ProjectName
@@ -134,7 +169,7 @@ Resources:
       Name: !Sub '${ProjectName}-schedule'
       Description: Scheduled execution of web scraper
       ScheduleExpression: 'rate(1 day)'
-      State: DISABLED
+      State: ENABLED
       Targets:
         - Arn: !GetAtt WebScraperFunction.Arn
           Id: WebScraperTarget
@@ -185,6 +220,12 @@ Outputs:
     Value: !Ref ScrapedDataBucket
     Export:
       Name: !Sub '${ProjectName}-bucket-name'
+
+  DynamoDBTableName:
+    Description: DynamoDB Table for scraped articles
+    Value: !Ref ScrapedArticlesTable
+    Export:
+      Name: !Sub '${ProjectName}-dynamodb-table'
 
   LambdaFunctionArn:
     Description: Lambda Function ARN

@@ -4,6 +4,8 @@ import re
 import time
 import os
 import boto3
+import hashlib
+from decimal import Decimal
 from urllib.parse import urljoin, urlparse
 from playwright.async_api import async_playwright
 
@@ -382,6 +384,51 @@ def upload_to_s3(file_path, bucket_name, object_name=None):
     return True
 
 
+def save_to_dynamodb(articles, table_name):
+    """Save articles to DynamoDB table"""
+    if not articles or not table_name:
+        print("No articles or table name provided")
+        return False
+    
+    dynamodb = boto3.resource('dynamodb')
+    table = dynamodb.Table(table_name)
+    
+    saved_count = 0
+    failed_count = 0
+    
+    # Current timestamp for all articles in this batch
+    scraped_timestamp = int(time.time())
+    # TTL: 90 days from now (matching S3 lifecycle)
+    ttl = scraped_timestamp + (90 * 24 * 60 * 60)
+    
+    for article in articles:
+        try:
+            # Generate unique article_id from URL
+            article_id = hashlib.md5(article['url'].encode()).hexdigest()
+            
+            # Prepare item for DynamoDB
+            item = {
+                'article_id': article_id,
+                'scraped_at': scraped_timestamp,
+                'url': article['url'],
+                'heading': article.get('heading') or 'N/A',
+                'subheading': article.get('subheading') or 'N/A',
+                'date': article.get('date') or 'N/A',
+                'ttl': ttl
+            }
+            
+            # Put item into DynamoDB
+            table.put_item(Item=item)
+            saved_count += 1
+            
+        except Exception as e:
+            print(f"Error saving article {article.get('url')}: {e}")
+            failed_count += 1
+    
+    print(f"\n✓ DynamoDB: Saved {saved_count} articles, {failed_count} failed")
+    return saved_count > 0
+
+
 # -----------------------------
 # LAMBDA HANDLER
 # -----------------------------
@@ -390,6 +437,7 @@ def handler(event, context):
     print("Lambda handler started")
     asyncio.run(main())
     
+    # Upload to S3
     bucket_name = os.environ.get("S3_BUCKET_NAME")
     if bucket_name:
         if os.path.exists(OUTPUT_FILE):
@@ -401,6 +449,21 @@ def handler(event, context):
             print("No output file generated to upload.")
     else:
         print("S3_BUCKET_NAME environment variable not set. Skipping upload.")
+    
+    # Save to DynamoDB
+    table_name = os.environ.get("DYNAMODB_TABLE_NAME")
+    if table_name:
+        if os.path.exists(OUTPUT_FILE):
+            try:
+                with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                    articles = json.load(f)
+                save_to_dynamodb(articles, table_name)
+            except Exception as e:
+                print(f"Error reading JSON for DynamoDB: {e}")
+        else:
+            print("No output file to save to DynamoDB.")
+    else:
+        print("DYNAMODB_TABLE_NAME environment variable not set. Skipping DynamoDB save.")
         
     return {
         "statusCode": 200,
