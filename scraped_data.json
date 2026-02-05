@@ -1,0 +1,920 @@
+[
+  {
+    "url": "https://indiaai.gov.in/article/indiaai-financial-reporting-compliance-challenge",
+    "heading": "IndiaAI Financial Reporting Compliance Challenge",
+    "subheading": "The challenge, in partnership with the National Financial Reporting Authority (NFRA), seeks to harness Artificial Intelligence (AI) to enhance the quality of financial reporting in India, streamline compliance monitoring and facilitate effective regulatory decision-making.",
+    "date": "Want to publish your content? Publish an article and share your insights to the world. Get Started Now"
+  },
+  {
+    "url": "https://indiaai.gov.in/article/indiaai-intelligent-document-processing-challenge",
+    "heading": "IndiaAI Intelligent Document Processing Challenge",
+    "subheading": "The Initiative aims to develop a robust, scalable, accurate, and secure AI engine, leveraging advanced Optical Character Recognition (OCR) and Natural Language Processing (NLP) to manage end-to-end document processing with maximum operational efficiency and optimized cost structures. The resulting solutions should have cross-sectoral and nationwide applicability, enabling seamless deployment across various public departments and organisations.",
+    "date": "Want to publish your content? Publish an article and share your insights to the world. Get Started Now"
+  },
+  {
+    "url": "https://indiaai.gov.in/article/indiaai-innovation-challenge-2026",
+    "heading": "IndiaAI Innovation Challenge 2026",
+    "subheading": "The IndiaAI Mission, under the Ministry of Electronics and Information Technology (MeitY), announces the launch of the IndiaAI Innovation Challenge 2026, in collaboration with the Ministry of AYUSH and the Ministry of Micro, Small and Medium Enterprises (MSME).",
+    "date": "Want to publish your content? Publish an article and share your insights to the world. Get Started Now"
+  },
+  {
+    "url": "https://indiaai.gov.in/article/indiaai-innovation-challenge-for-transforming-governance-with-government-of-andhra-pradesh",
+    "heading": "IndiaAI Innovation Challenge for Transforming Governance (with Government of Andhra Pradesh)",
+    "subheading": "IndiaAI, under the Ministry of Electronics and IT (MeitY), has partnered with the Real Time Governance Society and line departments under the Government of Andhra Pradesh to launch the IndiaAI Innovation Challenge for Transforming Governance.",
+    "date": "Want to publish your content? Publish an article and share your insights to the world. Get Started Now"
+  },
+  {
+    "url": "https://indiaai.gov.in/article/yuvaai-for-all-course",
+    "heading": "YuvaAI for All Course",
+    "subheading": "IndiaAI Mission, implemented by the Ministry of Electronics and Information Technology (MeitY), aims to strengthen India’s global leadership in AI, foster technological self-reliance, and ensure ethical, responsible, and inclusive adoption of AI.",
+    "date": "Want to publish your content? Publish an article and share your insights to the world. Get Started Now"
+  },
+  {
+    "url": "https://negd.gov.in/press-release/",
+    "heading": "Press Release",
+    "subheading": null,
+    "date": "Government of India Skip to Main Content Screen Reader English English हिन्दी // need to have the same with set from JS on both divs. Otherwise it can push stuff around in HTML var trp_ls_shortcodes = document.querySelectorAll('.trp_language_switcher_shortcode .trp-language-switcher'); if ( trp_ls_shortcodes.length > 0) { // get the last language switcher added var trp_el = trp_ls_shortcodes[trp_ls_shortcodes.length - 1]; var trp_shortcode_language_item = trp_el.querySelector( '.trp-ls-shortcode-language' ) // set width var trp_ls_shortcode_width = trp_shortcode_language_item.offsetWidth + 16; trp_shortcode_language_item.style.width = trp_ls_shortcode_width + 'px'; trp_el.querySelector( '.trp-ls-shortcode-current-language' ).style.width = trp_ls_shortcode_width + 'px'; // We're putting this on display: none after we have its width. trp_shortcode_language_item.style.display = 'none'; } About Us About NeGD Who’s Who Projects DigiLocker EntityLocker UMANG OpenForge myScheme MeriPehchaan (NSSO) API Setu India Stack Global India Stack Local UX4G NeGD Dashboards Divisions Awareness and Communication Capacity Building Technology Management Programme Management Finance Human Resources Training Schedule Learning Resources Articles Case Studies Media Events Photos Videos Press Release Digiपहल Notification Circulars Vendor Payment Status Tender Notice Careers Empanelment by NeGD jQuery(document).on(\"click\", \".htv-r-search img\", function() { jQuery(\".search-form\").toggleClass(\"active\"); }); jQuery(document).on(\"click\", \".trp-language-switcher\", function() { jQuery(\".trp-language-switcher .trp-ls-shortcode-language\").toggle(); }); Press Release SAMRIDH Programme Provides Financial Support to 373 Startups through Selected Accelerators Posted on: February 4, 2026 The Startup Accelerator of MeitY for Product Innovation, Development, and Growth (SAMRIDH) programme, aims to accelerate around 300 Startups through existing and upcoming Accelerators in Health-tech, Ed-tech, Agri-tech, Consumer-tech, Fin-tech, Software as a Service (SaaS), and sustainability. Under the SAMRIDH programme, 186 accelerators submitted Expressions of Interest, leading to the selection of 43 top accelerators across 16 states. (State-wise details provided at Annexure-I) Download PDF Semicon India Programme Advances with Approval of 10 Projects; IT Sector Revenue Rises to USD 283 Billion Posted on: February 4, 2026 The semiconductor development strategy is inspired by Prime Minister’s vision of Atmanirbhar Bharat and Make in India, Make for the world. As part of this strategy, India aims to develop a complete ecosystem, ranging from design, fabrication, assembly, testing, packaging and module manufacturing. Download PDF Over 2.5 Crore Aadhaar Numbers of Deceased Persons Deactivated to Prevent Identity Fraud Posted on: February 4, 2026 As part of a nationwide clean-up effort to maintain the continued accuracy and integrity of the Aadhaar database, Unique Identification Authority of India (UIDAI) has deactivated more than 2.5 crore Aadhaar numbers of deceased persons till date. Download PDF Expo – A Platform for Scaling AI from Prototypes to Real-World Solutions Posted on: February 3, 2026 Registrations are currently on for the India AI Impact Expo 2026, a premier platform under India AI Impact Summit 2026 for scaling AI prototypes into deployable real-world solutions. Download PDF India AI Impact Summit 2026: 35,000+ Registrations so far; 100+ Countries, 500+ Startups to engage across 500 Sessions Posted on: February 2, 2026 The India AI Impact Summit, scheduled to be held in New Delhi from February 16-20, 2026, is anticipated to be the largest of the four global AI summits hosted to date, reflecting the growing international momentum around responsible, inclusive and impact-driven Artificial Intelligence. Download PDF MeitY signs Administrative Arrangement on Advanced Electronic Signatures and Seals with DG CONNECT of European Commission Posted on: February 2, 2026 The Ministry of Electronics and Information Technology (MeitY), Government of India, and the Directorate-General for Communication Networks, Content and Technology (DG CONNECT) of the European Commission have signed an Administrative Arrangement on Advanced Electronic Signatures and Seals on 27 January 2026. Download PDF Budget 2026-27 announces the launch of India Semiconductor Mission (ISM) 2.0 Posted on: February 1, 2026 Union Finance Minister Smt. Nirmala Sitharaman today presented the Union Budget for the Financial Year (FY) 2026-27. The announcements also included significant measures for accelerating the growth of India’s Electronics and Information Technology Sector. Download PDF Budget 2026-27 lays strong foundation for AI Data Centres and Semiconductor Ecosystem Posted on: February 1, 2026 Union Finance Minister Smt. Nirmala Sitharaman today presented the Union Budget for the Financial Year (FY) 2026-27. The Budget includes several key measures aimed at accelerating growth in the Electronics, Information Technology and Artificial Intelligence ecosystem, the Union Minister for Electronics and Information Technology, Railways and Information & Broadcasting, Shri Ashwini Vaishnaw, said while addressing the media. Download PDF India AI Impact Summit Receives Phenomenal Global Response, India’s AI Ecosystem Developing in a Systematic Manner: Union Minister Ashwini Vaishnaw Posted on: January 30, 2026 The Ministry of Electronics and Information Technology (MeitY), Government of India, today held a high-level press conference ahead of the India AI Impact Summit 2026, chaired by Shri Ashwini Vaishnaw, Minister for Electronics & Information Technology. The event was also attended by Shri Jitin Prasada, Minister of State for Electronics & IT; Shri Ajay Sood, Principal Scientific Adviser to the Government of India and other senior MeitY officials. The press conference outlined key developments, confirmed global participation, and previewed the India AI Impact Summit’s anticipated outcomes as India prepares to host the first-ever global AI summit in the Global South from February 16–20, 2026, at Bharat Mandapam, New Delhi. Download PDF New Aadhaar App dedicated to the nation Posted on: January 28, 2026 Minister of State for Commerce and Industry and Electronics & Information Technology Sh Jitin Prasada today dedicated the new Aadhaar App to the nation, marking a significant milestone in identity verification keeping people at its core. Download PDF BISAG-N and QNu Labs Sign MoU for collaboration and technology transfer to Strengthen India’s Quantum-Resilient Cybersecurity Capabilities Posted on: January 28, 2026 The Bhaskaracharya National Institute for Space Applications and Geo-informatics (BISAG-N), under the Ministry of Electronics and Information Technology (MeitY), today signed a Memorandum of Understanding (MoU) with QNu Labs Pvt. Ltd. to collaborate in the area of quantum-resilient cybersecurity solutions. Download PDF Union Minister Shri Ashwini Vaishnaw interacts with Semiconductor Chip Design Companies approved under the DLI Scheme Posted on: January 27, 2026 Union Minister for Electronics and Information Technology Shri Ashwini Vaishnaw, interacted with semiconductor chip design companies approved under the Design Linked Incentive (DLI) Scheme of the Semicon India Programme in New Delhi today. The interaction focused on reviewing progress, understanding design innovations, and reinforcing the Government’s commitment to building a robust, indigenous semiconductor design ecosystem. The DLI Scheme aims to accelerate domestic chip design capabilities by supporting startups and companies across areas such as SoCs, telecom, power management, AI, and IoT, thereby strengthening India’s self-reliance in critical semiconductor technologies. Download PDF Archive Press Release Last updated: 05-02-2026 NeGD About NeGD Projects Who’s Who Important Links Tender Notice Careers FAQ Help Feedback Useful Links Right to Information Grievances Terms & Conditions Powered by Contact Us National e-Governance Division 4th Floor, Electronics Niketan, 6, CGO Complex, Lodhi Road, New Delhi-110003 awareness@digitalindia.gov.in © 2024 - Copyright NeGD. All rights reserved. Powered by NeGD | DIC | MeitY | Government of India Terms & Conditions Privacy Policy Accessibility options by UX4G Text To Speech Bigger Text Small Text Line Height Highlight Links Text Spacing Dyslexia Friendly Hide Images Cursor Light-Dark Invert Colors Reset All Settings Created by Accessibility Options document.getElementById('uw-widget-custom-trigger2').addEventListener('click', function() { openMain(); }); var home_url = 'https://negd.gov.in'; var getTemplateUrl = 'https://negd.gov.in/wp-content/themes/negd-update'; jQuery(document).ready(function($){ $(document).on('input', '.feedback-form input[name=\"your-name\"]', function() { var inputValue = $(this).val(); var filteredValue = inputValue.replace(/[^a-zA-Z]/g, ''); $(this).val(filteredValue); }); $(document).on('input', '.feedback-form textarea, #comment', function() { var inputValue = $(this).val(); var filteredValue = inputValue.replace(/[^a-zA-Z0-9 .]/g, ''); $(this).val(filteredValue); }); $('[data-bs-toggle=\"tooltip\"]').tooltip(); }); jQuery(document).ready(function(){ jQuery('#svg-map-state').on('change', function(e){ jQuery('.india_states').css('fill','#5585BF'); var selectedText = jQuery(this).find(\":selected\").text(); var getStateValue = jQuery(this).val(); getStateValue = getStateValue.replace(/-/gi, \"_\"); var getStateId = 'india_state_map_'+getStateValue; jQuery('.india_states').css('fill','#5585BF'); jQuery('#'+getStateId).css('fill','#00316D'); jQuery('#statePolicyList ul').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">Loading...</div>'); console.log(selectedText, getStateValue); var data = { action: 'state_project_action', state_slug: getStateValue }; // var data = {state_slug:getStateValue}; // var ajaxurl = getTemplateUrl+'/getStateDetails.php'; var ajaxurl = \"https://negd.gov.in/wp-admin/admin-ajax.php\"; jQuery('#statepolicy-state-name').html(selectedText); console.log(ajaxurl); jQuery.ajax({ type: 'POST', url : ajaxurl, data : data, success: function(response){ // console.log(response); // console.log(response.data); var getArrayResult = response.data.data; console.log(getArrayResult, 'responsoe data'); if(getArrayResult.length != 0){ var resultPolicyState = ''; getArrayResult.forEach(function(item){ // resultPolicyState += `<li> // <a href=\"${item.pdf_link}\"> // ${item.title} // </a> // </li>`; resultPolicyState = `${item.content}`; console.log(item); }); jQuery('#statePolicyList').html(resultPolicyState); }else{ jQuery('#statePolicyList').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">State Projects are getting uploaded. Please visit later.</div>'); } } }); }); }); function stateMapEvent(state){ var getStateValue = state.replace(/_/gi, \"-\"); var stateHeading = state.replace(/_/gi, \" \"); jQuery('#svg-map-state').val(\"\"); state = state.replace(/-/gi, \"_\"); var getStateId = 'india_state_map_'+state; jQuery('.india_states').css('fill','#5585BF'); jQuery('#'+getStateId).css('fill','#00316D'); console.log(state, getStateId, 'State Name'); // console.log(getStateValue, 'State ID'); // console.log(stateHeading, 'State Heading'); jQuery('#statePolicyList ul').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">Loading...</div>'); var data = { action: 'state_project_action', state_slug: getStateValue }; var ajaxurl = \"https://negd.gov.in/wp-admin/admin-ajax.php\"; // var data = {state_slug:getStateValue}; // var ajaxurl = getTemplateUrl+'/getStateDetails.php'; jQuery('#statepolicy-state-name').html(stateHeading); console.log(ajaxurl); jQuery.ajax({ type: 'POST', url : ajaxurl, data : data, success: function(response){ // console.log(response); // console.log(response.data); var getArrayResult = response.data.data; console.log(getArrayResult, 'responsoe data'); if(getArrayResult.length != 0){ var resultPolicyState = ''; getArrayResult.forEach(function(item){ // resultPolicyState += `<li> // <a href=\"${item.pdf_link}\"> // ${item.title} // </a> // </li>`; resultPolicyState = `${item.content}`; console.log(item); }); var static_d_state = `<div class=\"semt_h_dashboard_m\"><div><h2>SeMT Headcount Dashboard</h2></div><div class=\"semt_h_dashboard_btn\"><a href=\"https://mail.mgovcloud.in/zm/reUrlCheck.do?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZjJkYjEyMWEtZjQ1Ny00MTE4LTg0MjktOTFjNTExM2U2ZTBiIiwidCI6IjliZDllNTJjLWU1MGItNDUzYS04MzA0LTczMjY4NWM4Y2NlOSJ9&uvd=0801129c02fbe9aa8958ddc932ff3f3b150000fd9dd8a0017742ff2c7f775f810524d6dd8fa9a69db0cc9d5a0db423590e7cbb825ad61889cd06924a95f7c585676a20398a4eed7eb5693bc45e6865eecfbd01534c997bde03110a47777fb05e1749615f7424112b4e21c19d372961e588ce5953bc124d4872496ad167f7532f01683f032e04ea02682bc840cbf86c84e1c9596bdcadcbb20aa29825b95daebce64ff8fb6e5114a5cf11c18019f420382ed5872985e5f5c30cf3322ef782758f37b3ad5ff94ebf312b71ae5e42dfaa5fa70c7b105782033f9be11ea6bd93c2436dd4a867897a46a618d50da871c9bbe9975807319ccd9274435b36065b8d4985b2286d572c6d9220de9aa117e9ae1cb509437c45e49f4715784ed29c17005c4868\" target=\"_blank\">SeMT Dashboard - ${stateHeading.toUpperCase()}</a></div></div>`; jQuery('#statePolicyList').html(static_d_state); // jQuery('#statePolicyList').html(resultPolicyState); }else{ var static_d_state = `<div class=\"semt_h_dashboard_m\"><div><h2>SeMT Headcount Dashboard</h2></div><div class=\"semt_h_dashboard_btn\"><a href=\"https://mail.mgovcloud.in/zm/reUrlCheck.do?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZjJkYjEyMWEtZjQ1Ny00MTE4LTg0MjktOTFjNTExM2U2ZTBiIiwidCI6IjliZDllNTJjLWU1MGItNDUzYS04MzA0LTczMjY4NWM4Y2NlOSJ9&uvd=0801129c02fbe9aa8958ddc932ff3f3b150000fd9dd8a0017742ff2c7f775f810524d6dd8fa9a69db0cc9d5a0db423590e7cbb825ad61889cd06924a95f7c585676a20398a4eed7eb5693bc45e6865eecfbd01534c997bde03110a47777fb05e1749615f7424112b4e21c19d372961e588ce5953bc124d4872496ad167f7532f01683f032e04ea02682bc840cbf86c84e1c9596bdcadcbb20aa29825b95daebce64ff8fb6e5114a5cf11c18019f420382ed5872985e5f5c30cf3322ef782758f37b3ad5ff94ebf312b71ae5e42dfaa5fa70c7b105782033f9be11ea6bd93c2436dd4a867897a46a618d50da871c9bbe9975807319ccd9274435b36065b8d4985b2286d572c6d9220de9aa117e9ae1cb509437c45e49f4715784ed29c17005c4868\" target=\"_blank\">SeMT Dashboard - ${stateHeading.toUpperCase()}</a></div></div>`; jQuery('#statePolicyList').html(static_d_state); // jQuery('#statePolicyList').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">State Projects are getting uploaded. Please visit later.</div>'); } } }); } stateMapEvent('haryana'); function externalLinks() { for (var c = document.getElementsByTagName(\"a\"), a = 0; a < c.length; a++) { var b = c[a]; b.getAttribute(\"href\") && b.hostname !== location.hostname && (b.target = \"_blank\") } }; externalLinks(); jQuery('a').filter(function() { // Exclude the specified URLs var excludedHostnames = [\"uatnegd.digitalindiacorporation.in\"]; var currentHostname = this.hostname || location.hostname; return currentHostname !== location.hostname && excludedHostnames.indexOf(currentHostname) === -1; }).not('a[href=\"https://uatnegd.digitalindiacorporation.in/\"]').click(function(e) { if (!confirm( \"You are being redirected to an external website. Please note that NeGD Website cannot be held responsible for external websites' content & privacy policies.\" )) { // If the user clicks 'no', then don't proceed to the link. e.preventDefault(); } }); ⇧ const backToTop = document.querySelector('.back-to-top'); window.addEventListener('scroll', () => { if (window.scrollY > 300) { backToTop.style.display = 'block'; } else { backToTop.style.display = 'none'; } }); backToTop.addEventListener('click', (e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }); {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"https://negd-media.digitalindiacorporation.in/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/negd-update/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/negd.gov.in\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" }, \"cached\": 1 }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var ecs_event_dates = [\"2018-08-08\",\"2022-07-01\",\"2022-07-09\",\"2022-07-01\",\"2022-07-02\",\"2022-07-03\",\"2022-07-04\",\"2022-07-05\",\"2022-07-06\",\"2022-07-07\",\"2022-07-08\",\"2022-07-09\",\"2023-04-12\",\"2023-08-21\",\"2023-09-18\",\"2023-10-10\",\"2024-10-01\",\"2024-11-06\",\"2024-11-12\",\"2024-11-18\",\"2024-11-30\",\"2025-01-25\",\"2024-11-30\",\"2024-12-01\",\"2024-12-02\",\"2024-12-03\",\"2024-12-04\",\"2024-12-05\",\"2024-12-06\",\"2024-12-07\",\"2024-12-08\",\"2024-12-09\",\"2024-12-10\",\"2024-12-11\",\"2024-12-12\",\"2024-12-13\",\"2024-12-14\",\"2024-12-15\",\"2024-12-16\",\"2024-12-17\",\"2024-12-18\",\"2024-12-19\",\"2024-12-20\",\"2024-12-21\",\"2024-12-22\",\"2024-12-23\",\"2024-12-24\",\"2024-12-25\",\"2024-12-26\",\"2024-12-27\",\"2024-12-28\",\"2024-12-29\",\"2024-12-30\",\"2024-12-31\",\"2025-01-01\",\"2025-01-02\",\"2025-01-03\",\"2025-01-04\",\"2025-01-05\",\"2025-01-06\",\"2025-01-07\",\"2025-01-08\",\"2025-01-09\",\"2025-01-10\",\"2025-01-11\",\"2025-01-12\",\"2025-01-13\",\"2025-01-14\",\"2025-01-15\",\"2025-01-16\",\"2025-01-17\",\"2025-01-18\",\"2025-01-19\",\"2025-01-20\",\"2025-01-21\",\"2025-01-22\",\"2025-01-23\",\"2025-01-24\",\"2025-01-25\",\"2025-01-03\",\"2025-01-03\",\"2025-01-03\",\"2025-01-08\",\"2025-01-10\",\"2025-01-08\",\"2025-01-09\",\"2025-01-10\",\"2025-01-09\",\"2025-01-10\",\"2025-01-09\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-15\",\"2025-01-15\",\"2025-01-15\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-20\",\"2025-01-24\",\"2025-01-20\",\"2025-01-21\",\"2025-01-22\",\"2025-01-23\",\"2025-01-24\",\"2025-01-21\",\"2025-01-21\",\"2025-01-21\",\"2025-01-22\",\"2025-01-22\",\"2025-01-22\",\"2025-01-23\",\"2025-01-23\",\"2025-01-23\",\"2025-01-24\",\"2025-01-24\",\"2025-01-24\",\"2025-01-26\",\"2025-01-31\",\"2025-01-26\",\"2025-01-27\",\"2025-01-28\",\"2025-01-29\",\"2025-01-30\",\"2025-01-31\",\"2025-01-28\",\"2025-01-28\",\"2025-01-28\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-02-02\",\"2025-02-02\",\"2025-02-02\",\"2025-02-07\",\"2025-02-07\",\"2025-02-07\",\"2025-02-10\",\"2025-02-11\",\"2025-02-10\",\"2025-02-11\",\"2025-02-11\",\"2025-02-11\",\"2025-02-11\",\"2025-02-13\",\"2025-02-13\",\"2025-02-13\",\"2025-02-14\",\"2025-02-14\",\"2025-02-14\",\"2025-02-14\",\"2025-02-17\",\"2025-02-14\",\"2025-02-15\",\"2025-02-16\",\"2025-02-17\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-19\",\"2025-02-19\",\"2025-02-19\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-21\",\"2025-02-21\",\"2025-02-21\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-28\",\"2025-02-28\",\"2025-02-28\",\"2025-03-03\",\"2025-03-03\",\"2025-03-03\",\"2025-03-03\",\"2025-03-08\",\"2025-03-03\",\"2025-03-04\",\"2025-03-05\",\"2025-03-06\",\"2025-03-07\",\"2025-03-08\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-07\",\"2025-03-07\",\"2025-03-07\",\"2025-03-10\",\"2025-03-10\",\"2025-03-10\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-19\",\"2025-03-21\",\"2025-03-19\",\"2025-03-20\",\"2025-03-21\",\"2025-03-21\",\"2025-03-21\",\"2025-03-21\",\"2025-03-22\",\"2025-03-24\",\"2025-03-22\",\"2025-03-23\",\"2025-03-24\",\"2025-03-27\",\"2025-03-27\",\"2025-03-27\",\"2025-04-02\",\"2025-04-04\",\"2025-04-02\",\"2025-04-03\",\"2025-04-04\",\"2025-04-04\",\"2025-04-04\",\"2025-04-04\",\"2025-04-08\",\"2025-04-08\",\"2025-04-08\",\"2025-04-11\",\"2025-04-11\",\"2025-04-11\",\"2025-04-17\",\"2025-04-17\",\"2025-04-17\",\"2025-04-18\",\"2025-04-18\",\"2025-04-18\",\"2025-04-21\",\"2025-04-21\",\"2025-04-21\",\"2025-04-24\",\"2025-04-25\",\"2025-04-24\",\"2025-04-25\",\"2025-04-25\",\"2025-04-25\",\"2025-04-25\",\"2025-04-26\",\"2025-04-26\",\"2025-04-26\",\"2025-05-01\",\"2025-05-04\",\"2025-05-01\",\"2025-05-02\",\"2025-05-03\",\"2025-05-04\",\"2025-05-05\",\"2025-05-09\",\"2025-05-05\",\"2025-05-06\",\"2025-05-07\",\"2025-05-08\",\"2025-05-09\",\"2025-05-05\",\"2025-05-05\",\"2025-05-05\",\"2025-05-08\",\"2025-05-09\",\"2025-05-08\",\"2025-05-09\",\"2025-05-08\",\"2025-05-08\",\"2025-05-08\",\"2025-05-11\",\"2025-05-17\",\"2025-05-11\",\"2025-05-12\",\"2025-05-13\",\"2025-05-14\",\"2025-05-15\",\"2025-05-16\",\"2025-05-17\",\"2025-05-16\",\"2025-05-16\",\"2025-05-16\",\"2025-05-19\",\"2025-05-20\",\"2025-05-19\",\"2025-05-20\",\"2025-05-23\",\"2025-05-23\",\"2025-05-23\",\"2025-05-29\",\"2025-05-29\",\"2025-05-29\",\"2025-06-06\",\"2025-06-06\",\"2025-06-06\",\"2025-06-09\",\"2025-06-09\",\"2025-06-09\",\"2025-06-12\",\"2025-06-14\",\"2025-06-12\",\"2025-06-13\",\"2025-06-14\",\"2025-06-16\",\"2025-06-16\",\"2025-06-16\",\"2025-06-20\",\"2025-06-20\",\"2025-06-20\",\"2025-06-26\",\"2025-06-27\",\"2025-06-26\",\"2025-06-27\",\"2025-06-26\",\"2025-06-26\",\"2025-06-26\",\"2025-06-27\",\"2025-06-28\",\"2025-06-27\",\"2025-06-28\",\"2025-07-08\",\"2025-07-11\",\"2025-07-11\",\"2025-07-11\",\"2025-07-15\",\"2025-07-15\",\"2025-07-15\",\"2025-07-17\",\"2025-07-18\",\"2025-07-18\",\"2025-07-18\",\"2025-07-18\",\"2025-07-21\",\"2025-07-25\",\"2025-07-21\",\"2025-07-22\",\"2025-07-23\",\"2025-07-24\",\"2025-07-25\",\"2025-07-21\",\"2025-07-25\",\"2025-07-21\",\"2025-07-22\",\"2025-07-23\",\"2025-07-24\",\"2025-07-25\",\"2025-07-22\",\"2025-07-22\",\"2025-07-23\",\"2025-07-25\",\"2025-07-28\",\"2025-07-29\",\"2025-07-28\",\"2025-07-29\",\"2025-07-30\",\"2025-07-30\",\"2025-07-30\",\"2025-07-31\",\"2025-07-31\",\"2025-07-31\",\"2025-08-01\",\"2025-08-01\",\"2025-08-01\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-07\",\"2025-08-08\",\"2025-08-07\",\"2025-08-08\",\"2025-08-11\",\"2025-08-14\",\"2025-08-11\",\"2025-08-12\",\"2025-08-13\",\"2025-08-14\",\"2025-08-13\",\"2025-08-13\",\"2025-08-13\",\"2025-08-18\",\"2025-08-19\",\"2025-08-18\",\"2025-08-19\",\"2025-08-18\",\"2025-08-23\",\"2025-08-18\",\"2025-08-19\",\"2025-08-20\",\"2025-08-21\",\"2025-08-22\",\"2025-08-23\",\"2025-08-21\",\"2025-08-22\",\"2025-08-21\",\"2025-08-22\",\"2025-08-21\",\"2025-08-21\",\"2025-08-21\",\"2025-08-21\",\"2025-08-24\",\"2025-08-21\",\"2025-08-22\",\"2025-08-23\",\"2025-08-24\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-26\",\"2025-08-26\",\"2025-08-26\",\"2025-08-29\",\"2025-09-02\",\"2025-09-04\",\"2025-09-02\",\"2025-09-03\",\"2025-09-04\",\"2025-09-04\",\"2025-09-04\",\"2025-09-04\",\"2025-09-08\",\"2025-09-10\",\"2025-09-08\",\"2025-09-09\",\"2025-09-10\",\"2025-09-09\",\"2025-09-09\",\"2025-09-09\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-15\",\"2025-09-15\",\"2025-09-15\",\"2025-09-15\",\"2025-09-20\",\"2025-09-15\",\"2025-09-16\",\"2025-09-17\",\"2025-09-18\",\"2025-09-19\",\"2025-09-20\",\"2025-09-16\",\"2025-09-16\",\"2025-09-16\",\"2025-09-18\",\"2025-09-18\",\"2025-09-18\",\"2025-09-22\",\"2025-09-23\",\"2025-09-22\",\"2025-09-23\",\"2025-10-01\",\"2025-10-31\",\"2025-10-01\",\"2025-10-02\",\"2025-10-03\",\"2025-10-04\",\"2025-10-05\",\"2025-10-06\",\"2025-10-07\",\"2025-10-08\",\"2025-10-09\",\"2025-10-10\",\"2025-10-11\",\"2025-10-12\",\"2025-10-13\",\"2025-10-14\",\"2025-10-15\",\"2025-10-16\",\"2025-10-17\",\"2025-10-18\",\"2025-10-19\",\"2025-10-20\",\"2025-10-21\",\"2025-10-22\",\"2025-10-23\",\"2025-10-24\",\"2025-10-25\",\"2025-10-26\",\"2025-10-27\",\"2025-10-28\",\"2025-10-29\",\"2025-10-30\",\"2025-10-31\",\"2025-10-03\",\"2025-10-03\",\"2025-10-03\",\"2025-10-06\",\"2025-10-08\",\"2025-10-06\",\"2025-10-07\",\"2025-10-08\",\"2025-10-07\",\"2025-10-09\",\"2025-10-07\",\"2025-10-08\",\"2025-10-09\",\"2025-10-08\",\"2025-10-11\",\"2025-10-08\",\"2025-10-09\",\"2025-10-10\",\"2025-10-11\",\"2025-10-09\",\"2025-10-09\",\"2025-10-09\",\"2025-10-10\",\"2025-10-10\",\"2025-10-10\",\"2025-10-11\",\"2025-10-11\",\"2025-10-11\",\"2025-10-13\",\"2025-10-15\",\"2025-10-13\",\"2025-10-14\",\"2025-10-15\",\"2025-10-13\",\"2025-10-14\",\"2025-10-13\",\"2025-10-14\",\"2025-10-17\",\"2025-10-17\",\"2025-10-17\",\"2025-10-27\",\"2025-11-02\",\"2025-10-27\",\"2025-10-28\",\"2025-10-29\",\"2025-10-30\",\"2025-10-31\",\"2025-11-01\",\"2025-11-02\",\"2025-10-30\",\"2025-10-30\",\"2025-10-30\",\"2025-10-30\",\"2025-10-31\",\"2025-10-30\",\"2025-10-31\",\"2025-10-31\",\"2025-10-31\",\"2025-10-31\",\"2025-11-03\",\"2025-11-05\",\"2025-11-03\",\"2025-11-04\",\"2025-11-05\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-05\",\"2025-11-07\",\"2025-11-05\",\"2025-11-06\",\"2025-11-07\",\"2025-11-06\",\"2025-11-07\",\"2025-11-06\",\"2025-11-07\",\"2025-11-10\",\"2025-11-15\",\"2025-11-10\",\"2025-11-11\",\"2025-11-12\",\"2025-11-13\",\"2025-11-14\",\"2025-11-15\",\"2025-11-13\",\"2025-11-14\",\"2025-11-13\",\"2025-11-14\",\"2025-11-14\",\"2025-11-27\",\"2025-11-14\",\"2025-11-15\",\"2025-11-16\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-22\",\"2025-11-23\",\"2025-11-24\",\"2025-11-25\",\"2025-11-26\",\"2025-11-27\",\"2025-11-17\",\"2025-11-21\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-17\",\"2025-11-19\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-19\",\"2025-11-21\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-24\",\"2025-11-26\",\"2025-11-24\",\"2025-11-25\",\"2025-11-26\",\"2025-11-26\",\"2025-11-27\",\"2025-11-26\",\"2025-11-27\",\"2025-11-27\",\"2025-11-28\",\"2025-11-27\",\"2025-11-28\",\"2025-11-28\",\"2025-12-01\",\"2025-12-02\",\"2025-12-01\",\"2025-12-02\",\"2025-12-01\",\"2025-12-03\",\"2025-12-01\",\"2025-12-02\",\"2025-12-03\",\"2025-12-03\",\"2025-12-05\",\"2025-12-03\",\"2025-12-04\",\"2025-12-05\",\"2025-12-03\",\"2025-12-03\",\"2025-12-03\",\"2025-12-10\",\"2025-12-10\",\"2025-12-10\",\"2025-12-11\",\"2025-12-12\",\"2025-12-11\",\"2025-12-12\",\"2025-12-11\",\"2025-12-11\",\"2025-12-11\",\"2025-12-12\",\"2025-12-12\",\"2025-12-12\",\"2025-12-15\",\"2025-12-16\",\"2025-12-15\",\"2025-12-16\",\"2025-12-16\",\"2025-12-16\",\"2025-12-16\",\"2025-12-17\",\"2025-12-17\",\"2025-12-17\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-22\",\"2025-12-22\",\"2025-12-22\",\"2025-12-23\",\"2025-12-23\",\"2025-12-23\",\"2026-01-02\",\"2026-01-02\",\"2026-01-02\",\"2026-01-05\",\"2026-01-05\",\"2026-01-05\",\"2026-01-06\",\"2026-01-06\",\"2026-01-06\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-08\",\"2026-01-08\",\"2026-01-08\",\"2026-01-09\",\"2026-01-09\",\"2026-01-09\",\"2026-01-10\",\"2026-01-10\",\"2026-01-10\",\"2026-01-12\",\"2026-01-15\",\"2026-01-12\",\"2026-01-13\",\"2026-01-14\",\"2026-01-15\",\"2026-01-12\",\"2026-01-12\",\"2026-01-12\",\"2026-01-15\",\"2026-01-15\",\"2026-01-15\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-18\",\"2026-01-20\",\"2026-01-18\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-19\",\"2026-01-19\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-20\",\"2026-01-21\",\"2026-01-20\",\"2026-01-21\",\"2026-01-20\",\"2026-01-20\",\"2026-01-20\",\"2026-01-21\",\"2026-01-21\",\"2026-01-21\",\"2026-01-22\",\"2026-01-22\",\"2026-01-22\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-26\",\"2026-01-31\",\"2026-01-26\",\"2026-01-27\",\"2026-01-28\",\"2026-01-29\",\"2026-01-30\",\"2026-01-31\",\"2026-01-27\",\"2026-01-27\",\"2026-01-27\",\"2026-01-29\",\"2026-01-30\",\"2026-01-29\",\"2026-01-30\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-02-01\",\"2026-02-15\",\"2026-02-01\",\"2026-02-02\",\"2026-02-03\",\"2026-02-04\",\"2026-02-05\",\"2026-02-06\",\"2026-02-07\",\"2026-02-08\",\"2026-02-09\",\"2026-02-10\",\"2026-02-11\",\"2026-02-12\",\"2026-02-13\",\"2026-02-14\",\"2026-02-15\",\"2026-02-02\",\"2026-02-02\",\"2026-02-02\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-09\",\"2026-02-09\",\"2026-02-09\",\"2026-02-16\",\"2026-02-20\",\"2026-02-16\",\"2026-02-17\",\"2026-02-18\",\"2026-02-19\",\"2026-02-20\"]; var ecs_upcoming_event_date = [\"2026-02-05\"]; //# sourceURL=jquery-ui-datepicker-js-extra /* ]]> */ /* <![CDATA[ */ jQuery(document).ready(function($) { var eventDates = ecs_event_dates; var upcoming_event_date = ecs_upcoming_event_date[0]; $('#event-calendar').datepicker({ dateFormat: 'yy-mm-dd', defaultDate: upcoming_event_date, beforeShowDay: function(date) { var dateString = $.datepicker.formatDate('yy-mm-dd', date); if (eventDates.indexOf(dateString) !== -1) { return [true, '']; } else { return [false, '']; } }, firstDay: 1, dayNames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'], dayNamesMin: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'], onSelect: function(dateText) { var selectedDate = new Date(dateText); updateCalendarInfo(selectedDate); loadEvents(dateText); } }).datepicker('setDate', upcoming_event_date); function updateCalendarInfo(date) { // Helper function to get the suffix for the day (st, nd, rd, th) function getDayWithSuffix(day) { if (day > 3 && day < 21) return day + 'th'; // Handle 11th to 19th as 'th' switch (day % 10) { case 1: return day + 'st'; case 2: return day + 'nd'; case 3: return day + 'rd'; default: return day + 'th'; } } // Get the day with suffix var dayWithSuffix = getDayWithSuffix(date.getDate()); var month = $.datepicker.formatDate('M', date); var year = date.getFullYear(); // Get the full year // Combine everything into the desired format var formattedDate = dayWithSuffix + ' ' + month + ', ' + year; // Update the formattedDateForDatePicker if needed in the 'yy-mm-dd' format var formattedDateForDatePicker = $.datepicker.formatDate('yy-mm-dd', date); // Update the UI elements $('#calendar-date').text(formattedDate); // Update the date display $('#year-dropdown').val(year); // Update year dropdown $('#event-calendar').datepicker('setDate', formattedDateForDatePicker); // Set the datepicker's selected date } function loadEvents(dateText) { $.ajax({ url: 'https://negd.gov.in/wp-admin/admin-ajax.php', type: 'POST', data: { action: 'ecs_load_events_by_date', date: dateText }, success: function(response) { if (response.success) { $('.event-calendar-container .slide-counter-wrapper').show(); if($('#upcoming-events .swiper-initialized').length > 0){ swiperEventSlider.destroy(); } $('#upcoming-events').html(response.data); swiperEventSlider = new Swiper('.events-swiper', { effect: 'slide', grabCursor: false, centeredSlides: true, slidesPerView: 1, loop: true, pagination: { el: '.swiper-pagination', clickable: true }, navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev', }, on: { init: function () { document.querySelector('.event-calendar-container .total-slides').textContent = this.slides.length; document.querySelector('.event-calendar-container .current-slide').textContent = this.realIndex + 1; }, slideChange: function () { document.querySelector('.event-calendar-container .current-slide').textContent = this.realIndex + 1; } } }); swiperEventSlider.slideToLoop(0); $('[data-bs-toggle=tooltip]').tooltip(); } else { $('#upcoming-events').html('<p>No events found.</p>'); $('.event-calendar-container .slide-counter-wrapper').hide(); } }, error: function(xhr, status, error) { console.error('AJAX error:', status, error); } }); } // Month navigation functionality $('#prev-year').click(function() { var date = $('#event-calendar').datepicker('getDate'); date.setMonth(date.getMonth() - 1); // Go to the previous month $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); $('#next-year').click(function() { var date = $('#event-calendar').datepicker('getDate'); date.setMonth(date.getMonth() + 1); // Go to the next month $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); $('#year-dropdown').change(function() { var selectedYear = $(this).val(); $('#event-calendar').datepicker('option', 'yearRange', selectedYear + ':' + (parseInt(selectedYear) + 1)); var date = $('#event-calendar').datepicker('getDate'); date.setFullYear(selectedYear); // Set the selected year to the date $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); }); jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"MM d, yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ var ajax_filter_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"f5b6857880\"}; //# sourceURL=ajax-filter-js-extra /* ]]> */ /* <![CDATA[ */ var ajax_team_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"fb212dc30f\"}; //# sourceURL=ajax-team-pagination-js-extra /* ]]> */ /* <![CDATA[ */ var ajax_photos_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"060a275505\"}; //# sourceURL=ajax-photos-pagination-js-extra /* ]]> */ /* <![CDATA[ */ document.addEventListener('DOMContentLoaded', function () { const viewAllLink = document.getElementById('negdMediaViewAllLink'); const tabs = document.querySelectorAll('#negd-media-front .nav-link'); function updateViewAllUrl() { const activeTab = document.querySelector('.nav-link.active'); if (activeTab && activeTab.dataset.allUrl) { viewAllLink.href = activeTab.dataset.allUrl; } } tabs.forEach(tab => { tab.addEventListener('shown.bs.tab', updateViewAllUrl); }); updateViewAllUrl(); }); //# sourceURL=negd-media-inline-script-js-after /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://negd-media.digitalindiacorporation.in/wp-includes/js/wp-emoji-release.min.js.gzip?ver=6.9\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://negd-media.digitalindiacorporation.in/wp-includes/js/wp-emoji-loader.min.js /* ]]> */"
+  },
+  {
+    "url": "https://negd.gov.in/hi/press-release/",
+    "heading": "प्रेस विज्ञप्ति",
+    "subheading": null,
+    "date": "Government of India Skip to Main Content Screen Reader हिन्दी हिन्दी English // need to have the same with set from JS on both divs. Otherwise it can push stuff around in HTML var trp_ls_shortcodes = document.querySelectorAll('.trp_language_switcher_shortcode .trp-language-switcher'); if ( trp_ls_shortcodes.length > 0) { // get the last language switcher added var trp_el = trp_ls_shortcodes[trp_ls_shortcodes.length - 1]; var trp_shortcode_language_item = trp_el.querySelector( '.trp-ls-shortcode-language' ) // set width var trp_ls_shortcode_width = trp_shortcode_language_item.offsetWidth + 16; trp_shortcode_language_item.style.width = trp_ls_shortcode_width + 'px'; trp_el.querySelector( '.trp-ls-shortcode-current-language' ).style.width = trp_ls_shortcode_width + 'px'; // We're putting this on display: none after we have its width. trp_shortcode_language_item.style.display = 'none'; } हमारे बारे में एन.ई.जी.डी. के बारे में परिचय परियोजनाएं डिजिलॉकर एंटिटी लॉकर उमंग ओपनफोर्ज माय स्कीम मेरी पहचान (एन.एस.एस.ओ.) ए.पी.आई. सेतु इंडिया स्टैक ग्लोबल India Stack Local यू.एक्स.4जी. एन.ई.जी.डी. डैशबोर्ड प्रभाग जागरूकता और संचार केपॅसिटी बिल्डिंग प्रौद्योगिकी प्रबंधन कार्यक्रम प्रबंधन वित्त मानव संसाधन प्रशिक्षण कार्यक्रम Learning Resources Articles Case Studies मीडिया आयोजन फोटो वीडियो प्रेस विज्ञप्ति Digiपहल अधिसूचना सर्कुलर वेंडर पेमेंट स्टेटस निविदा सूचना रिक्तियाँ एन.ई.जी.डी. द्वारा पैनलबद्धता jQuery(document).on(\"click\", \".htv-r-search img\", function() { jQuery(\".search-form\").toggleClass(\"active\"); }); jQuery(document).on(\"click\", \".trp-language-switcher\", function() { jQuery(\".trp-language-switcher .trp-ls-shortcode-language\").toggle(); }); प्रेस विज्ञप्ति SAMRIDH Programme Provides Financial Support to 373 Startups through Selected Accelerators Posted on: February 4, 2026 The Startup Accelerator of MeitY for Product Innovation, Development, and Growth (SAMRIDH) programme, aims to accelerate around 300 Startups through existing and upcoming Accelerators in Health-tech, Ed-tech, Agri-tech, Consumer-tech, Fin-tech, Software as a Service (SaaS), and sustainability. Under the SAMRIDH programme, 186 accelerators submitted Expressions of Interest, leading to the selection of 43 top accelerators across 16 states. (State-wise details provided at Annexure-I) पी.डी.एफ. डाउनलोड करें Semicon India Programme Advances with Approval of 10 Projects; IT Sector Revenue Rises to USD 283 Billion Posted on: February 4, 2026 The semiconductor development strategy is inspired by Prime Minister’s vision of Atmanirbhar Bharat and Make in India, Make for the world. As part of this strategy, India aims to develop a complete ecosystem, ranging from design, fabrication, assembly, testing, packaging and module manufacturing. पी.डी.एफ. डाउनलोड करें Over 2.5 Crore Aadhaar Numbers of Deceased Persons Deactivated to Prevent Identity Fraud Posted on: February 4, 2026 As part of a nationwide clean-up effort to maintain the continued accuracy and integrity of the Aadhaar database, Unique Identification Authority of India (UIDAI) has deactivated more than 2.5 crore Aadhaar numbers of deceased persons till date. पी.डी.एफ. डाउनलोड करें Expo – A Platform for Scaling AI from Prototypes to Real-World Solutions Posted on: February 3, 2026 Registrations are currently on for the India AI Impact Expo 2026, a premier platform under India AI Impact Summit 2026 for scaling AI prototypes into deployable real-world solutions. पी.डी.एफ. डाउनलोड करें India AI Impact Summit 2026: 35,000+ Registrations so far; 100+ Countries, 500+ Startups to engage across 500 Sessions Posted on: February 2, 2026 The India AI Impact Summit, scheduled to be held in New Delhi from February 16-20, 2026, is anticipated to be the largest of the four global AI summits hosted to date, reflecting the growing international momentum around responsible, inclusive and impact-driven Artificial Intelligence. पी.डी.एफ. डाउनलोड करें MeitY signs Administrative Arrangement on Advanced Electronic Signatures and Seals with DG CONNECT of European Commission Posted on: February 2, 2026 The Ministry of Electronics and Information Technology (MeitY), Government of India, and the Directorate-General for Communication Networks, Content and Technology (DG CONNECT) of the European Commission have signed an Administrative Arrangement on Advanced Electronic Signatures and Seals on 27 January 2026. पी.डी.एफ. डाउनलोड करें Budget 2026-27 announces the launch of India Semiconductor Mission (ISM) 2.0 Posted on: February 1, 2026 Union Finance Minister Smt. Nirmala Sitharaman today presented the Union Budget for the Financial Year (FY) 2026-27. The announcements also included significant measures for accelerating the growth of India’s Electronics and Information Technology Sector. पी.डी.एफ. डाउनलोड करें Budget 2026-27 lays strong foundation for AI Data Centres and Semiconductor Ecosystem Posted on: February 1, 2026 Union Finance Minister Smt. Nirmala Sitharaman today presented the Union Budget for the Financial Year (FY) 2026-27. The Budget includes several key measures aimed at accelerating growth in the Electronics, Information Technology and Artificial Intelligence ecosystem, the Union Minister for Electronics and Information Technology, Railways and Information & Broadcasting, Shri Ashwini Vaishnaw, said while addressing the media. पी.डी.एफ. डाउनलोड करें India AI Impact Summit Receives Phenomenal Global Response, India’s AI Ecosystem Developing in a Systematic Manner: Union Minister Ashwini Vaishnaw Posted on: January 30, 2026 The Ministry of Electronics and Information Technology (MeitY), Government of India, today held a high-level press conference ahead of the India AI Impact Summit 2026, chaired by Shri Ashwini Vaishnaw, Minister for Electronics & Information Technology. The event was also attended by Shri Jitin Prasada, Minister of State for Electronics & IT; Shri Ajay Sood, Principal Scientific Adviser to the Government of India and other senior MeitY officials. The press conference outlined key developments, confirmed global participation, and previewed the India AI Impact Summit’s anticipated outcomes as India prepares to host the first-ever global AI summit in the Global South from February 16–20, 2026, at Bharat Mandapam, New Delhi. पी.डी.एफ. डाउनलोड करें New Aadhaar App dedicated to the nation Posted on: January 28, 2026 Minister of State for Commerce and Industry and Electronics & Information Technology Sh Jitin Prasada today dedicated the new Aadhaar App to the nation, marking a significant milestone in identity verification keeping people at its core. पी.डी.एफ. डाउनलोड करें BISAG-N and QNu Labs Sign MoU for collaboration and technology transfer to Strengthen India’s Quantum-Resilient Cybersecurity Capabilities Posted on: January 28, 2026 The Bhaskaracharya National Institute for Space Applications and Geo-informatics (BISAG-N), under the Ministry of Electronics and Information Technology (MeitY), today signed a Memorandum of Understanding (MoU) with QNu Labs Pvt. Ltd. to collaborate in the area of quantum-resilient cybersecurity solutions. पी.डी.एफ. डाउनलोड करें Union Minister Shri Ashwini Vaishnaw interacts with Semiconductor Chip Design Companies approved under the DLI Scheme Posted on: January 27, 2026 Union Minister for Electronics and Information Technology Shri Ashwini Vaishnaw, interacted with semiconductor chip design companies approved under the Design Linked Incentive (DLI) Scheme of the Semicon India Programme in New Delhi today. The interaction focused on reviewing progress, understanding design innovations, and reinforcing the Government’s commitment to building a robust, indigenous semiconductor design ecosystem. The DLI Scheme aims to accelerate domestic chip design capabilities by supporting startups and companies across areas such as SoCs, telecom, power management, AI, and IoT, thereby strengthening India’s self-reliance in critical semiconductor technologies. पी.डी.एफ. डाउनलोड करें पुरालेख प्रेस विज्ञप्ति Last updated: 05-02-2026 एन.ई.जी.डी. एन.ई.जी.डी. के बारे में परियोजनाएं परिचय महत्वपूर्ण लिंक निविदा सूचना रिक्तियाँ एफ.ए.क्यू. हेल्प फीडबैक उपयोगी लिंक सूचना का अधिकार शिकायतें Terms & Conditions संचालित संपर्क करें राष्ट्रीय ई-गवर्नेंस प्रभाग चौथी मंजिल, इलेक्ट्रॉनिक्स निकेतन, 6, सी.जी.ओ. कॉम्प्लेक्स, लोधी रोड़, नई दिल्ली - 110003 awareness@digitalindia.gov.in © 2024 - कॉपीराइट एन.ई.जी.डी. सभी अधिकार सुरक्षित | भारत सरकार द्वारा संचालित एन.ई.जी.डी.| डी.आई.सी. | MeitY नियम एवं शर्तें प्राइवसी पॉलिसी Accessibility options by UX4G Text To Speech Bigger Text Small Text Line Height Highlight Links Text Spacing Dyslexia Friendly Hide Images Cursor Light-Dark Invert Colors Reset All Settings Created by Accessibility Options document.getElementById('uw-widget-custom-trigger2').addEventListener('click', function() { openMain(); }); var home_url = 'https://negd.gov.in/hi'; var getTemplateUrl = 'https://negd.gov.in/wp-content/themes/negd-update'; jQuery(document).ready(function($){ $(document).on('input', '.feedback-form input[name=\"your-name\"]', function() { var inputValue = $(this).val(); var filteredValue = inputValue.replace(/[^a-zA-Z]/g, ''); $(this).val(filteredValue); }); $(document).on('input', '.feedback-form textarea, #comment', function() { var inputValue = $(this).val(); var filteredValue = inputValue.replace(/[^a-zA-Z0-9 .]/g, ''); $(this).val(filteredValue); }); $('[data-bs-toggle=\"tooltip\"]').tooltip(); }); jQuery(document).ready(function(){ jQuery('#svg-map-state').on('change', function(e){ jQuery('.india_states').css('fill','#5585BF'); var selectedText = jQuery(this).find(\":selected\").text(); var getStateValue = jQuery(this).val(); getStateValue = getStateValue.replace(/-/gi, \"_\"); var getStateId = 'india_state_map_'+getStateValue; jQuery('.india_states').css('fill','#5585BF'); jQuery('#'+getStateId).css('fill','#00316D'); jQuery('#statePolicyList ul').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">Loading...</div>'); console.log(selectedText, getStateValue); var data = { action: 'state_project_action', state_slug: getStateValue }; // var data = {state_slug:getStateValue}; // var ajaxurl = getTemplateUrl+'/getStateDetails.php'; var ajaxurl = \"https://negd.gov.in/wp-admin/admin-ajax.php\"; jQuery('#statepolicy-state-name').html(selectedText); console.log(ajaxurl); jQuery.ajax({ type: 'POST', url : ajaxurl, data : data, success: function(response){ // console.log(response); // console.log(response.data); var getArrayResult = response.data.data; console.log(getArrayResult, 'responsoe data'); if(getArrayResult.length != 0){ var resultPolicyState = ''; getArrayResult.forEach(function(item){ // resultPolicyState += `<li> // <a href=\"${item.pdf_link}\"> // ${item.title} // </a> // </li>`; resultPolicyState = `${item.content}`; console.log(item); }); jQuery('#statePolicyList').html(resultPolicyState); }else{ jQuery('#statePolicyList').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">State Projects are getting uploaded. Please visit later.</div>'); } } }); }); }); function stateMapEvent(state){ var getStateValue = state.replace(/_/gi, \"-\"); var stateHeading = state.replace(/_/gi, \" \"); jQuery('#svg-map-state').val(\"\"); state = state.replace(/-/gi, \"_\"); var getStateId = 'india_state_map_'+state; jQuery('.india_states').css('fill','#5585BF'); jQuery('#'+getStateId).css('fill','#00316D'); console.log(state, getStateId, 'State Name'); // console.log(getStateValue, 'State ID'); // console.log(stateHeading, 'State Heading'); jQuery('#statePolicyList ul').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">Loading...</div>'); var data = { action: 'state_project_action', state_slug: getStateValue }; var ajaxurl = \"https://negd.gov.in/wp-admin/admin-ajax.php\"; // var data = {state_slug:getStateValue}; // var ajaxurl = getTemplateUrl+'/getStateDetails.php'; jQuery('#statepolicy-state-name').html(stateHeading); console.log(ajaxurl); jQuery.ajax({ type: 'POST', url : ajaxurl, data : data, success: function(response){ // console.log(response); // console.log(response.data); var getArrayResult = response.data.data; console.log(getArrayResult, 'responsoe data'); if(getArrayResult.length != 0){ var resultPolicyState = ''; getArrayResult.forEach(function(item){ // resultPolicyState += `<li> // <a href=\"${item.pdf_link}\"> // ${item.title} // </a> // </li>`; resultPolicyState = `${item.content}`; console.log(item); }); var static_d_state = `<div class=\"semt_h_dashboard_m\"><div><h2>SeMT Headcount Dashboard</h2></div><div class=\"semt_h_dashboard_btn\"><a href=\"https://mail.mgovcloud.in/zm/reUrlCheck.do?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZjJkYjEyMWEtZjQ1Ny00MTE4LTg0MjktOTFjNTExM2U2ZTBiIiwidCI6IjliZDllNTJjLWU1MGItNDUzYS04MzA0LTczMjY4NWM4Y2NlOSJ9&uvd=0801129c02fbe9aa8958ddc932ff3f3b150000fd9dd8a0017742ff2c7f775f810524d6dd8fa9a69db0cc9d5a0db423590e7cbb825ad61889cd06924a95f7c585676a20398a4eed7eb5693bc45e6865eecfbd01534c997bde03110a47777fb05e1749615f7424112b4e21c19d372961e588ce5953bc124d4872496ad167f7532f01683f032e04ea02682bc840cbf86c84e1c9596bdcadcbb20aa29825b95daebce64ff8fb6e5114a5cf11c18019f420382ed5872985e5f5c30cf3322ef782758f37b3ad5ff94ebf312b71ae5e42dfaa5fa70c7b105782033f9be11ea6bd93c2436dd4a867897a46a618d50da871c9bbe9975807319ccd9274435b36065b8d4985b2286d572c6d9220de9aa117e9ae1cb509437c45e49f4715784ed29c17005c4868\" target=\"_blank\">SeMT Dashboard - ${stateHeading.toUpperCase()}</a></div></div>`; jQuery('#statePolicyList').html(static_d_state); // jQuery('#statePolicyList').html(resultPolicyState); }else{ var static_d_state = `<div class=\"semt_h_dashboard_m\"><div><h2>SeMT Headcount Dashboard</h2></div><div class=\"semt_h_dashboard_btn\"><a href=\"https://mail.mgovcloud.in/zm/reUrlCheck.do?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZjJkYjEyMWEtZjQ1Ny00MTE4LTg0MjktOTFjNTExM2U2ZTBiIiwidCI6IjliZDllNTJjLWU1MGItNDUzYS04MzA0LTczMjY4NWM4Y2NlOSJ9&uvd=0801129c02fbe9aa8958ddc932ff3f3b150000fd9dd8a0017742ff2c7f775f810524d6dd8fa9a69db0cc9d5a0db423590e7cbb825ad61889cd06924a95f7c585676a20398a4eed7eb5693bc45e6865eecfbd01534c997bde03110a47777fb05e1749615f7424112b4e21c19d372961e588ce5953bc124d4872496ad167f7532f01683f032e04ea02682bc840cbf86c84e1c9596bdcadcbb20aa29825b95daebce64ff8fb6e5114a5cf11c18019f420382ed5872985e5f5c30cf3322ef782758f37b3ad5ff94ebf312b71ae5e42dfaa5fa70c7b105782033f9be11ea6bd93c2436dd4a867897a46a618d50da871c9bbe9975807319ccd9274435b36065b8d4985b2286d572c6d9220de9aa117e9ae1cb509437c45e49f4715784ed29c17005c4868\" target=\"_blank\">SeMT Dashboard - ${stateHeading.toUpperCase()}</a></div></div>`; jQuery('#statePolicyList').html(static_d_state); // jQuery('#statePolicyList').html('<div style=\"font-family: Noto Sans ; font-weight: 600; \">State Projects are getting uploaded. Please visit later.</div>'); } } }); } stateMapEvent('haryana'); function externalLinks() { for (var c = document.getElementsByTagName(\"a\"), a = 0; a < c.length; a++) { var b = c[a]; b.getAttribute(\"href\") && b.hostname !== location.hostname && (b.target = \"_blank\") } }; externalLinks(); jQuery('a').filter(function() { // Exclude the specified URLs var excludedHostnames = [\"uatnegd.digitalindiacorporation.in\"]; var currentHostname = this.hostname || location.hostname; return currentHostname !== location.hostname && excludedHostnames.indexOf(currentHostname) === -1; }).not('a[href=\"https://uatnegd.digitalindiacorporation.in/\"]').click(function(e) { if (!confirm( \"You are being redirected to an external website. Please note that NeGD Website cannot be held responsible for external websites' content & privacy policies.\" )) { // If the user clicks 'no', then don't proceed to the link. e.preventDefault(); } }); ⇧ const backToTop = document.querySelector('.back-to-top'); window.addEventListener('scroll', () => { if (window.scrollY > 300) { backToTop.style.display = 'block'; } else { backToTop.style.display = 'none'; } }); backToTop.addEventListener('click', (e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }); {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/hi/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"https://negd-media.digitalindiacorporation.in/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/negd-update/*\",\"/hi/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ var trp_data = {\"trp_custom_ajax_url\":\"https://negd.gov.in/wp-content/plugins/translatepress-multilingual/includes/trp-ajax.php\",\"trp_wp_ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"trp_language_to_query\":\"hi_IN\",\"trp_original_language\":\"en_US\",\"trp_current_language\":\"hi_IN\",\"trp_skip_selectors\":[\"[data-no-translation]\",\"[data-no-dynamic-translation]\",\"[data-trp-translate-id-innertext]\",\"script\",\"style\",\"head\",\"trp-span\",\"translate-press\",\"[data-trp-translate-id]\",\"[data-trpgettextoriginal]\",\"[data-trp-post-slug]\"],\"trp_base_selectors\":[\"data-trp-translate-id\",\"data-trpgettextoriginal\",\"data-trp-post-slug\"],\"trp_attributes_selectors\":{\"text\":{\"accessor\":\"outertext\",\"attribute\":false},\"block\":{\"accessor\":\"innertext\",\"attribute\":false},\"image_src\":{\"selector\":\"img[src]\",\"accessor\":\"src\",\"attribute\":true},\"submit\":{\"selector\":\"input[type='submit'],input[type='button'], input[type='reset']\",\"accessor\":\"value\",\"attribute\":true},\"placeholder\":{\"selector\":\"input[placeholder],textarea[placeholder]\",\"accessor\":\"placeholder\",\"attribute\":true},\"title\":{\"selector\":\"[title]\",\"accessor\":\"title\",\"attribute\":true},\"a_href\":{\"selector\":\"a[href]\",\"accessor\":\"href\",\"attribute\":true},\"button\":{\"accessor\":\"outertext\",\"attribute\":false},\"option\":{\"accessor\":\"innertext\",\"attribute\":false},\"aria_label\":{\"selector\":\"[aria-label]\",\"accessor\":\"aria-label\",\"attribute\":true},\"video_src\":{\"selector\":\"video[src]\",\"accessor\":\"src\",\"attribute\":true},\"video_poster\":{\"selector\":\"video[poster]\",\"accessor\":\"poster\",\"attribute\":true},\"video_source_src\":{\"selector\":\"video source[src]\",\"accessor\":\"src\",\"attribute\":true},\"audio_src\":{\"selector\":\"audio[src]\",\"accessor\":\"src\",\"attribute\":true},\"audio_source_src\":{\"selector\":\"audio source[src]\",\"accessor\":\"src\",\"attribute\":true},\"picture_image_src\":{\"selector\":\"picture image[src]\",\"accessor\":\"src\",\"attribute\":true},\"picture_source_srcset\":{\"selector\":\"picture source[srcset]\",\"accessor\":\"srcset\",\"attribute\":true}},\"trp_attributes_accessors\":[\"outertext\",\"innertext\",\"src\",\"value\",\"placeholder\",\"title\",\"href\",\"aria-label\",\"poster\",\"srcset\"],\"gettranslationsnonceregular\":\"2df40e839e\",\"showdynamiccontentbeforetranslation\":\"\",\"skip_strings_from_dynamic_translation\":[],\"skip_strings_from_dynamic_translation_for_substrings\":{\"href\":[\"amazon-adsystem\",\"googleads\",\"g.doubleclick\"]},\"duplicate_detections_allowed\":\"100\",\"trp_translate_numerals_opt\":\"no\",\"trp_no_auto_translation_selectors\":[\"[data-no-auto-translation]\"]}; //# sourceURL=trp-dynamic-translator-js-extra /* ]]> */ /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/negd.gov.in\\/hi\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" }, \"cached\": 1 }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var ecs_event_dates = [\"2018-08-08\",\"2022-07-01\",\"2022-07-09\",\"2022-07-01\",\"2022-07-02\",\"2022-07-03\",\"2022-07-04\",\"2022-07-05\",\"2022-07-06\",\"2022-07-07\",\"2022-07-08\",\"2022-07-09\",\"2023-04-12\",\"2023-08-21\",\"2023-09-18\",\"2023-10-10\",\"2024-10-01\",\"2024-11-06\",\"2024-11-12\",\"2024-11-18\",\"2024-11-30\",\"2025-01-25\",\"2024-11-30\",\"2024-12-01\",\"2024-12-02\",\"2024-12-03\",\"2024-12-04\",\"2024-12-05\",\"2024-12-06\",\"2024-12-07\",\"2024-12-08\",\"2024-12-09\",\"2024-12-10\",\"2024-12-11\",\"2024-12-12\",\"2024-12-13\",\"2024-12-14\",\"2024-12-15\",\"2024-12-16\",\"2024-12-17\",\"2024-12-18\",\"2024-12-19\",\"2024-12-20\",\"2024-12-21\",\"2024-12-22\",\"2024-12-23\",\"2024-12-24\",\"2024-12-25\",\"2024-12-26\",\"2024-12-27\",\"2024-12-28\",\"2024-12-29\",\"2024-12-30\",\"2024-12-31\",\"2025-01-01\",\"2025-01-02\",\"2025-01-03\",\"2025-01-04\",\"2025-01-05\",\"2025-01-06\",\"2025-01-07\",\"2025-01-08\",\"2025-01-09\",\"2025-01-10\",\"2025-01-11\",\"2025-01-12\",\"2025-01-13\",\"2025-01-14\",\"2025-01-15\",\"2025-01-16\",\"2025-01-17\",\"2025-01-18\",\"2025-01-19\",\"2025-01-20\",\"2025-01-21\",\"2025-01-22\",\"2025-01-23\",\"2025-01-24\",\"2025-01-25\",\"2025-01-03\",\"2025-01-03\",\"2025-01-03\",\"2025-01-08\",\"2025-01-10\",\"2025-01-08\",\"2025-01-09\",\"2025-01-10\",\"2025-01-09\",\"2025-01-10\",\"2025-01-09\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-10\",\"2025-01-15\",\"2025-01-15\",\"2025-01-15\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-16\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-17\",\"2025-01-20\",\"2025-01-24\",\"2025-01-20\",\"2025-01-21\",\"2025-01-22\",\"2025-01-23\",\"2025-01-24\",\"2025-01-21\",\"2025-01-21\",\"2025-01-21\",\"2025-01-22\",\"2025-01-22\",\"2025-01-22\",\"2025-01-23\",\"2025-01-23\",\"2025-01-23\",\"2025-01-24\",\"2025-01-24\",\"2025-01-24\",\"2025-01-26\",\"2025-01-31\",\"2025-01-26\",\"2025-01-27\",\"2025-01-28\",\"2025-01-29\",\"2025-01-30\",\"2025-01-31\",\"2025-01-28\",\"2025-01-28\",\"2025-01-28\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-01-30\",\"2025-02-02\",\"2025-02-02\",\"2025-02-02\",\"2025-02-07\",\"2025-02-07\",\"2025-02-07\",\"2025-02-10\",\"2025-02-11\",\"2025-02-10\",\"2025-02-11\",\"2025-02-11\",\"2025-02-11\",\"2025-02-11\",\"2025-02-13\",\"2025-02-13\",\"2025-02-13\",\"2025-02-14\",\"2025-02-14\",\"2025-02-14\",\"2025-02-14\",\"2025-02-17\",\"2025-02-14\",\"2025-02-15\",\"2025-02-16\",\"2025-02-17\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-18\",\"2025-02-19\",\"2025-02-19\",\"2025-02-19\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-20\",\"2025-02-21\",\"2025-02-21\",\"2025-02-21\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-27\",\"2025-02-28\",\"2025-02-28\",\"2025-02-28\",\"2025-03-03\",\"2025-03-03\",\"2025-03-03\",\"2025-03-03\",\"2025-03-08\",\"2025-03-03\",\"2025-03-04\",\"2025-03-05\",\"2025-03-06\",\"2025-03-07\",\"2025-03-08\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-04\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-06\",\"2025-03-07\",\"2025-03-07\",\"2025-03-07\",\"2025-03-10\",\"2025-03-10\",\"2025-03-10\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-11\",\"2025-03-19\",\"2025-03-21\",\"2025-03-19\",\"2025-03-20\",\"2025-03-21\",\"2025-03-21\",\"2025-03-21\",\"2025-03-21\",\"2025-03-22\",\"2025-03-24\",\"2025-03-22\",\"2025-03-23\",\"2025-03-24\",\"2025-03-27\",\"2025-03-27\",\"2025-03-27\",\"2025-04-02\",\"2025-04-04\",\"2025-04-02\",\"2025-04-03\",\"2025-04-04\",\"2025-04-04\",\"2025-04-04\",\"2025-04-04\",\"2025-04-08\",\"2025-04-08\",\"2025-04-08\",\"2025-04-11\",\"2025-04-11\",\"2025-04-11\",\"2025-04-17\",\"2025-04-17\",\"2025-04-17\",\"2025-04-18\",\"2025-04-18\",\"2025-04-18\",\"2025-04-21\",\"2025-04-21\",\"2025-04-21\",\"2025-04-24\",\"2025-04-25\",\"2025-04-24\",\"2025-04-25\",\"2025-04-25\",\"2025-04-25\",\"2025-04-25\",\"2025-04-26\",\"2025-04-26\",\"2025-04-26\",\"2025-05-01\",\"2025-05-04\",\"2025-05-01\",\"2025-05-02\",\"2025-05-03\",\"2025-05-04\",\"2025-05-05\",\"2025-05-09\",\"2025-05-05\",\"2025-05-06\",\"2025-05-07\",\"2025-05-08\",\"2025-05-09\",\"2025-05-05\",\"2025-05-05\",\"2025-05-05\",\"2025-05-08\",\"2025-05-09\",\"2025-05-08\",\"2025-05-09\",\"2025-05-08\",\"2025-05-08\",\"2025-05-08\",\"2025-05-11\",\"2025-05-17\",\"2025-05-11\",\"2025-05-12\",\"2025-05-13\",\"2025-05-14\",\"2025-05-15\",\"2025-05-16\",\"2025-05-17\",\"2025-05-16\",\"2025-05-16\",\"2025-05-16\",\"2025-05-19\",\"2025-05-20\",\"2025-05-19\",\"2025-05-20\",\"2025-05-23\",\"2025-05-23\",\"2025-05-23\",\"2025-05-29\",\"2025-05-29\",\"2025-05-29\",\"2025-06-06\",\"2025-06-06\",\"2025-06-06\",\"2025-06-09\",\"2025-06-09\",\"2025-06-09\",\"2025-06-12\",\"2025-06-14\",\"2025-06-12\",\"2025-06-13\",\"2025-06-14\",\"2025-06-16\",\"2025-06-16\",\"2025-06-16\",\"2025-06-20\",\"2025-06-20\",\"2025-06-20\",\"2025-06-26\",\"2025-06-27\",\"2025-06-26\",\"2025-06-27\",\"2025-06-26\",\"2025-06-26\",\"2025-06-26\",\"2025-06-27\",\"2025-06-28\",\"2025-06-27\",\"2025-06-28\",\"2025-07-08\",\"2025-07-11\",\"2025-07-11\",\"2025-07-11\",\"2025-07-15\",\"2025-07-15\",\"2025-07-15\",\"2025-07-17\",\"2025-07-18\",\"2025-07-18\",\"2025-07-18\",\"2025-07-18\",\"2025-07-21\",\"2025-07-25\",\"2025-07-21\",\"2025-07-22\",\"2025-07-23\",\"2025-07-24\",\"2025-07-25\",\"2025-07-21\",\"2025-07-25\",\"2025-07-21\",\"2025-07-22\",\"2025-07-23\",\"2025-07-24\",\"2025-07-25\",\"2025-07-22\",\"2025-07-22\",\"2025-07-23\",\"2025-07-25\",\"2025-07-28\",\"2025-07-29\",\"2025-07-28\",\"2025-07-29\",\"2025-07-30\",\"2025-07-30\",\"2025-07-30\",\"2025-07-31\",\"2025-07-31\",\"2025-07-31\",\"2025-08-01\",\"2025-08-01\",\"2025-08-01\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-05\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-06\",\"2025-08-07\",\"2025-08-08\",\"2025-08-07\",\"2025-08-08\",\"2025-08-11\",\"2025-08-14\",\"2025-08-11\",\"2025-08-12\",\"2025-08-13\",\"2025-08-14\",\"2025-08-13\",\"2025-08-13\",\"2025-08-13\",\"2025-08-18\",\"2025-08-19\",\"2025-08-18\",\"2025-08-19\",\"2025-08-18\",\"2025-08-23\",\"2025-08-18\",\"2025-08-19\",\"2025-08-20\",\"2025-08-21\",\"2025-08-22\",\"2025-08-23\",\"2025-08-21\",\"2025-08-22\",\"2025-08-21\",\"2025-08-22\",\"2025-08-21\",\"2025-08-21\",\"2025-08-21\",\"2025-08-21\",\"2025-08-24\",\"2025-08-21\",\"2025-08-22\",\"2025-08-23\",\"2025-08-24\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-22\",\"2025-08-26\",\"2025-08-26\",\"2025-08-26\",\"2025-08-29\",\"2025-09-02\",\"2025-09-04\",\"2025-09-02\",\"2025-09-03\",\"2025-09-04\",\"2025-09-04\",\"2025-09-04\",\"2025-09-04\",\"2025-09-08\",\"2025-09-10\",\"2025-09-08\",\"2025-09-09\",\"2025-09-10\",\"2025-09-09\",\"2025-09-09\",\"2025-09-09\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-12\",\"2025-09-15\",\"2025-09-15\",\"2025-09-15\",\"2025-09-15\",\"2025-09-20\",\"2025-09-15\",\"2025-09-16\",\"2025-09-17\",\"2025-09-18\",\"2025-09-19\",\"2025-09-20\",\"2025-09-16\",\"2025-09-16\",\"2025-09-16\",\"2025-09-18\",\"2025-09-18\",\"2025-09-18\",\"2025-09-22\",\"2025-09-23\",\"2025-09-22\",\"2025-09-23\",\"2025-10-01\",\"2025-10-31\",\"2025-10-01\",\"2025-10-02\",\"2025-10-03\",\"2025-10-04\",\"2025-10-05\",\"2025-10-06\",\"2025-10-07\",\"2025-10-08\",\"2025-10-09\",\"2025-10-10\",\"2025-10-11\",\"2025-10-12\",\"2025-10-13\",\"2025-10-14\",\"2025-10-15\",\"2025-10-16\",\"2025-10-17\",\"2025-10-18\",\"2025-10-19\",\"2025-10-20\",\"2025-10-21\",\"2025-10-22\",\"2025-10-23\",\"2025-10-24\",\"2025-10-25\",\"2025-10-26\",\"2025-10-27\",\"2025-10-28\",\"2025-10-29\",\"2025-10-30\",\"2025-10-31\",\"2025-10-03\",\"2025-10-03\",\"2025-10-03\",\"2025-10-06\",\"2025-10-08\",\"2025-10-06\",\"2025-10-07\",\"2025-10-08\",\"2025-10-07\",\"2025-10-09\",\"2025-10-07\",\"2025-10-08\",\"2025-10-09\",\"2025-10-08\",\"2025-10-11\",\"2025-10-08\",\"2025-10-09\",\"2025-10-10\",\"2025-10-11\",\"2025-10-09\",\"2025-10-09\",\"2025-10-09\",\"2025-10-10\",\"2025-10-10\",\"2025-10-10\",\"2025-10-11\",\"2025-10-11\",\"2025-10-11\",\"2025-10-13\",\"2025-10-15\",\"2025-10-13\",\"2025-10-14\",\"2025-10-15\",\"2025-10-13\",\"2025-10-14\",\"2025-10-13\",\"2025-10-14\",\"2025-10-17\",\"2025-10-17\",\"2025-10-17\",\"2025-10-27\",\"2025-11-02\",\"2025-10-27\",\"2025-10-28\",\"2025-10-29\",\"2025-10-30\",\"2025-10-31\",\"2025-11-01\",\"2025-11-02\",\"2025-10-30\",\"2025-10-30\",\"2025-10-30\",\"2025-10-30\",\"2025-10-31\",\"2025-10-30\",\"2025-10-31\",\"2025-10-31\",\"2025-10-31\",\"2025-10-31\",\"2025-11-03\",\"2025-11-05\",\"2025-11-03\",\"2025-11-04\",\"2025-11-05\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-04\",\"2025-11-05\",\"2025-11-07\",\"2025-11-05\",\"2025-11-06\",\"2025-11-07\",\"2025-11-06\",\"2025-11-07\",\"2025-11-06\",\"2025-11-07\",\"2025-11-10\",\"2025-11-15\",\"2025-11-10\",\"2025-11-11\",\"2025-11-12\",\"2025-11-13\",\"2025-11-14\",\"2025-11-15\",\"2025-11-13\",\"2025-11-14\",\"2025-11-13\",\"2025-11-14\",\"2025-11-14\",\"2025-11-27\",\"2025-11-14\",\"2025-11-15\",\"2025-11-16\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-22\",\"2025-11-23\",\"2025-11-24\",\"2025-11-25\",\"2025-11-26\",\"2025-11-27\",\"2025-11-17\",\"2025-11-21\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-17\",\"2025-11-19\",\"2025-11-17\",\"2025-11-18\",\"2025-11-19\",\"2025-11-19\",\"2025-11-21\",\"2025-11-19\",\"2025-11-20\",\"2025-11-21\",\"2025-11-24\",\"2025-11-26\",\"2025-11-24\",\"2025-11-25\",\"2025-11-26\",\"2025-11-26\",\"2025-11-27\",\"2025-11-26\",\"2025-11-27\",\"2025-11-27\",\"2025-11-28\",\"2025-11-27\",\"2025-11-28\",\"2025-11-28\",\"2025-12-01\",\"2025-12-02\",\"2025-12-01\",\"2025-12-02\",\"2025-12-01\",\"2025-12-03\",\"2025-12-01\",\"2025-12-02\",\"2025-12-03\",\"2025-12-03\",\"2025-12-05\",\"2025-12-03\",\"2025-12-04\",\"2025-12-05\",\"2025-12-03\",\"2025-12-03\",\"2025-12-03\",\"2025-12-10\",\"2025-12-10\",\"2025-12-10\",\"2025-12-11\",\"2025-12-12\",\"2025-12-11\",\"2025-12-12\",\"2025-12-11\",\"2025-12-11\",\"2025-12-11\",\"2025-12-12\",\"2025-12-12\",\"2025-12-12\",\"2025-12-15\",\"2025-12-16\",\"2025-12-15\",\"2025-12-16\",\"2025-12-16\",\"2025-12-16\",\"2025-12-16\",\"2025-12-17\",\"2025-12-17\",\"2025-12-17\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-19\",\"2025-12-22\",\"2025-12-22\",\"2025-12-22\",\"2025-12-23\",\"2025-12-23\",\"2025-12-23\",\"2026-01-02\",\"2026-01-02\",\"2026-01-02\",\"2026-01-05\",\"2026-01-05\",\"2026-01-05\",\"2026-01-06\",\"2026-01-06\",\"2026-01-06\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-07\",\"2026-01-08\",\"2026-01-08\",\"2026-01-08\",\"2026-01-09\",\"2026-01-09\",\"2026-01-09\",\"2026-01-10\",\"2026-01-10\",\"2026-01-10\",\"2026-01-12\",\"2026-01-15\",\"2026-01-12\",\"2026-01-13\",\"2026-01-14\",\"2026-01-15\",\"2026-01-12\",\"2026-01-12\",\"2026-01-12\",\"2026-01-15\",\"2026-01-15\",\"2026-01-15\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-16\",\"2026-01-18\",\"2026-01-20\",\"2026-01-18\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-19\",\"2026-01-19\",\"2026-01-19\",\"2026-01-20\",\"2026-01-19\",\"2026-01-20\",\"2026-01-20\",\"2026-01-21\",\"2026-01-20\",\"2026-01-21\",\"2026-01-20\",\"2026-01-20\",\"2026-01-20\",\"2026-01-21\",\"2026-01-21\",\"2026-01-21\",\"2026-01-22\",\"2026-01-22\",\"2026-01-22\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-23\",\"2026-01-26\",\"2026-01-31\",\"2026-01-26\",\"2026-01-27\",\"2026-01-28\",\"2026-01-29\",\"2026-01-30\",\"2026-01-31\",\"2026-01-27\",\"2026-01-27\",\"2026-01-27\",\"2026-01-29\",\"2026-01-30\",\"2026-01-29\",\"2026-01-30\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-29\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-30\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-01-31\",\"2026-02-01\",\"2026-02-15\",\"2026-02-01\",\"2026-02-02\",\"2026-02-03\",\"2026-02-04\",\"2026-02-05\",\"2026-02-06\",\"2026-02-07\",\"2026-02-08\",\"2026-02-09\",\"2026-02-10\",\"2026-02-11\",\"2026-02-12\",\"2026-02-13\",\"2026-02-14\",\"2026-02-15\",\"2026-02-02\",\"2026-02-02\",\"2026-02-02\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-06\",\"2026-02-09\",\"2026-02-09\",\"2026-02-09\",\"2026-02-16\",\"2026-02-20\",\"2026-02-16\",\"2026-02-17\",\"2026-02-18\",\"2026-02-19\",\"2026-02-20\"]; var ecs_upcoming_event_date = [\"2026-02-05\"]; //# sourceURL=jquery-ui-datepicker-js-extra /* ]]> */ /* <![CDATA[ */ jQuery(document).ready(function($) { var eventDates = ecs_event_dates; var upcoming_event_date = ecs_upcoming_event_date[0]; $('#event-calendar').datepicker({ dateFormat: 'yy-mm-dd', defaultDate: upcoming_event_date, beforeShowDay: function(date) { var dateString = $.datepicker.formatDate('yy-mm-dd', date); if (eventDates.indexOf(dateString) !== -1) { return [true, '']; } else { return [false, '']; } }, firstDay: 1, dayNames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'], dayNamesMin: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'], onSelect: function(dateText) { var selectedDate = new Date(dateText); updateCalendarInfo(selectedDate); loadEvents(dateText); } }).datepicker('setDate', upcoming_event_date); function updateCalendarInfo(date) { // Helper function to get the suffix for the day (st, nd, rd, th) function getDayWithSuffix(day) { if (day > 3 && day < 21) return day + 'th'; // Handle 11th to 19th as 'th' switch (day % 10) { case 1: return day + 'st'; case 2: return day + 'nd'; case 3: return day + 'rd'; default: return day + 'th'; } } // Get the day with suffix var dayWithSuffix = getDayWithSuffix(date.getDate()); var month = $.datepicker.formatDate('M', date); var year = date.getFullYear(); // Get the full year // Combine everything into the desired format var formattedDate = dayWithSuffix + ' ' + month + ', ' + year; // Update the formattedDateForDatePicker if needed in the 'yy-mm-dd' format var formattedDateForDatePicker = $.datepicker.formatDate('yy-mm-dd', date); // Update the UI elements $('#calendar-date').text(formattedDate); // Update the date display $('#year-dropdown').val(year); // Update year dropdown $('#event-calendar').datepicker('setDate', formattedDateForDatePicker); // Set the datepicker's selected date } function loadEvents(dateText) { $.ajax({ url: 'https://negd.gov.in/wp-admin/admin-ajax.php', type: 'POST', data: { action: 'ecs_load_events_by_date', date: dateText }, success: function(response) { if (response.success) { $('.event-calendar-container .slide-counter-wrapper').show(); if($('#upcoming-events .swiper-initialized').length > 0){ swiperEventSlider.destroy(); } $('#upcoming-events').html(response.data); swiperEventSlider = new Swiper('.events-swiper', { effect: 'slide', grabCursor: false, centeredSlides: true, slidesPerView: 1, loop: true, pagination: { el: '.swiper-pagination', clickable: true }, navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev', }, on: { init: function () { document.querySelector('.event-calendar-container .total-slides').textContent = this.slides.length; document.querySelector('.event-calendar-container .current-slide').textContent = this.realIndex + 1; }, slideChange: function () { document.querySelector('.event-calendar-container .current-slide').textContent = this.realIndex + 1; } } }); swiperEventSlider.slideToLoop(0); $('[data-bs-toggle=tooltip]').tooltip(); } else { $('#upcoming-events').html('<p>No events found.</p>'); $('.event-calendar-container .slide-counter-wrapper').hide(); } }, error: function(xhr, status, error) { console.error('AJAX error:', status, error); } }); } // Month navigation functionality $('#prev-year').click(function() { var date = $('#event-calendar').datepicker('getDate'); date.setMonth(date.getMonth() - 1); // Go to the previous month $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); $('#next-year').click(function() { var date = $('#event-calendar').datepicker('getDate'); date.setMonth(date.getMonth() + 1); // Go to the next month $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); $('#year-dropdown').change(function() { var selectedYear = $(this).val(); $('#event-calendar').datepicker('option', 'yearRange', selectedYear + ':' + (parseInt(selectedYear) + 1)); var date = $('#event-calendar').datepicker('getDate'); date.setFullYear(selectedYear); // Set the selected year to the date $('#event-calendar').datepicker('setDate', date); // Update the datepicker updateCalendarInfo(date); // Update calendar info display }); }); jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"MM d, yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ var ajax_filter_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"f5b6857880\"}; //# sourceURL=ajax-filter-js-extra /* ]]> */ /* <![CDATA[ */ var ajax_team_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"fb212dc30f\"}; //# sourceURL=ajax-team-pagination-js-extra /* ]]> */ /* <![CDATA[ */ var ajax_photos_params = {\"ajax_url\":\"https://negd.gov.in/wp-admin/admin-ajax.php\",\"nonce\":\"060a275505\"}; //# sourceURL=ajax-photos-pagination-js-extra /* ]]> */ /* <![CDATA[ */ document.addEventListener('DOMContentLoaded', function () { const viewAllLink = document.getElementById('negdMediaViewAllLink'); const tabs = document.querySelectorAll('#negd-media-front .nav-link'); function updateViewAllUrl() { const activeTab = document.querySelector('.nav-link.active'); if (activeTab && activeTab.dataset.allUrl) { viewAllLink.href = activeTab.dataset.allUrl; } } tabs.forEach(tab => { tab.addEventListener('shown.bs.tab', updateViewAllUrl); }); updateViewAllUrl(); }); //# sourceURL=negd-media-inline-script-js-after /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://negd-media.digitalindiacorporation.in/wp-includes/js/wp-emoji-release.min.js.gzip?ver=6.9\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://negd-media.digitalindiacorporation.in/wp-includes/js/wp-emoji-loader.min.js /* ]]> */"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/brand-solutions/integrated-campaigns?ag=bs_main_menu_dropdown&utm_source=bs_main_menu_dropdown&utm_medium=newsDetail",
+    "heading": "Customised CIO and Tech Industry Campaign and Media Partnership | ET CIO",
+    "subheading": "Visit us for Customised CIO and Tech Industry Campaign and Media Partnership at ET CIO. Our team will design a customised campaign for CIO and Tech Sector and provide Editorial support to meet your objectives. Get a quote now.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/editors-view?utm_source=main_menu_dropdown&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/anthropics-ai-updates-trigger-major-selloff-in-data-analytics-and-software-stocks/127900395?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "Anthropic's new AI tools deepen selloff in data analytics and software stocks, investors say",
+    "subheading": "Toronto-based Thomson Reuters, which owns the Westlaw legal database, slumped by nearly 18%. It is on track for its ‌biggest daily loss on record and lowest close since J",
+    "date": "2026-02-04T12:00:00+05:30"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/social-media?utm_source=main_menu_dropdown&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/business-analytics?utm_source=main_menu_dropdown&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-adoption-in-indian-enterprises-pre-scale-challenges-and-insights/127907433?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "AI adoption across Indian enterprises remains largely pre-scale",
+    "subheading": "Indian companies are eager for AI but struggle with implementation. Despite investments, AI adoption remains in early stages for most. Gaps in governance and business alignment slow progress. Learning and Development must evolve to enable decisions, not just deliver content. Future success hinges on deep capabilities, not just volume of learning.",
+    "date": "2026-02-05T09:06:00+05:30"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/openai-ceo-sam-altman-calls-moltbook-a-fad-but-highlights-ais-future-potential/127907556?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "OpenAI CEO Altman dismisses Moltbook as likely fad, backs tech behind it",
+    "subheading": "He emphasized the power of code combined with generalized computer use, a trend he believes is here to stay, despite slower-than-expected AI adoption.",
+    "date": "2026-02-05T09:08:00+05:30"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/cloud-computing?utm_source=main_menu_dropdown&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/webinar-series/etcio-deeptalks?ag=bs_main_menu_dropdown&utm_source=bs_main_menu_dropdown&utm_medium=newsDetail",
+    "heading": "ETCIO DeepTalks | ET CIO",
+    "subheading": "ETCIO DeepTalks Webinar: Explore & Join the upcoming (Tag/Speaker) webinars, webcasts, and Fireside chats to stay informed on industry trends, innovations, and expert insights.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/blaize-ai-startup-aims-to-revolutionize-indias-agriculture-and-traffic-management/127902426?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "US startup sets eyes on real-world AI applications in India",
+    "subheading": "The California-based, Nasdaq-listed startup, which develops programmable AI processors and software for devices and data centres, does a significant portion of its research and development in Telangana. Half of its nearly 300 employees are based in India.",
+    "date": "2026-02-04T15:00:00+05:30"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/big-data?utm_source=main_menu_dropdown&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Big Data News: ETCIO.com brings the latest Big Data news, online Big Data information, views & updates. Get online news from the Indian Big Data industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/data-center?utm_source=main_menu2&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/roblox-launches-ai-tech-that-generates-functioning-models-with-natural-language/127925386?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "Roblox launches AI tech that generates functioning models with natural language",
+    "subheading": "Roblox has introduced a new AI tool called 4D creation. This technology allows users to generate complete in-game models from simple text descriptions. It aims to make game development easier for everyone.",
+    "date": "2026-02-05T14:00:00+05:30"
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/cio-dispatch?utm_source=main_menu2&utm_medium=sectionListing",
+    "heading": "CIO News | Enterprise IT, Enterprise Technology, Tech Industry News - ET CIO",
+    "subheading": "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry.",
+    "date": null
+  },
+  {
+    "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/how-genai-is-boosting-engagement-skills-and-collaboration-across-teams/127885631?utm_source=top_news&utm_medium=sectionListing",
+    "heading": "How GenAI is boosting engagement, skills and collaboration across teams",
+    "subheading": "Generative AI adoption is reshaping Southeast Asia’s tech workforce, with 95% of developers using AI weekly and reporting higher engagement. Productivity gains of up to 70% are freeing time for upskilling, mentoring and complex work, while helping teams collaborate globally and address persistent talent shortages.",
+    "date": "2026-02-04T09:07:00+05:30"
+  },
+  {
+    "url": "https://www.newsonair.gov.in/plastindia-2026-kicks-off-in-new-delhi-with-over-2000-global-exhibitors/",
+    "heading": "News On AIR | February 5, 2026 7:19 AM Share PLASTINDIA 2026 Kicks Off in New Delhi with Over 2,000 Global Exhibitors",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 7:19 AM Share PLASTINDIA 2026 Kicks Off in New Delhi with Over 2,000 Global Exhibitors PLASTINDIA 2026, one of the world’s premier plastics exhibitions, will commence in New Delhi today. The Ministry of Chemicals and Fertilisers said that during the event, over two thousand international exhibitors will showcase cutting-edge innovations in machinery, raw materials, and circular economy solutions. It said that the event will highlight India’s strength in Men, Material, Machine and Markets, while revolving around the strategic pillars of Trade, Technology, Talent, and Tourism. The Ministry further said that for the first time, PLASTINDIA is envisaged as a Zero Waste exhibition. The theme of this global exhibition is BHARAT NEXT, aligning with the vision of Viksit and Atmanirbhar Bharat. The Ministry added that a dedicated space for youth, innovators, and start-ups will be set up, showcasing sustainable plastic solutions and recognising their role in the industry’s future. The exhibition will continue till 10th of this month."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/pm-modi-shares-article-by-education-minister-dharmendra-pradhan-on-pariksha-pe-charcha/",
+    "heading": "News On AIR | February 5, 2026 3:32 PM Share PM Modi shares article by Education Minister Dharmendra Pradhan on Pariksha Pe Charcha",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 3:32 PM Share PM Modi shares article by Education Minister Dharmendra Pradhan on Pariksha Pe Charcha Prime Minister Narendra Modi today shared an article by Education Minister Dharmendra Pradhan on Pariksha Pe Charcha. In a social media post, Mr Modi said that the article explains how the initiative became a Jan Andolan, marking a decisive shift in Bharat’s educational journey and paving the way for Viksit Bharat. The Prime Minister mentioned that Mr Pradhan has reiterated that the National Education Policy 2020 prepares students for the challenges of the 21st century, with its child-centric approach, focusing on Indian knowledge systems."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/both-houses-of-parliament-to-continue-discussions-on-motion-of-thanks-to-presidents-address/",
+    "heading": "News On AIR | February 5, 2026 11:48 AM Share Both Houses of Parliament to Continue Discussions on Motion of Thanks to President’s Address",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 11:48 AM Share Both Houses of Parliament to Continue Discussions on Motion of Thanks to President’s Address Lok Sabha will take up further discussions on the Motion of Thanks to the President’s address to the joint sitting of both the houses of the Parliament. Besides general discussions on the Union Budget for 2026-27 is also listed in today’s business of Lok Sabha. Meanwhile, in the Rajya Sabha, further discussions on the motion of thanks to the President’s address are listed in today’s business of the house."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/lok-sabha-adopts-motion-of-thanks-to-presidents-address-by-voice-vote-amid-uproar-by-opposition-parties/",
+    "heading": "News On AIR | February 5, 2026 2:20 PM Share Lok Sabha Adopts Motion of Thanks to President’s Address by Voice Vote Amid Uproar by Opposition Parties",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 2:20 PM Share Lok Sabha Adopts Motion of Thanks to President’s Address by Voice Vote Amid Uproar by Opposition Parties Lok Sabha has adopted the Motion of Thanks to the President’s Address to the joint sitting of both the Houses of Parliament by Voice Vote. President Droupadi Murmu had addressed both the Houses on 28th of last month. The Motion was moved by Union Minister and BJP MP Sarbananda Sonowal, which was seconded by BJP MP Tejasvi Surya. When the House met after the first adjournment at 12 Noon, Lok Sabha Speaker Om Birla took up the Motion of Thanks to the President Address. Mr Birla put to vote the amendments moved by several opposition members on the Motion of Thanks but they were negated by the House. Amidst opposition uproar, the Lok Sabha adopted the Motion of Thanks. The Lok Sabha speaker said that now the lower House will take up discussion on Union Budget 2026-27 and every member will get an opportunity to speak on it. Amidst continued uproar by the opposition, Mr Birla adjourned the House till 2:00 PM. Earlier, When the Lok Sabha assembled for the day at 11:00 AM, Lok Sabha Speaker Om Birla expressed concern over the behaviour of the opposition members, who reached near the treasury benches yesterday shouting slogans. He said, the behaviour was not appropriate and it is against the dignity and decorum of the House. Mr Birla emphasized that maintaining the decorum of the House is the collective responsibility of all the members. He added that if the dignity of the House is not maintained, then it will be difficult for any Speaker to conduct the smooth proceedings of the House and adjourned the House till 12 Noon."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/sc-to-deliver-verdict-on-west-bengal-state-employees-central-rate-da-case-today/",
+    "heading": "News On AIR | February 5, 2026 1:58 PM Share SC Orders West Bengal to Release 25% of DA Arrears to Employees in Landmark Ruling",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 1:58 PM Share SC Orders West Bengal to Release 25% of DA Arrears to Employees in Landmark Ruling In a landmark ruling, the Supreme Court of India has directed the West Bengal government to immediately release 25 per cent of the outstanding Dearness Allowance (DA) arrears to its employees. Emphasising that the state must act as a Model Employer, a bench comprising Justice Sanjay Karol and Justice Prashant Kumar Mishra underscored the necessity of ensuring justice for the workforce. To oversee the process, the Court has constituted a committee headed by former Supreme Court Justice Indu Malhotra, Justice Tilak Singh Chauhan, and Justice Gautam Maghuria. This committee is tasked with determining the total arrear amount and a definitive payment schedule by March 6. According to the court’s timeline, the first installment of the remaining 75 per cent must be cleared by March 31, with a comprehensive compliance report due by April 15, the date of the next hearing. The dispute, which spans arrears from 2008 to 2019, currently leaves a 40 per cent DA gap between state and central government employees. This verdict is expected to benefit approximately 12 lakh current and retired employees, including those who retired while the litigation was pending."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/defence-minister-rajnath-singh-flags-off-joint-mount-aconcagua-expedition-in-new-delhi/",
+    "heading": "News On AIR | February 5, 2026 1:42 PM Share Defence Minister Rajnath Singh Flags Off Joint Mount Aconcagua Expedition in New Delhi",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 1:42 PM Share Defence Minister Rajnath Singh Flags Off Joint Mount Aconcagua Expedition in New Delhi Defence Minister Rajnath Singh today flagged off a joint expedition to Mount Aconcagua in Argentina from the South Block, New Delhi today. The joint expedition is being undertaken by the Nehru Institute of Mountaineering, Uttarkashi and Jawahar Institute of Mountaineering & Winter Sports, Pahalgam. Speaking on the occasion, Mr Singh commended both the institutes for preparing the personnel to face challenges with courage, grit and determination. He said that scaling this formidable peak is not merely a test of physical endurance but a true examination of leadership, teamwork and mental resilience, which define the finest mountaineers of the country. The Minister exuded confidence that the members will successfully complete the expedition to the highest peak of South America and the highest mountain outside Asia, making the nation proud. The journey will commence on February 06, 2026, and the expedition is expected to conclude by the end of the month. The mountain at nearly six thousand nine hundred sixty metres, stands as the highest peak of South America and the highest mountain outside Asia."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/pm-modi-likely-to-reply-in-rajya-sabha-on-motion-of-thanks-to-presidents-address-on-commencement-of-budget-session/",
+    "heading": "News On AIR | February 5, 2026 2:23 PM Share PM Modi to Reply to Motion of Thanks in Rajya Sabha Today",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 2:23 PM Share PM Modi to Reply to Motion of Thanks in Rajya Sabha Today New Delhi: Prime Minister Narendra Modi in the Lok Sabha during the Budget Session of Parliament, in New Delhi on Monday, February 2, 2026. (Photo: IANS/Video Grab/Sansad TV) Union Parliamentary Affairs Minister Kiren Rijiju has said that Prime Minister Narendra Modi will reply to the Motion of Thanks to the President’s address in Rajya Sabha today. Responding to the allegation of Leader of Opposition Mallikarjun Kharge in the House, Mr Rijiju said that all the MPs want to listen to the Prime Minister’s speech today, but the Congress Party doesn’t want to listen to the PM’s address, which is their own choice. Mr Rijiju also rejected Mr Kharge’s allegation that the Leader of opposition in the Lok Sabha, Rahul Gandhi, wanted to speak on the country’s interests, but he was not allowed to speak on motion of thanks. He said, Mr Gandhi was not following parliamentary norms and he was speaking beyond rules. Mallikarjun Kharge said that the Rajya Sabha is not the only House, adding that both the Rajya Sabha and Lok Sabha are together called as Parliament. Leader of the House and Union Minister J P Nadda also objected to Kharge’s remarks saying that the matters related to the Lok Sabha cannot be discussed in the Rajya Sabha. Mr Nadda added that the government led by Prime Minister Modi is always ready to discuss any issue in Parliament but the opposition members are creating disruption in the Lok Sabha. Mr Nadda added that Union Minister Piyush Goyal has given a statement on the India-U.S. trade deal, as asked by the Opposition."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/union-minister-of-state-discusses-indias-integrative-healthcare-approach-at-dubai-summit/",
+    "heading": "News On AIR | February 5, 2026 2:33 PM Share Union Minister of State Discusses India’s Integrative Healthcare Approach at Dubai Summit",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 2:33 PM Share Union Minister of State Discusses India’s Integrative Healthcare Approach at Dubai Summit Union Minister of State for Health Anupriya Patel will participate in the World Government Summit in Dubai on Wednesday. She will speak at a session titled “From Policy to Practice: Investing in the Future of Integrative Medicine.” on the third day of the summit In an exclusive interview with Prasar Bharati ahead of the summit, Patel said the platform offers an important opportunity to showcase India’s approach to integrative healthcare. She noted that according to the World Health Organisation, 88 per cent of member states have traditional systems of medicine that are culturally accepted. Patel said India has institutionalised integrative healthcare by including it in the National Health Policy 2017 and has operationalised it across primary, secondary and tertiary healthcare systems. She said Ayushman Arogya Mandirs across the country provide traditional medicine services, including Ayush practices such as yoga and wellness. Ayush blocks have also been set up in secondary healthcare facilities, while national tertiary institutions are establishing dedicated integrative healthcare units. Patel stressed that education and training are key to long-term sustainability. She said exposure to Ayush practices is now mandatory in undergraduate medical education in India. She added that extensive research is underway to establish scientific evidence for traditional medicine. The Indian Council of Medical Research and the Ministry of Ayush are jointly conducting clinical trials to support wider adoption of integrative healthcare. The World Government Summit is an annual global platform held in Dubai, bringing together world leaders, senior officials and experts to discuss the future of governance. The three-day summit concludes on Wednesday, February 5, wrapping up discussions on shaping future governments and addressing global challenges in innovation, technology, and sustainable development."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/hal-clarifies-delay-in-lca-tejas-mark-1a-delivery-cites-awaited-ge-engines/",
+    "heading": "News On AIR | February 5, 2026 1:56 PM Share HAL Clarifies Delay in LCA Tejas Mark 1A Delivery, Cites Awaited GE Engines",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 1:56 PM Share HAL Clarifies Delay in LCA Tejas Mark 1A Delivery, Cites Awaited GE Engines The Public Sector manufacturing hub HAL has today issued clarification on the delivery of LCA Tejas Mark 1A to the Indian Air Force. In a statement issued by the PSU, it has confirmed that five LCA Mark 1A aircrafts are fully ready for delivery, incorporating major contracted capabilities in accordance with the agreed specifications. An additional nine aircrafts were built and flown earlier. HAL has said that it is awaiting GE engines from the USA and the aircrafts will be ready for delivery after the receipt of these engines. The delay in the delivery of F404 jet engines by the American company GE has caused a delay in the delivery of Tejas fighter aircrafts. HAL has, however, said that it had received five engines from GE, and the supply chain is positive. It has stressed that the future delivery outlook aligns with HALs delivery plans and assured that it will meet the guidance projected for the current financial year."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/niti-aayog-ceo-b-v-r-subrahmanyam-visits-sri-durga-malleswara-swamy-temple-in-vijayawada/",
+    "heading": "News On AIR | February 5, 2026 1:51 PM Share NITI Aayog CEO B.V.R. Subrahmanyam Visits Sri Durga Malleswara Swamy Temple in Vijayawada",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 1:51 PM Share NITI Aayog CEO B.V.R. Subrahmanyam Visits Sri Durga Malleswara Swamy Temple in Vijayawada NITI Aayog Chief Executive Officer (CEO) B.V.R. Subrahmanyam today visited Sri Durga Malleswara Swamy Varla Devasthanam in Vijayawada. Upon his arrival, the temple priests gave him a traditional welcome. Mr Subrahmanyam offered special prayers to Goddess Durga. After the darshan, Vedic scholars accorded him Vedic blessings. Temple Executive Officer V.K. Seena Nayak honoured the NITI Aayog CEO with the sacred Sheshavastram of the Goddess and presented prasadam and a photograph of the deity. NTR District Collector Dr. G.Lakshmisha, several district officials and temple authorities were present."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/non-rnu/",
+    "heading": "NON REGIONAL NEWS UNITS DETAILS",
+    "subheading": "Social Media Links",
+    "date": null
+  },
+  {
+    "url": "https://www.newsonair.gov.in/pm-modi-thanks-sri-lankan-president-for-inaugurating-devnimori-relics-exposition-at-gangaramaya-temple/",
+    "heading": "News On AIR | February 5, 2026 11:50 AM Share PM Modi Thanks Sri Lankan President for Inaugurating Devnimori Relics Exposition at Gangaramaya Temple",
+    "subheading": "Social Media Links",
+    "date": "News On AIR | February 5, 2026 11:50 AM Share PM Modi Thanks Sri Lankan President for Inaugurating Devnimori Relics Exposition at Gangaramaya Temple Prime Minister Narendra Modi has expressed gratitude to Sri Lankan President Anura Kumara Dissanayake for inaugurating the Exposition of the Holy Devnimori Relics at the sacred Gangaramaya Temple in Colombo. In a social media post, Mr Modi wished that Lord Buddha’s timeless message of compassion, peace and harmony continue to guide humanity. The Prime Minister noted that during his visit to Sri Lanka in April last year, it was decided that these relics would come to Sri Lanka, providing an opportunity for the people to pay their respects. Mr Modi added that India and Sri Lanka are connected by deep civilisational and spiritual bonds."
+  },
+  {
+    "url": "https://www.newsonair.gov.in/screen-reader-access/",
+    "heading": null,
+    "subheading": "Social Media Links",
+    "date": null
+  },
+  {
+    "url": "https://www.newsonair.gov.in/ptc-details/",
+    "heading": null,
+    "subheading": "Social Media Links",
+    "date": null
+  },
+  {
+    "url": "https://www.newsonair.gov.in/most-read/",
+    "heading": null,
+    "subheading": "Social Media Links",
+    "date": null
+  },
+  {
+    "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-india-us-trade-deal-strengthens-growth",
+    "heading": "India-U.S. Trade Deal Opens New Global Opportunities: Gujarat CM, latest news",
+    "subheading": "Reacting to the India-U.S. Trade Deal, Gujarat CM says the agreement boosts manufacturing, MSMEs, exports and jobs while strengthening India’s global economic presence.",
+    "date": "17 Oct, 2025"
+  },
+  {
+    "url": "https://cmogujarat.gov.in/en/latest-news/gram-shakti-training-programme-mavalankar-parliamentary-studies",
+    "heading": "CM Guides Sarpanches at Gram Shakti Training Programme in Gujarat",
+    "subheading": "At the Gram Shakti Training Programme linked to Ganesh Vasudev Mavalankar Parliamentary Studies, the CM urges Sarpanches to ensure transparency and accountability.",
+    "date": "17 Oct, 2025"
+  },
+  {
+    "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-tableu-receive-first-prize-peoples-choice",
+    "heading": "Gujarat Tableu Receives First Prize in People’s Choice on Republic Day | latest news",
+    "subheading": "On Republic Day, Gujarat Tableu presented at the national parade in New Delhi receives first prize in the People’s Choice category for the fourth consecutive year.",
+    "date": "17 Oct, 2025"
+  },
+  {
+    "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-reviews-jal-sanchay-jan-bhagidari-2-abhiyan",
+    "heading": "Gujarat CM Reviews Jal Sanchay Jan Bhagidari 2.0 Abhiyan | Latest News",
+    "subheading": "Gujarat CM reviews Jal Sanchay Jan Bhagidari 2.0 Abhiyan, urges advance planning for water conservation, rainwater harvesting and full utilisation of grants.",
+    "date": "17 Oct, 2025"
+  },
+  {
+    "url": "https://cmogujarat.gov.in/en/news-clip",
+    "heading": "News Clip",
+    "subheading": "Main navigation",
+    "date": "04 Feb, 2026"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-ceo-tim-cook-answers-the-big-question-why-google-and-not-sam-altmans-openai-for-new-siri/articleshow/127794640.cms",
+    "heading": "Apple CEO Tim Cook answers the ‘big’ question: Why Google and not Sam Altman's OpenAI for new Siri",
+    "subheading": "Tech News News: Apple went with Google over Sam Altman's OpenAI for one straightforward reason: better technology. CEO Tim Cook laid it out plainly during the company.",
+    "date": "2026-01-30T13:10:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/artificial-intelligence/from-code-red-to-frontrunner-5-reasons-why-google-leading-the-ai-race/articleshow/125619367.cms",
+    "heading": "From ‘Code Red’ to frontrunner: 5 Reasons why Google is ‘leading’ the AI race",
+    "subheading": "AI News News: Google has staged a remarkable AI comeback, with its Gemini 3.0 model receiving widespread acclaim and outperforming competitors. The company's custom",
+    "date": "2025-11-27T22:03:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/artificial-intelligence/amazon-devices-chief-panos-panay-shares-one-of-his-favourite-fire-tv-features-of-alexa-how-it-works/articleshow/125769371.cms",
+    "heading": "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works",
+    "subheading": "AI News News: Amazon devices head Panos Panay has shared one of his favourite features of Alexa+ – the AI-powered Alexa that the company launched earlier this year..",
+    "date": "2025-12-04T20:50:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/gaming/nyt-connections-todays-hints-and-answers-966-for-01-february-2026/articleshow/127833486.cms",
+    "heading": "NYT Connections today’s hints and answers (#966) for 01 February 2026",
+    "subheading": "Gaming News: Connections by The New York Times has fast become an addiction for word game lovers around the world. Taking the addictive simplicity of games like Wo.",
+    "date": "2026-02-01T11:15:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-sam-altman-ai-wont-replace-humans-but-humans-who-use-ai-will-replace-those-who-dont-/articleshow/127689103.cms",
+    "heading": "Quote of the day by Sam Altman: “AI won’t replace humans. But humans who use AI will replace those who don’t.”",
+    "subheading": "Tech News News: In today's rapidly evolving world, technology is expanding at a rate never seen before. AI, or artificial intelligence, is a part of our lives every d.",
+    "date": "2026-01-28T13:39:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/artificial-intelligence/ericsson-showcases-5g-and-ai-innovations-at-india-mobile-congress-2025/articleshow/124416505.cms",
+    "heading": "Ericsson showcases 5G and AI innovations at India Mobile Congress 2025",
+    "subheading": "AI News News: Ericsson showcased groundbreaking 5G and AI innovations at IMC 2025, bolstering India's digital transformation. From a 5G-enabled Grain ATM to remote",
+    "date": "2025-10-09T17:48:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-may-lay-off-up-to-30000-employees-and-one-of-the-big-reasons-is-the-companys-commitment-to-sam-altmans-openai-for/articleshow/127835680.cms",
+    "heading": "Oracle may lay off up to 30,000 employees, and one of the Big reasons is the company's 'commitment' to Sam Altman's OpenAI for…",
+    "subheading": "Tech News News: Oracle is staring down the possibility of its largest-ever workforce reduction—and at the heart of it is a $300 billion partnership with OpenAI that's.",
+    "date": "2026-02-01T12:29:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-well-before-the-ai-revolution-i-have-said-saas-industry-is-/articleshow/127925531.cms",
+    "heading": "Zoho founder Sridhar Vembu: Well before the AI revolution, I have said SaaS industry is …",
+    "subheading": "Tech News News: Amid the massive software stock sell off, Zoho founder Sridhar Vembu said that the software as a service (SaaS) industry is facing a deeper structural.",
+    "date": "2026-02-05T11:55:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/india/shashi-throors-son-ishaan-among-staff-sacked-by-washington-post-pens-sombre-note/articleshow/127922743.cms",
+    "heading": "The Washington post fires around 300 employees, scales back global reporting",
+    "subheading": "India News: The Washington Post has announced what it described as “significant restructuring,” at the organisation which includes shutting down its current Sport.",
+    "date": "2026-02-05T09:15:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/education/news/ugc-net-december-2025-cut-off-released-check-if-you-qualify-for-jrf-assistant-professorship-or-phd/articleshow/127922988.cms",
+    "heading": "UGC NET December 2025 cut off released: Check if you qualify for JRF, Assistant Professorship, or PhD",
+    "subheading": "News News: The National Testing Agency (NTA) has released the cut-off marks for UGC NET December 2025. Candidates who appeared for the exam can now check whether.",
+    "date": "2026-02-05T09:07:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-abhishek-and-aishwarya-rai-bachchan-kumar-sanu-r-madhavan-salman-khan-vivek-oberoi-also-moves-to-court-for-protection-of-his-personality-rights/articleshow/127912720.cms",
+    "heading": "After Abhishek and Aishwarya Rai Bachchan, R Madhavan, Salman Khan, Vivek Oberoi moves to court for protection of personality rights",
+    "subheading": "Actor turned entrepreneur Vivek Oberoi has approached the Delhi High Court seeking legal protection of his personality rights, thus to avoid the rampa.",
+    "date": "2026-02-04T20:11:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news",
+    "heading": "Tech News: Latest Technology News and Updates | Times Of India",
+    "subheading": "Stay updated with the latest technology news and updates from Times Of India. Read breaking news, reviews, and in-depth analysis of gadgets and tech trends.",
+    "date": null
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-mcx-gold-price-today-comex-silver-prices-gold-24-carat-etf-buy-sell-latest-news/liveblog/127922655.cms",
+    "heading": "Gold, Silver Prices Today Live Updates: Silver, gold futures tumble 10%; investors cautious amid strong dolla",
+    "subheading": "Gold, Silver Prices Today Live Updates: After a strong rally in recent days, gold and silver reversed course and slipped back into the red, with silv",
+    "date": "2026-02-05T08:39:22+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/explained-what-is-anthropics-ai-tool-that-wiped-285-billion-off-software-stocks-in-a-single-day/articleshow/127892310.cms",
+    "heading": "Explained: What is Anthropic's AI tool that wiped $285 billion off software stocks in a single day",
+    "subheading": "Tech News News: Anthropic's newly launched AI plugins have triggered what analysts are calling a 'SaaSpocalypse'—a brutal selloff that wiped out roughly $285 billion .",
+    "date": "2026-02-04T10:32:00+05:30"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/science/jeff-bezoss-blue-origin-pauses-space-tourism-for-2-years-to-focus-on-nasas-moon-missions/articleshow/127815930.cms",
+    "heading": "Jeff Bezos’s Blue Origin pauses space tourism for 2 years to focus on NASA’s Moon missions",
+    "subheading": "Science News: For years, space tourism felt like a novelty that just kept growing. A quick ride up. A few minutes of weightlessness. A view of Earth that only a han.",
+    "date": "2026-01-31T12:57:00+05:30"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news",
+    "heading": "Chandigarh News, Latest Chandigarh News, Chandigarh News Today and Headlines | Hindustan Times",
+    "subheading": "Chandigarh News - Find latest Chandigarh news and Headlines based from Chandigarh City. Also check out latest news belongs to Chandigarh crime, Chandigarh education news, Chandigarh real estate, Chandigarh politics and more at Hindustan Times",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/bhopal-news",
+    "heading": "Bhopal News, Latest Bhopal News, Bhopal News Today and Headlines | Hindustan Times",
+    "subheading": "Bhopal News - Find latest Bhopal news and Headlines based from Bhopal City. Also check out latest news belongs to Bhopal crime, Bhopal education news, Bhopal real estate, Bhopal politics and more at Hindustan Times",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/world-news/us-news",
+    "heading": "US News: Stay Updated with the Latest US News on Politics, Crime, and Local Stories of today| Hindustan Times",
+    "subheading": "US News: Get the latest breaking news, top headlines, and in-depth coverage on politics, crime, defense, technology, entertainment, lifestyle, and local updates from across the country. Stay informed with US news stories from Hindustan Times.",
+    "date": "Thu, Feb 5, 2026New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/education/news/kerala-govt-to-launch-road-safety-cadet-programme-in-schools-101770286019617.html",
+    "heading": "Kerala govt to launch ''road safety cadet'' programme in schools | Education",
+    "subheading": "Kerala govt to launch ''road safety cadet'' programme in schools | Education News",
+    "date": "2026-02-05T15:36:59+05:30"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/kolkata-news",
+    "heading": "Kolkata News, Latest Kolkata News, Kolkata News Today and Headlines | Hindustan Times",
+    "subheading": "Kolkata News - Find latest Kolkata news and Headlines based from Kolkata City. Also check out latest news belongs to Kolkata crime, Kolkata education news, Kolkata real estate, Kolkata politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/india-news/first-tranche-of-agreement-ready-joint-statement-in-4-5-days-piyush-goyal-on-india-us-trade-deal-101770282126973.html",
+    "heading": "First tranche of agreement ready, joint statement in 4-5 days: Piyush Goyal on India-US trade deal| India News",
+    "subheading": "Goyal said the first tranche of the bilateral trade agreement between the two country is almost ready.| India News",
+    "date": "2026-02-05T14:36:33+05:30"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/bengaluru-news",
+    "heading": "Bangalore News:Bangalore Latest News,Bangalore Breaking News,Local Bangalore News Headlines | Hindustan Times",
+    "subheading": "Bangalore News – Read latest Bangalore news, Bangalore local news headlines, Bangalore breaking news, and Bangalore news live updates based on crime, education, business, politics, lifestyle, sports and more. Catch Bangalore News Live News Updates and Todays Top Viral News at hindustantimes.com.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/lucknow-news",
+    "heading": "Lucknow News, Latest Lucknow News, Lucknow News Today and Headlines | Hindustan Times",
+    "subheading": "Lucknow News - Find latest Lucknow news and Headlines based from Lucknow City. Also check out latest news belongs to Lucknow crime, Lucknow education news, Lucknow real estate, Lucknow politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/gurugram-news",
+    "heading": "Gurugram News, Latest Gurugram News, Gurugram News Today and Headlines | Hindustan Times",
+    "subheading": "Gurugram News - Find latest Gurugram news and Headlines based from Gurgaon City. Also check out latest news belongs to Gurugram crime, Gurgaon education news, Gurugram real estate, Gurugram politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/pune-news",
+    "heading": "Pune News, Latest Pune News, Pune News Today and Headlines | Hindustan Times",
+    "subheading": "Pune News - Find latest Pune news and Headlines based from Pune City. Also check out latest news belongs to Pune crime, Pune education news, Pune real estate, Pune politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/indore-news",
+    "heading": "Indore News:Indore Latest News,Indore Breaking News,Local Indore News Headlines | Hindustan Times",
+    "subheading": "Indore News – Read latest Indore news, Indore local news headlines, Indore breaking news, and Indore Madhya Pradesh news live updates based on crime, education, business, politics, lifestyle, sports and more. Catch Indore News Live News Updates and Todays Top Viral News at hindustantimes.com",
+    "date": "Thu, Feb 05, 2026 New Delhi oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/noida-news",
+    "heading": "Noida News, Latest Noida News, Greater Noida News Today and Headlines | Hindustan Times",
+    "subheading": "Noida News - Find latest Noida news and Headlines based from Noida and Greater Noida City. Also check out latest news belongs to Gautam Buddha Nagar crime, Greater Noida education news, Noida real estate, Noida politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/mumbai-news",
+    "heading": "Mumbai News Live Today, Rain Alerts & Mumbai Headlines Today | Hindustan Times | Hindustan Times",
+    "subheading": "Mumbai News – Get all the latest Mumbai news, live updates, and rain alerts. Find breaking headlines on traffic, local crime, metro, politics, and real estate from Mumbai city at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/jaipur-news/raj-newlywed-wife-plots-husband-s-murder-with-lover-masks-it-as-hit-and-run-4-arrested-101770283044758.html",
+    "heading": "Newlywed wife plots husband’s murder with lover in Rajasthan, masks it as hit-and-run; 4 arrested | Hindustan Times",
+    "subheading": "The duo also hired two more men to assist them, who allegedly carried out a recce of the murder spot a few days earlier.",
+    "date": "2026-02-05T14:47:24+05:30"
+  },
+  {
+    "url": "https://www.hindustantimes.com/cities/jaipur-news",
+    "heading": "Jaipur News, Latest Jaipur News, Jaipur News Today and Headlines | Hindustan Times",
+    "subheading": "Jaipur News - Find latest Jaipur news and Headlines based from Jaipur City. Also check out latest news belongs to Jaipur crime, Jaipur education news, Jaipur real estate, Jaipur politics and more at Hindustan Times.",
+    "date": "Thu, Feb 05, 2026 New Delhi 20oC"
+  },
+  {
+    "url": "https://www.rswebsols.com/news/apples-agreement-with-google-for-search-services-may-come-under-fresh-examination-as-the-doj-contests-the-antitrust-decision/",
+    "heading": "Apple Google Search Deal Faces New DOJ Antitrust Review",
+    "subheading": "Apple and Google's search deal faces renewed scrutiny as the DOJ challenges the antitrust ruling, raising questions about the future of tech industry dominance.",
+    "date": "2026-02-05T01:00:00-05:00"
+  },
+  {
+    "url": "https://www.rswebsols.com/news/take-two-announces-gta-6-marketing-launch-this-summer-november-release-on-schedule/",
+    "heading": "Take-Two Confirms GTA 6 Marketing Launch This Summer, November Release",
+    "subheading": "Take-Two confirms GTA 6 marketing kicks off this summer, with a November release on track. Get ready for the biggest gaming event of the year.",
+    "date": "2026-02-05T05:00:00-05:00"
+  },
+  {
+    "url": "https://www.rswebsols.com/news/sql-injection-vulnerability-impacts-40000-wordpress-sites/",
+    "heading": "SQL Injection Threat Affects 40,000 WordPress Sites Today",
+    "subheading": "Massive SQL injection flaw exposes 40,000 WordPress sites to cyberattacks. Discover how to protect your site before it's too late. Stay secure now.",
+    "date": "2026-02-05T04:00:00-05:00"
+  },
+  {
+    "url": "https://www.rswebsols.com/news/leaked-designs-of-apples-foldable-iphone-reveal-updated-camera-and-button-locations/",
+    "heading": "Leaked Designs Reveal Apple Foldable iPhone Camera, Buttons",
+    "subheading": "Leaked designs of Apple’s foldable iPhone reveal surprising updates to camera placement and button locations. Discover what’s changing in the latest model.",
+    "date": "2026-02-05T03:00:00-05:00"
+  },
+  {
+    "url": "https://www.rswebsols.com/news/ecommerce-to-fuel-applovin-corporations-app-growth-narrative-for-2026/",
+    "heading": "Ecommerce Drives AppLovin Corporation Growth Outlook 2026",
+    "subheading": "Ecommerce is set to drive AppLovin Corporation’s growth story in 2026, unlocking new opportunities and boosting revenue like never before. Discover how.",
+    "date": "2026-02-05T02:00:00-05:00"
+  },
+  {
+    "url": "https://globalvoices.org/-/topics/breaking-news/",
+    "heading": "Breaking News · Global Voices",
+    "subheading": "Global Voices is an international, multilingual community of writers, translators, academics, and digital rights activists.",
+    "date": "17 December 2025"
+  },
+  {
+    "url": "https://globalvoices.org/-/topics/good-news/",
+    "heading": "Good News · Global Voices",
+    "subheading": "Global Voices is an international, multilingual community of writers, translators, academics, and digital rights activists.",
+    "date": "31 December 2025"
+  },
+  {
+    "url": "https://globalvoices.org/2025/11/14/laura-jasper-on-the-ai-threat-its-not-just-fake-news-its-personalized-political-warfare/",
+    "heading": "Laura Jasper on the AI threat: It’s not just fake news, it’s personalized political warfare",
+    "subheading": "Across Europe and the Indo-Pacific, hostile actors exploit a single, shared vulnerability: a high dependency on commercial platforms coupled with deep societal social trust fractures.",
+    "date": "2025-11-14T10:33:01+0000"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/cerebras-valuation-triples-in-6-months-after-securing-1-bn-funding",
+    "heading": "Cerebras Valuation Triples in 6 Months After Securing $1 Bn Funding",
+    "subheading": "Cerebras Systems is valued at $23 billion after the Series H funding.",
+    "date": "2026-02-05T06:20:30.866178+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/musk-under-fire-as-france-raids-x-offices-over-deepfakes",
+    "heading": "Musk Under Fire as France Raids X Offices Over Deepfakes",
+    "subheading": "X’s Paris offices were raided amidst an ongoing probe against X over \"fraudulent extraction of data.”",
+    "date": "2026-02-04T06:02:43.386573+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/iit-madras-releases-indias-first-cancer-genome-database",
+    "heading": "What Is India's First Cancer Genome Database?",
+    "subheading": "Explore IIT Madras' groundbreaking cancer genome database. Discover how it advances cancer research and precision oncology in India today!",
+    "date": "2026-02-05T06:43:58.454526+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/perplexity-releases-advanced-deep-research-upgrade-open-sources-draco-benchmark",
+    "heading": "Perplexity Releases Advanced Deep Research Upgrade, Open-Sources DRACO Benchmark",
+    "subheading": "Perplexity claimed the tools achieved industry-leading accuracy across real-world research benchmarks.",
+    "date": "2026-02-05T08:18:54.741725+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/apple-brings-agentic-coding-to-xcode-with-claude-agent-and-openai-codex",
+    "heading": "Apple Brings Agentic Coding to Xcode with Claude Agent and OpenAI Codex",
+    "subheading": "Xcode 26.3 is available as a release candidate starting February 4 for Apple Developer Program members.",
+    "date": "2026-02-04T04:26:08.109799+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/adobe-backtracks-animate-shutdown-after-user-backlash",
+    "heading": "Adobe Backtracks Animate Shutdown After User Backlash",
+    "subheading": "Adobe had earlier said it would retire the 2D animation software amid AI focus.",
+    "date": "2026-02-05T10:16:21.857415+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/climate-tech-startup-varaha-secures-20-million-to-expand-carbon-removal-projects",
+    "heading": "How is Varaha Leading Carbon Removal Innovations?",
+    "subheading": "Discover how Varaha's $20M funding boosts carbon removal projects. Explore their impact on sustainable agriculture and rural livelihoods today!",
+    "date": "2026-02-04T12:03:05.19461+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/logistics-automation-co-vanderlande-opens-india-innovation-centre-in-pune",
+    "heading": "Logistics Automation Co Vanderlande Opens India Innovation Centre in Pune",
+    "subheading": "Discover Vanderlande's new Innovation Centre in Pune. Learn how it transforms logistics automation and fosters engineering talent. Explore now!",
+    "date": "2026-02-05T08:19:22.904277+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/lpl-financial-opens-gcc-in-hyderabad-to-create-next-gen-tech",
+    "heading": "LPL Financial Opens GCC in Hyderabad to Create Next Gen Tech",
+    "subheading": "Discover how LPL Financial's new GCC in Hyderabad is creating jobs and advancing tech innovation. Join the conversation now!",
+    "date": "2026-02-05T08:57:01.460133+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/ahead-of-ipo-fractal-analytics-shrinks-issue-size-by-40",
+    "heading": "Ahead of IPO, Fractal Analytics Shrinks Issue Size by 40%",
+    "subheading": "Fractal Analytics is poised to become India’s first public pure-play AI company.",
+    "date": "2026-02-03T13:05:43.524362+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/google-expands-india-presence-with-major-bengaluru-office-lease",
+    "heading": "Google Expands India Presence With Major Bengaluru Office Lease",
+    "subheading": "Google has signed a lease for a tower at Alembic City in Bengaluru.",
+    "date": "2026-02-05T05:35:30.912277+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news-updates/amazon-worldwide-consumer-ex-ceo-builds-own-crm-tool-in-1-day",
+    "heading": "How Did Amazon Ex-CEO Build a CRM Tool in One Day?",
+    "subheading": "Discover how Dave Clark created a CRM tool in just one day using vibe coding. Learn about the future of custom solutions in SaaS.",
+    "date": "2026-01-20T00:00:00+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/youtube-expands-auto-dubbing-to-27-languages",
+    "heading": "How Will YouTube's Auto-Dubbing Transform Video Viewing?",
+    "subheading": "Discover YouTube's new auto-dubbing feature and how it enhances video content. Click to learn the latest trends in AI dubbing technology!",
+    "date": "2026-02-05T10:15:16.389345+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/infosys-cursor-team-up-to-accelerate-enterprise-software-engineering",
+    "heading": "Infosys, Cursor partner to Accelerate Software Engg",
+    "subheading": "New Centre of Excellence to speed up greenfield and brownfield enterprise software development at scale.",
+    "date": "2026-01-28T15:28:36.160709+00:00"
+  },
+  {
+    "url": "http://analyticsindiamag.com/ai-news/anthropic-says-claude-will-remain-ad-free",
+    "heading": "Anthropic says Claude will Remain Ad-Free",
+    "subheading": "“Our users won’t see ‘sponsored’ links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.”",
+    "date": "2026-02-04T14:44:53.222438+00:00"
+  },
+  {
+    "url": "https://rajbhavan.mizoram.gov.in/history-of-raj-bhavan/",
+    "heading": "History of Lok Bhavan",
+    "subheading": "New Lok Bhavan Phase- I Inaugurated",
+    "date": null
+  },
+  {
+    "url": "https://www.newindianexpress.com/business/2025/Sep/17/artificial-intelligence-may-boost-global-trade-value-by-nearly-40-world-trade-organisation",
+    "heading": "Artificial intelligence may boost global trade value by nearly 40%: World Trade Organisation",
+    "subheading": "GENEVA: Artificial intelligence could boost the value of global trade by almost 40 percent by 2040 thanks to cost reductions and productivity gains, the World T",
+    "date": "2025-09-17T13:38:01Z"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/kerala/2025/Aug/10/keralas-artificial-intelligence-training-program-for-teachers-in-lakshadweep",
+    "heading": "Kerala’s artificial intelligence training program for teachers in Lakshadweep",
+    "subheading": "THIRUVANANTHAPURAM: Kerala’s Artificial Intelligence (AI) training programme for teachers will now be replicated in Lakshadweep. The training module for Lakshad",
+    "date": "2025-08-10T02:23:07Z"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/kerala/2025/Aug/10/artificial-intelligence-cannot-replace-human-factor-says-iim-kozhikode-director-debashis-chatterjee",
+    "heading": "Artificial intelligence cannot replace human factor, says IIM-Kozhikode director Debashis Chatterjee",
+    "subheading": "KOCHI: AI cannot replace humans in terms of leadership as it requires humanitarian qualities, said IIM-Kozhikode director Debashis Chatterjee. He was speaking a",
+    "date": "2025-08-10T02:20:05Z"
+  },
+  {
+    "url": "https://www.newindianexpress.com/web-only/2025/May/06/lights-camera-ai-ction-filmmakers-secret-love-affair-with-artificial-intelligence",
+    "heading": "Lights, Camera, AI-ction: Filmmakers' secret love affair with Artificial Intelligence",
+    "subheading": "Picture a dimly-lit boardroom, the types that are tropes in films, except this actually belongs to the same film executives who turn them into cliches. They're",
+    "date": "2025-05-06T17:01:13Z"
+  },
+  {
+    "url": "https://www.newindianexpress.com/opinion/2026/Jan/06/artificial-intelligence-frontier-tech-in-a-bubble-wrap",
+    "heading": "Artificial Intelligence | Frontier tech in a bubble wrap",
+    "subheading": "In 1999, a small Las Vegas car dealership called Uniprime Capital Acceptance Inc more than doubled its stock price by announcing—without any evidence—that one o",
+    "date": "2026-01-06T20:22:13Z"
+  },
+  {
+    "url": "https://www.newindianexpress.com/business/2026/Feb/02/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell",
+    "heading": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell",
+    "subheading": "The one thing N. Lee Plumb knows for sure about being laid off from Amazon last week is that it wasn’t a failure to get on board with the company’s artificial i",
+    "date": "2026-02-02T08:20:01Z"
+  },
+  {
+    "url": "https://www.visive.ai/news/top-3-ai-stocks-for-investing-in-future-artificial-intelligence-wave",
+    "heading": "Top 3 AI Stocks for Investing in Future Artificial Intelligence Wave",
+    "subheading": "Published Date::29/09/2024",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/christian-view-on-artificial-intelligence",
+    "heading": "Christian View on Artificial Intelligence",
+    "subheading": "Published Date : 29/08/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/essential-info-eus-artificial-intelligence-act-key-points-to-know",
+    "heading": "Essential Info: EU's Artificial Intelligence Act, Key Points to Know",
+    "subheading": "Published Date: 9/09/2024",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/synergizing-human-and-artificial-intelligence-for-a-shared-future",
+    "heading": "Synergizing Human and Artificial Intelligence for a Shared Future",
+    "subheading": "Published Date : 23/03/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/guide-to-ai-and-machine-learning-understanding-the-basics",
+    "heading": "Guide to AI and Machine Learning: Understanding the Basics",
+    "subheading": "Published Date : 04/03/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/debunking-ai-myths-the-illusion-of-artificial-intelligence",
+    "heading": "Debunking AI Myths: The Illusion of Artificial Intelligence",
+    "subheading": "Published Date : 06/06/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/the-impact-of-artificial-intelligence-a-semi-intelligent-look",
+    "heading": "The Impact of Artificial Intelligence: A Semi-Intelligent Look",
+    "subheading": "Published Date : 12/09/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/as-artificial-intelligence-and-machine-learning-become-ubiquitous-in-the-wo",
+    "heading": "As artificial intelligence and machine learning become ubiquitous in the wo",
+    "subheading": "Published Date::30/09/2024",
+    "date": null
+  },
+  {
+    "url": "https://www.visive.ai/news/ai-and-machine-learning-innovations-sought-by-military-intelligence",
+    "heading": "AI and Machine Learning Innovations Sought by Military Intelligence",
+    "subheading": "Published Date : 22/04/2025",
+    "date": null
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/lok-sabha-passes-resolution-motion-of-thanks-on-president-address-pm-address/article70594740.ece",
+    "heading": "Lok Sabha passes motion of thanks on President's address without PM's customary reply",
+    "subheading": "Lok Sabha passes Motion of Thanks on President's address amid Opposition protests, without Prime Minister Modi's customary response.",
+    "date": "2026-02-05T07:06:30.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/business/budget/union-budget-2026-a-budget-for-difficult-times/article70579302.ece",
+    "heading": "A budget for difficult times",
+    "subheading": "Union Budget 2026 aims to boost economic growth, enhance productivity, and support poll-bound States with infrastructure and reforms.",
+    "date": "2026-02-01T16:15:45.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/sci-tech/technology/telegrams-pavel-durov-says-proposed-spanish-social-media-restrictions-seek-to-censor-critics/article70594205.ece",
+    "heading": "Telegram's Pavel Durov says proposed Spanish social media restrictions seek to censor critics",
+    "subheading": "Pavel Durov on Wednesday ​joined Elon Musk in publicly criticising plans by Spanish Prime Minister Pedro ‌Sanchez to ban social media access for youth under 16",
+    "date": "2026-02-05T05:35:22.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/prashant-kishor-jan-suraaj-party-bihar-election-fresh-supreme-court/article70594720.ece",
+    "heading": "Prashant Kishor's Jan Suraaj Party moves SC challenging Bihar elections, seeks fresh polls",
+    "subheading": "Prashant Kishor's Jan Suraaj Party challenges Bihar elections in Supreme Court, seeking fresh polls over alleged violations.",
+    "date": "2026-02-05T06:59:36.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/international/epstein-files-full-list-of-personalities-mentioned-so-far/article70581659.ece",
+    "heading": "Epstein Files on a new trajectory: Full list of personalities mentioned so far",
+    "subheading": "Explore the newly released Epstein Files, revealing high-profile figures linked to Jeffrey Epstein's controversial past and ongoing investigations.",
+    "date": "2026-02-02T06:47:45.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-speaker-dismisses-disqualification-plea-against-jagtial-mla-sanjay-kumar/article70594744.ece",
+    "heading": "Telangana Assembly Speaker dismisses disqualification plea against Jagtial MLA Sanjay Kumar",
+    "subheading": "Telangana Speaker dismisses BRS's disqualification plea against Jagtial MLA M. Sanjay Kumar",
+    "date": "2026-02-05T07:10:25.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-mega-merger-of-spacex-and-xai-bets-on-sci-fi-future-of-data-centers-in-space/article70594211.ece",
+    "heading": "Elon Musk's mega-merger of SpaceX and xAI bets on sci-fi future of data centers in space",
+    "subheading": "NASA engineers ​and technologists have speculated for nearly two decades about moving energy-hungry computing off the planet.",
+    "date": "2026-02-05T06:27:29.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/topic/live-news/",
+    "heading": "Live news today from The Hindu",
+    "subheading": "Stay updated with the latest live news updates and coverage from The Hindu.",
+    "date": "February 5, 2026"
+  },
+  {
+    "url": "https://www.thehindu.com/news/international/india-committed-to-no-longer-purchasing-russian-oil-500-billion-of-investments-into-us-white-house/article70590252.ece",
+    "heading": "India committed to no longer purchasing Russian oil, $500 billion of investments into U.S.: White House",
+    "subheading": "India pledges to stop buying Russian oil and invest $500 billion in U.S. sectors under a new trade agreement.",
+    "date": "2026-02-04T04:42:40.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/bihar/50000-crore-investment-being-made-in-energy-sector-bihar-energy-minister-bijendra-prasad-yadav/article70594659.ece",
+    "heading": "₹50,000 crore investment being made in Energy Sector: Bihar Energy Minister Bijendra Prasad Yadav",
+    "subheading": "Bihar invests ₹50,000 crore in energy; Kajra solar project promises uninterrupted power and green energy for the future.",
+    "date": "2026-02-05T07:03:40.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/sci-tech/technology/us-software-stocks-hit-by-anthropic-wake-up-call-on-ai-disruption/article70594232.ece",
+    "heading": "US software stocks hit by Anthropic wake-up call on AI disruption",
+    "subheading": "The declines came even as Nvidia CEO Jensen Huang played down fears AI would replace software and related tools, calling the idea “illogical” and saying “time will prove itself.”",
+    "date": "2026-02-05T04:44:22.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-loss-case-kerala-court-grants-statutory-bail-to-prime-accused-unnikrishnan-potti/article70594741.ece",
+    "heading": "Sabarimala gold loss case: Kerala court grants statutory bail to prime accused Unnikrishnan Potti",
+    "subheading": "Kerala court grants statutory bail to Unnikrishnan Potti, prime accused in Sabarimala gold loss case, due to SIT's delays.",
+    "date": "2026-02-05T07:13:26.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/sci-tech/technology/snap-reports-upbeat-fourth-quarter-revenue-as-holiday-season-boosts-ad-spending/article70594226.ece",
+    "heading": "Snap reports upbeat fourth-quarter revenue as holiday season boosts ad spending",
+    "subheading": "Snap beat Wall Street estimates for fourth-quarter revenue, ‍as more advertisers turned to the social media platform during the ​holiday season, sending its shares up over 5% in extended ‌trading.",
+    "date": "2026-02-05T05:39:12.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/news/international/bill-gates-says-he-regrets-every-minute-with-epstein/article70594242.ece",
+    "heading": "Bill Gates says he regrets ‘every minute’ with Jeffrey Epstein",
+    "subheading": "Bill Gates regrets his association with Jeffrey Epstein, denying accusations while Melinda French Gates reflects on painful memories.",
+    "date": "2026-02-05T03:12:27.000Z"
+  },
+  {
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-new-ai-tools-deepen-selloff-in-data-analytics-and-software-stocks-investors-say/article70590498.ece",
+    "heading": "Anthropic's new AI tools deepen selloff in data analytics and software stocks, investors say",
+    "subheading": "A significant selloff among U.S. and European data ​analytics, professional services and software companies deepened on Tuesday, with some investors pointing to a recently ‌updated artificial intelligence chatbot by Anthropic",
+    "date": "2026-02-04T06:17:28.000Z"
+  },
+  {
+    "url": "https://www.communicationstoday.co.in/apples-artificial-intelligence-feature-rollout-to-be-delayed/",
+    "heading": "Apple's Artificial Intelligence feature rollout to be delayed | Communications Today",
+    "subheading": "Important referral for telecom, networking, IT solution equipment buyer, and broadcasters since the last 25 years.",
+    "date": "2024-07-30T02:02:51+00:00"
+  },
+  {
+    "url": "https://www.communicationstoday.co.in/tcs-and-cii-unveil-the-2025-artificial-intelligence-ip-report-for-india/",
+    "heading": "TCS and CII unveil the 2025 Artificial Intelligence & IP Report for India | Communications Today",
+    "subheading": "Important referral for telecom, networking, IT solution equipment buyer, and broadcasters since the last 25 years.",
+    "date": "2025-12-17T01:39:24+00:00"
+  },
+  {
+    "url": "https://www.communicationstoday.co.in/banks-weigh-vis-%e2%82%b935000-crore-loan-amid-agr-relief-spectrum-pressure/",
+    "heading": "Banks weigh Vi’s ₹35,000 crore loan amid AGR relief, spectrum pressure | Communications Today",
+    "subheading": "Important referral for telecom, networking, IT solution equipment buyer, and broadcasters since the last 25 years.",
+    "date": "2026-02-05T02:58:54+00:00"
+  },
+  {
+    "url": "https://www.eletimes.ai/news/world-news",
+    "heading": "World News Archives - ELE Times",
+    "subheading": "Element Solutions Inc (ESI) today announced the completion of its acquisition of the Micromax conductive pastes and inks business, effective February 2, 2026. Micromax...",
+    "date": "February 5, 2026"
+  },
+  {
+    "url": "https://www.eletimes.ai/news/india-news",
+    "heading": "India News Archives - ELE Times",
+    "subheading": "India is hosting the AI Impact Summit 2026 under the Ministry of Electronics and Information Technology, this month from February 16-20. The Summit has...",
+    "date": "February 5, 2026"
+  },
+  {
+    "url": "https://indianexpress.com/article/india/railways-mumbai-ahmedabad-bullet-train-stations-integration-local-trains-metro-rail-10515158/",
+    "heading": "Railways eyes multi-modal integration of bullet train stations with Mumbai local trains, metro",
+    "subheading": "Mumbai-Ahmedabad bullet train project: The 508-km Mumbai–Ahmedabad High Speed Rail (MAHSR) project is being implemented with technical and financial assistance from the Government of Japan.",
+    "date": "2026-02-05T15:23:13+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/entertainment/bollywood/talwiinder-reveals-why-he-wears-a-mask-inspired-by-shaktiman-and-mr-india-10514751/",
+    "heading": "Talwiinder reveals why he wears a mask, inspired by Shaktiman and Mr India: ‘The real me just wants a normal life’",
+    "subheading": "Talwiinder, known for his mask and music, opens up about the inspiration behind his iconic stage persona, revealing why he chooses to perform behind a distinctive guise.",
+    "date": "2026-02-05T15:26:52+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/entertainment/telugu/mana-shankara-vara-prasad-garu-box-office-records-chiranjeevi-film-earns-rs-375-crore-10515138/",
+    "heading": "Mana Shankara Vara Prasad Garu rewrites box office records, hits Rs 375 crore milestone in 25 days",
+    "subheading": "Mana Shankara Vara Prasad Garu has crossed the Rs 375 crore mark worldwide in just 25 days, becoming Chiranjeevi’s biggest-ever blockbuster.",
+    "date": "2026-02-05T15:11:41+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/roblox-unveils-4d-ai-creation-tools-powered-by-cube-foundation-model-now-in-beta-10514919/?ref=artificial-intelligence_pg",
+    "heading": "Roblox unveils ‘4D’ AI creation tools powered by Cube Foundation Model, now in beta",
+    "subheading": "Roblox’s new 4D generation tools let players create fully functional in-game objects with simple text prompts, marking a leap from static 3D assets to interactive, AI-powered experiences.",
+    "date": "2026-02-05T12:17:49+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/india/gold-silver-rate-today-3-february-2026-live-updates-chennai-hyderabad-bangalore-mumbai-delhi-10510236/",
+    "heading": "Gold, Silver Rate Today, 4 February 2026 Live Updates: 24 K gold price rises over Rs 16,000 per gram",
+    "subheading": "Gold, Silver Price Today (February 4) in Chennai, Hyderabad, Bangalore, Mumbai, Delhi Live Updates: Track latest gold and silver prices in India, MCX futures movement, global bullion trends, and market drivers as gold shows recovery after recent correction from record highs.",
+    "date": "2026-02-03T09:02:06+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/sports/cricket/ind-vs-afg-u19-live-cricket-score-under-19-world-cup-2026-semi-final-india-vs-afghanistan-match-today-full-scorecard-harare-sports-club-updates-10512048/",
+    "heading": "India vs Afghanistan, U19 World Cup Semifinal Highlights: Aaron George&#8217;s century helps IND beat AFG by 7 wickets, reach final",
+    "subheading": "ICC Under-19 World Cup 2026: India chased down 311 vs Afghanistan to reach the finals.",
+    "date": "2026-02-04T10:09:42+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/section/entertainment/web-series/",
+    "heading": "Web Series News: Latest Web Series, Mirzapur 2 Release Date, Trailer, Netflix, Amazon Shows and Best Web Series",
+    "subheading": "Web Series News: Read the latest web series updates, Mirzapur 2 release date, Amazon new web series, Netflix new web series, TV Shows, Indian Web Series, Best Web Series at indianexpress.com",
+    "date": "20 min ago"
+  },
+  {
+    "url": "https://indianexpress.com/article/education/jee-main-2026-answer-key-live-updates-january-session-released-provisonal-jeemain-nta-nic-in-result-paper-1-be-btech-10509249/",
+    "heading": "JEE Main 2026 Answer Key Out Highlights: JEE Main Session 1 answer keys objection window opens",
+    "subheading": "JEE Main 2026 Answer Key and Response Sheet Download Direct Link at jeemain.nta.nic.in Highlights: The JEE Main answer key and session 1 response sheets has been made available today from the official websites - jeemain.nta.nic.in and nta.ac.in.",
+    "date": "2026-02-03T09:18:09+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/audio/3-things/assam-cms-miya-remarks-mohammad-deepak-row-and-mamata-banerjee-in-sc/10514184/",
+    "heading": "Assam CM’s ‘Miya’ remarks, Mohammad Deepak row, and Mamata Banerjee in SC",
+    "subheading": "The targeting of Bengali-origin Muslims in Assam, a man confronting a Hindu mob in Uttarakhand, and Mamata Banerjee’s challenge to the SIR in the Supreme Court.",
+    "date": "2026-02-05T06:00:03+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/latest-news/",
+    "heading": "Latest News",
+    "subheading": "T20 World Cup Press Conference Live Updates: ‘Our flight is booked for Colombo’ – Suryakumar Yadav on Pakistan boycotting India game",
+    "date": "Thursday, Feb 05, 2026"
+  },
+  {
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-moltbook-and-why-are-ai-bots-talking-to-each-other-there-10505074/?ref=artificial-intelligence_pg",
+    "heading": "No humans allowed: Inside Moltbook, the ‘Reddit for AI’ where bots are building their own society",
+    "subheading": "On Moltbook, AI agents post, argue, and exchange ideas like people on Reddit, except no one is sure who is really in control or what they might learn from each other.",
+    "date": "2026-02-03T07:57:11+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-fears-spark-brutal-selloff-in-legal-data-and-software-stocks-10513581/?ref=artificial-intelligence_pg",
+    "heading": "AI fears spark brutal selloff in legal, data and software stocks",
+    "subheading": "Anthropic introduced plug-ins for Claude Cowork agent that could automate tasks across legal, sales, marketing, and data analysis. The latest launch has sparked concerns about a looming AI-fuelled disruption in the data and professional services industry.",
+    "date": "2026-02-05T09:20:50+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/lifestyle/pets-animals/this-is-what-happens-to-your-pets-hormones-after-sterilisation-beyond-reproduction-10482614/",
+    "heading": "This is what happens to your pet’s hormones after sterilisation, beyond reproduction",
+    "subheading": "Spaying or neutering doesn’t just prevent pregnancy. From metabolism and weight gain to behaviour and long-term health, a vet explains how hormonal shifts after sterilisation quietly reshape a pet’s body.",
+    "date": "2026-02-05T15:00:00+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-live-5-creative-use-cases-10499105/?ref=artificial-intelligence_pg",
+    "heading": "From interviews to outfit tips: 5 ways Gemini Live can help with everyday tasks",
+    "subheading": "From interviews to language learning, here are practical ways to use Google Gemini Live in everyday life.",
+    "date": "2026-01-29T09:05:39+05:30"
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/unpublished-memoir-stalled-parliament-general-m-m-naravane-the-soldier-at-the-centre-of-a-political-face-off-10515233/",
+    "heading": "Unpublished memoir, stalled Parliament: General M M Naravane, the soldier at the centre of a political face-off",
+    "subheading": "Apart from tackling the tensions with China along the LAC in 2020, General Naravane oversaw the implementation of the Agnipath scheme during his tenure at the helm of the Indian Army",
+    "date": "2026-02-05T15:19:13+05:30"
+  },
+  {
+    "url": "https://theprint.in/ani-press-releases/aqylon-nexus-limited-signs-strategic-mou-with-mbuzz-technologies-for-ai-and-data-centre-opportunities/2845675/",
+    "heading": "Aqylon Nexus Limited Signs Strategic MoU with MBuzz Technologies for AI and Data Centre Opportunities",
+    "subheading": "PNN New Delhi [India], February 4: Aqylon Nexus Limited has signed a strategic MoU with MBuzz Technologies, Middle East, to explore AI solutions and hyperscale data centre opportunities. The non-binding agreement covers AI platform development, data centre infrastructure, and geographic expansion across India and the Middle East. Valid for one year from February 3, 2026, [&hellip;]",
+    "date": "2026-02-04T17:30:03+05:30"
+  },
+  {
+    "url": "https://theprint.in/ani-press-releases/bharathcloud-strengthens-north-india-presence-with-delhi-expansion-targets-100-new-hires-in-2026/2845571/",
+    "heading": "BharathCloud Strengthens North India Presence with Delhi Expansion, Targets 100+ New Hires in 2026",
+    "subheading": "PNN New Delhi [India], February 4: BharathCloud, a Hyderabad-based sovereign AI cloud services provider, has announced the launch of its Delhi office as part of its expansion into North India. With this, the company plans to onboard more than 100 employees in 2026, strengthening its workforce to support growing demand for AI-ready cloud infrastructure in [&hellip;]",
+    "date": "2026-02-04T16:30:31+05:30"
+  },
+  {
+    "url": "https://theprint.in/ani-press-releases/5-years-5-products-one-mission-enord-marks-half-a-decade-of-indigenous-ai-driven-drone-innovation-on-drone-day-2026/2845773/",
+    "heading": "5 Years. 5 Products. One Mission: ENORD Marks Half a Decade of Indigenous AI-Driven Drone Innovation on Drone Day 2026",
+    "subheading": "PNN New Delhi [India], February 4: ENORD Pvt. Ltd. marked Drone Day and its five-year milestone with a strategic conclave bringing together senior defence veterans, industry leaders, and academicians. The event focused on strengthening India&#8217;s unmanned aerial systems ecosystem through indigenous development, training, simulation, and responsible autonomy. Show Full Article In his address, Mr. Muhammad [&hellip;]",
+    "date": "2026-02-04T18:30:17+05:30"
+  },
+  {
+    "url": "https://egov.eletsonline.com/news/corporate-updates/",
+    "heading": "Corporate Updates : Latest news on Indian corporate industry - Elets eGov",
+    "subheading": "Corporate Updates News - Get the latest news on corporate, corporate announcement, publice sector,current affairs and much more on eGov Magazine",
+    "date": null
+  },
+  {
+    "url": "https://egov.eletsonline.com/press-release/",
+    "heading": "Press Release - Elets eGov",
+    "subheading": null,
+    "date": null
+  },
+  {
+    "url": "https://egov.eletsonline.com/news/union-budget/",
+    "heading": "Union Budget - Elets eGov",
+    "subheading": null,
+    "date": null
+  },
+  {
+    "url": "https://egov.eletsonline.com/2026/01/uttar-pradesh-transfers-6-pcs-officers-anupam-mishra-takes-charge-of-mathura-temple-complex-rakesh-kumar-posted-to-hamirpur/",
+    "heading": "Uttar Pradesh Transfers 6 PCS Officers; Anupam Mishra Takes Charge of Mathura Temple Complex, Rakesh Kumar Posted to Hamirpur - Elets eGov",
+    "subheading": "The Uttar Pradesh government has carried out a minor but significant administrative reshuffle, transferring six Provincial Civil Service (PCS) officers to new postings across the state.",
+    "date": "2026-01-30T07:21:01+00:00"
+  }
+]

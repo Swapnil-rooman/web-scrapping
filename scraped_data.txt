@@ -1,0 +1,593 @@
+COMPLETE SCRAPED DATA FROM https://rooman.com/
+================================================================================
+
+
+[1] HEADINGS
+--------------------------------------------------------------------------------
+1. AI - ML Engineer
+2. AI in Cybersecurity Intern
+3. AI - Data Analyst
+4. IT Ops: Network, Server & Cloud
+5. AI Agent Developer – Internship
+6. AI Product Developer
+7. Web Development with Gen AI
+8. AI Devops Engineer
+9. PROFESSIONAL PROGRAMS
+10. Global IT Certification
+11. IT STAFFING
+12. CORPORATE TRAINING
+13. ROOKIE TRAINING
+14. IT Services
+15. minor degree
+16. honors degree
+17. implementing skillhub initiative
+18. IT Services
+19. CAREER ENHANCEMENT SERVICES
+20. Rooman Virtual Internship ProgramsLearn. Build. Get Certified.
+21. Gain industry-ready skills with project-based learning, expert mentorship, and a verified certificate that sets you apart in the job market.
+22. Want to Crack Interviews withConfidence?
+23. A comprehensive 120-hour prep that blends AI-based mock interviews, soft skills, and technical exploration to get freshers job-ready—designed by Rooman.
+24. Looking for SkillsThat Guarantee You a Job?
+25. Our job-guaranteed pathway blends expert-led learning with real employer engagement—finish qualified and hired.
+26. Have the Skills?We Have the Jobs.
+27. Rooman’s Placement Drive connects your talent to recruiters looking for fresh, skilled graduates.
+28. Rooman Virtual Internship ProgramsLearn. Build. Get Certified.
+29. Gain industry-ready skills with project-based learning, expert mentorship, and a verified certificate that sets you apart in the job market.
+30. Want to Crack Interviews withConfidence?
+31. A comprehensive 120-hour prep that blends AI-based mock interviews, soft skills, and technical exploration to get freshers job-ready—designed by Rooman.
+32. Looking for SkillsThat Guarantee You a Job?
+33. Our job-guaranteed pathway blends expert-led learning with real employer engagement—finish qualified and hired.
+34. Have the Skills?We Have the Jobs.
+35. Rooman’s Placement Drive connects your talent to recruiters looking for fresh, skilled graduates.
+36. Milestones That Define Our Legacy
+37. Years in Operation
+38. Learners Trained
+39. Careers Enabled
+40. Hiring Partners
+41. Industry-Aligned Courses
+42. In Collaboration With Leading Industry Partners
+43. FEATURED COURSES
+44. Find your destination
+45. Internships
+46. Professional Program
+47. Global Certification
+48. FEATURED COURSES
+49. Find your destination
+50. 26 Years of Excellence in Education & Training
+51. About Our Faculties
+52. Take the Next Step Towards Your Personal & Professional Goals with our Master Trainers
+53. Success Stories
+54. What Students Say About Us?
+55. We are one of the most trusted brands
+56. Awards & Recognition
+57. Follow Rooman
+58. Internship
+59. Interview Prep
+60. Job Guaranteed Courses
+61. Corporates
+62. Developer & IT
+63. Company
+64. Become Job-Ready with RoomanRegister Today!
+
+
+[2] PARAGRAPHS
+--------------------------------------------------------------------------------
+1. Hands-on, Industry-focused learning
+2. Job-ready skills for modern tech roles
+3. Globally recognized IT credentials
+4. Interview PrepIT Ignite, Softskill & AptitudeDuration 300 Hrs15294 LearnersLearn MoreInterview PrepFull Stack DeveloperDuration 300 Hrs15294 LearnersLearn MoreInterview PrepCloud TechnologiesDuration 300 Hrs15294 LearnersLearn MoreInterview PrepNetworking & CybersecurityDuration 400 Hrs15294 LearnersLearn MoreInterview PrepData AnalystDuration 350 Hrs15294 LearnersLearn More
+5. Job GuaranteedNetworking & CybersecurityDuration 300 Hrs15294 LearnersLearn MoreJob GuaranteedCloud Computing & DevOpsDuration 300 Hrs15294 LearnersLearn MoreJob GuaranteedJava Full Stack DevelopmentDuration 400 Hrs15294 LearnersLearn MoreJob GuaranteedData Science & Machine LearningDuration 350 Hrs15294 LearnersLearn More
+6. CertificationCCNA (Cisco Certified Network Associate)Duration 50 Hrs281349 LearnersLearn MoreCertificationAWS Certified Solutions Architect AssociateDuration 100 Hrs4578 LearnersLearn MoreCertificationJava Certification ProgrammingDuration 150 Hrs107896 LearnersLearn MoreCertificationCCNP (Cisco Certified Network Professional)Duration 120 Hrs281349 LearnersLearn MoreCertificationPython ProgrammingDuration 120 Hrs281349 LearnersLearn MoreCertificationCertified Ethical HackerDuration 100 Hrs6785 LearnersLearn MoreCertificationWeb TechnologiesDuration 120 Hrs15294 LearnersLearn MoreCertificationMicrosoft Azure Solution ArchitectDuration 80 Hrs13767 LearnersLearn MoreCertificationRedHat Certified System Admin [RHCSA]Duration 120 Hrs9877 LearnersLearn More
+7. Our master trainers are industry experts dedicated to supporting your growth, both personally and professionally.With our100% Placement Courses, you’ll benefit from their deep knowledge and hands-on experience as you move forward in your career.Over1.2 million studentshave already joined our learning community. You can be next. Discover the right course to boost your skills and build a brighter future.We frequently update our curriculum to reflect the latest industry demands.As a result, you’ll learn the most relevant and in-demand skills employers are looking for today.Our programs include real-world case studies, practical projects, and immersive simulations.This approachprepares you for both the challenges and the opportunities of the modern workplace — all as part of our commitment tocareer-ready, 100% Placement Courses.
+8. Copyrights  © 2026 Rooman Technologies
+
+
+[3] LINKS
+--------------------------------------------------------------------------------
+1. Text: Skip to content
+    URL: #content
+
+3. Text: Internship
+    URL: https://rooman.com/internship/
+
+4. Text: AI - ML Engineer
+    URL: https://rooman.com/internship/ai-ml-engineer/
+
+5. Text: AI in Cybersecurity Intern
+    URL: https://rooman.com/internship/ai-in-cybersecurity-intern/
+
+6. Text: AI - Data Analyst
+    URL: https://rooman.com/internship/ai-data-analyst/
+
+7. Text: IT Ops: Network, Server & Cloud
+    URL: https://rooman.com/internship/it-ops-network-server-cloud/
+
+8. Text: AI Agent Developer – Internship
+    URL: https://rooman.com/internship/ai-agent-developer-internship/
+
+9. Text: AI Product Developer
+    URL: https://rooman.com/internship/ai-product-developer/
+
+10. Text: Web Development with Gen AI
+    URL: https://rooman.com/internship/web-development-with-gen-ai/
+
+11. Text: AI Devops Engineer
+    URL: https://rooman.com/internship/ai-devops-engineer/
+
+12. Text: For Students
+    URL: https://rooman.com/for-students/
+
+13. Text: PROFESSIONAL PROGRAMS
+    URL: https://rooman.com/professional/
+
+14. Text: Cloud and DevOps
+    URL: https://rooman.com/professional/cloud-and-devops/
+
+15. Text: Full Stack Development with Gen AI
+    URL: https://rooman.com/professional/full-stack-development-with-gen-ai/
+
+16. Text: AI and Data Analytics
+    URL: https://rooman.com/professional/ai-da/
+
+17. Text: Cyber Security Expert
+    URL: https://rooman.com/professional/professional-in-cyber-security-expert/
+
+18. Text: Generative AI and MLOps
+    URL: https://rooman.com/professional/professional-in-generative-ai-and-mlops/
+
+19. Text: Cisco Certified Network Associate
+    URL: https://rooman.com/global-it-certification/ccna-cisco-certified-network-associate/
+
+20. Text: AWS Certified Solutions Architect Associate
+    URL: https://rooman.com/global-it-certification/aws-certified-solutions-architect-associate/
+
+21. Text: Java Certification Programming
+    URL: https://rooman.com/global-it-certification/core-java/
+
+22. Text: Cisco Certified Network Professional
+    URL: https://rooman.com/global-it-certification/ccnp-cisco-certified-network-professional/
+
+23. Text: Python Programming
+    URL: https://rooman.com/global-it-certification/python-programming/
+
+24. Text: Certified Ethical Hacker
+    URL: https://rooman.com/global-it-certification/certified-ethical-hacker/
+
+25. Text: Web Technologies
+    URL: https://rooman.com/global-it-certification/web-development/
+
+26. Text: Microsoft Azure Solution Architect
+    URL: https://rooman.com/global-it-certification/microsoft-azure-solution-architect/
+
+27. Text: RedHat Certified System Admin
+    URL: https://rooman.com/global-it-certification/redhat-certified-system-admin-rhcsa/
+
+28. Text: AWS Certified DevOps Engineer Professional
+    URL: https://rooman.com/global-it-certification/aws-certified-devops-engineer-professional/
+
+29. Text: For Corporates
+    URL: https://rooman.com/corporate/
+
+30. Text: IT STAFFING
+    URL: https://rooman.com/it-staffing/
+
+31. Text: CORPORATE TRAINING
+    URL: https://rooman.com/corporate-training/
+
+32. Text: ROOKIE TRAINING
+    URL: https://rooman.com/rookie-training/
+
+33. Text: IT Services
+    URL: https://rooman.com/it-services-corporate/
+
+34. Text: For Universities
+    URL: http://rooman.com/foruniversities/
+
+35. Text: minor degree
+    URL: https://rooman.com/minor-degree-from-iit-guwahati/
+
+36. Text: honors degree
+    URL: https://rooman.com/honors-degree/
+
+37. Text: implementing skillhub initiative
+    URL: https://rooman.com/skillhub/
+
+38. Text: IT Services
+    URL: https://rooman.com/it-services/
+
+39. Text: CoE
+    URL: https://rooman.com/coe/
+
+40. Text: Placements
+    URL: https://rooman.com/placements/
+
+41. Text: Hackathons
+    URL: https://rooman.com/hackathon/
+
+42. Text: Capstone Projects
+    URL: https://rooman.com/capstone-projects/
+
+43. Text: JOBS
+    URL: https://rooman.com/jobs/
+
+44. Text: Contact Us
+    URL: https://rooman.com/contact-us/
+
+48. Text: Cyber Security
+    URL: https://rooman.com/internship/cyber-security-2/
+
+57. Text: Interview Prep
+    URL: https://rooman.com/interview-prep/
+
+58. Text: Interview Prep Program
+    URL: http://rooman.com/interview-prep/interview-prep-program/
+
+60. Text: Cloud Technologies
+    URL: http://rooman.com/interviewprep/full-stack-developer/
+
+61. Text: Networking & Cybersecurity
+    URL: http://rooman.com/interviewprep/networking-cybersecurity/
+
+62. Text: Data Analyst
+    URL: http://rooman.com/interviewprep/data-analyst/
+
+63. Text: Job Guaranteed Courses
+    URL: https://rooman.com/job-guaranteed-courses/
+
+64. Text: Networking & Cybersecurity
+    URL: http://rooman.com/job-guaranteed-courses/networking-cybersecurity/
+
+65. Text: Cloud Computing & DevOps
+    URL: http://rooman.com/job-guaranteed-courses/cloud-computing-devops/
+
+66. Text: Java Full Stack Development
+    URL: http://rooman.com/job-guaranteed-courses/java-full-stack-development/
+
+67. Text: Data Science & Machine Learning
+    URL: http://rooman.com/job-guaranteed-courses/data-science-machine-learning/
+
+69. Text: Cloud and DevOps​
+    URL: http://rooman.com/cloud-and-devops/
+
+70. Text: Full Stack Development with Gen AI
+    URL: http://rooman.com/full-stack-development-with-gen-ai/
+
+71. Text: AI and Data Analytics
+    URL: http://rooman.com/ai-and-data-analytics/
+
+72. Text: Cyber Security Expert
+    URL: http://rooman.com/for-students/professional-program/professional-in-cyber-security-expert/
+
+73. Text: Generative AI and MLOps
+    URL: http://rooman.com/for-students/professional-program/professional-in-generative-ai-and-mlops/
+
+74. Text: Machine Learning & Deep Learning
+    URL: http://rooman.com/for-students/professional-program/professional-in-machine-learning-deep-learning/
+
+75. Text: Global IT Certification
+    URL: https://rooman.com/global-it-certification/
+
+76. Text: Cisco Certified Network Associate
+    URL: http://rooman.com/global-it-certification/ccna-cisco-certified-network-associate/
+
+77. Text: AWS Certified Solutions Architect Associate
+    URL: http://rooman.com/global-it-certification/aws-certified-solutions-architect-associate/
+
+78. Text: Java Certification Programming
+    URL: http://rooman.com/global-it-certification/core-java/
+
+79. Text: Cisco Certified Network Professional
+    URL: http://rooman.com/global-it-certification/ccnp-cisco-certified-network-professional/
+
+80. Text: Python Programming
+    URL: http://rooman.com/global-it-certification/python-programming/
+
+81. Text: Certified Ethical Hacker
+    URL: http://rooman.com/global-it-certification/certified-ethical-hacker/
+
+82. Text: Web Technologies
+    URL: http://rooman.com/global-it-certification/web-development/
+
+83. Text: Microsoft Azure Solution Architect
+    URL: http://rooman.com/global-it-certification/microsoft-azure-solution-architect/
+
+84. Text: RedHat Certified System Admin
+    URL: http://rooman.com/global-it-certification/redhat-certified-system-admin-rhcsa/
+
+85. Text: AWS Certified DevOps Engineer Professional
+    URL: http://rooman.com/global-it-certification/aws-certified-devops-engineer-professional/
+
+91. Text: For Universities
+    URL: https://rooman.com/foruniversities/
+
+96. Text: CAREER ENHANCEMENT SERVICES
+    URL: #
+
+103. Text: Explore More
+    URL: https://rooman.com/interviewprep/
+
+108. Text: Explore Programs
+    URL: https://rooman.com/Job-Guaranteed-programs/
+
+110. Text: Interview Prep Program
+    URL: #Content-e71c4f56981ef32c9e72
+
+111. Text: Job Guaranteed Courses
+    URL: #Content-a4c5b526981ef32c9e72
+
+112. Text: Global IT Certification
+    URL: #Content-38319fd6981ef32c9e72
+
+113. Text: Interview Prep
+    URL: https://rooman.com/interviewprep/full-stack-developer/
+
+117. Text: Interview Prep
+    URL: https://rooman.com/interviewprep/cloud-technologies/
+
+119. Text: Interview Prep
+    URL: https://rooman.com/interviewprep/networking-cybersecurity/
+
+121. Text: Interview Prep
+    URL: https://rooman.com/interviewprep/data-analyst/
+
+123. Text: Job Guaranteed
+    URL: https://rooman.com/job-guaranteed-courses/networking-cybersecurity/
+
+125. Text: Job Guaranteed
+    URL: https://rooman.com/job-guaranteed-courses/cloud-computing-devops/
+
+127. Text: Job Guaranteed
+    URL: https://rooman.com/job-guaranteed-courses/java-full-stack-development/
+
+129. Text: Job Guaranteed
+    URL: https://rooman.com/job-guaranteed-courses/data-science-machine-learning/
+
+131. Text: Certification
+    URL: https://rooman.com/global-it-certification/ccna-200-301/
+
+137. Text: Certification
+    URL: https://rooman.com/global-it-certification/ccnp-200-301/
+
+149. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/Gulfishar-Bano.webp
+
+150. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/Pallavi-Achar.webp
+
+151. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST9.webp
+
+152. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST8.webp
+
+153. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST10.webp
+
+154. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST5.webp
+
+155. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST1.webp
+
+156. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST4.webp
+
+157. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST3.webp
+
+158. Text: Play
+    URL: https://rooman.com/wp-content/uploads/2025/08/ST7.webp
+
+159. Text: More Success Stories
+    URL: https://rooman.com/success-stories/
+
+161. Text: Icon-facebook
+    URL: https://www.facebook.com/RoomanTechnology/
+
+162. Text: Instagram
+    URL: https://www.instagram.com/rooman_tech/
+
+163. Text: X-twitter
+    URL: https://twitter.com/Rooman_Techno
+
+164. Text: Linkedin
+    URL: https://www.linkedin.com/company/rooman-technologies/
+
+165. Text: Youtube
+    URL: https://www.youtube.com/channel/UCWkOSkzgi6kYFQn09Q40p3Q
+
+169. Text: Devops Engineer
+    URL: https://rooman.com/internship/devops-engineer/
+
+170. Text: Cloud Application Developer
+    URL: https://rooman.com/internship/cloud-application-developer/
+
+171. Text: Application Developer Web & Mobile
+    URL: https://rooman.com/internship/application-developer-web-and-mobile/
+
+176. Text: IT Ignite, Softskill & Aptitude
+    URL: https://rooman.com/interviewprep-draft/interview-prep-program/
+
+179. Text: Networking & Cybersecurity
+    URL: https://rooman.com/job-guranteed-courses/networking-cybersecurity/
+
+180. Text: Cloud Computing & DevOps
+    URL: https://rooman.com/job-guranteed-courses/cloud-computing-devops/
+
+181. Text: Java Full Stack Development
+    URL: https://rooman.com/job-guranteed-courses/java-full-stack-development/
+
+182. Text: Data Science & Machine Learning
+    URL: https://rooman.com/job-guranteed-courses/data-science-machine-learning/
+
+189. Text: Blog
+    URL: https://rooman.com/blogs/
+
+190. Text: Careers
+    URL: https://rooman.com/careers/
+
+191. Text: About Us
+    URL: https://rooman.com/about-us/
+
+193. Text: Privacy
+    URL: https://rooman.com/privacy-policy/
+
+194. Text: Terms of use
+    URL: https://rooman.com/lp-term-conditions/
+
+
+[4] IMAGES
+--------------------------------------------------------------------------------
+1. Alt Text: 
+    Source: https://rooman.com/wp-content/uploads/2024/03/Rooman-Logo-2.png
+
+2. Alt Text: 
+    Source: https://rooman.com/wp-content/uploads/2024/03/Rooman-Logo-2.png
+
+3. Alt Text: 
+    Source: https://rooman.com/wp-content/uploads/2024/03/Rooman-Logo-2.png
+
+4. Alt Text: microsoft_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/microsoft_logo.jpg
+
+5. Alt Text: VMware_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/VMware_logo.png
+
+6. Alt Text: Google_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/Google_logo.png
+
+7. Alt Text: red_hat_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/red_hat_logo.png
+
+8. Alt Text: offensive_security_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/offensive_security_logo.png
+
+9. Alt Text: CISCO_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/CISCO_logo.png
+
+10. Alt Text: nasscom_logo
+    Source: https://rooman.com/wp-content/uploads/2024/03/nasscom_logo.jpg
+
+11. Alt Text: AWS logo_1
+    Source: https://rooman.com/wp-content/uploads/2024/12/AWS-logo_1.png
+
+12. Alt Text: IT IGnite-1 (1)
+    Source: https://rooman.com/wp-content/uploads/2025/08/IT-IGnite-1-1.webp
+
+13. Alt Text: Application Developer Web & Mobile
+    Source: https://rooman.com/wp-content/uploads/2025/02/Application-Developer-Web-Mobile.webp
+
+14. Alt Text: Cloud Application Developer
+    Source: https://rooman.com/wp-content/uploads/2025/02/Cloud-Application-Developer-1.webp
+
+15. Alt Text: cyber-security
+    Source: https://rooman.com/wp-content/uploads/2025/01/cyber-security.jpg
+
+16. Alt Text: AI - Data Analyst
+    Source: https://rooman.com/wp-content/uploads/2025/02/AI-Data-Analyst.webp
+
+17. Alt Text: networking
+    Source: https://rooman.com/wp-content/uploads/2024/05/networking.jpg
+
+18. Alt Text: Cloud Computing & DevOps
+    Source: https://rooman.com/wp-content/uploads/2024/05/Cloud-Computing-DevOps.webp
+
+19. Alt Text: Java Full Stack Development
+    Source: https://rooman.com/wp-content/uploads/2024/05/Java-Full-Stack-Development.webp
+
+20. Alt Text: data-science
+    Source: https://rooman.com/wp-content/uploads/2024/05/data-science.jpg
+
+21. Alt Text: Cisco Certified Network Associate
+    Source: https://rooman.com/wp-content/uploads/2024/05/Cisco-Certified-Network-Associate.webp
+
+22. Alt Text: AWS Certified Solutions Architect Associate
+    Source: https://rooman.com/wp-content/uploads/2024/05/AWS-Certified-Solutions-Architect-Associate.webp
+
+23. Alt Text: Java Certification Programming
+    Source: https://rooman.com/wp-content/uploads/2024/05/Java-Certification-Programming.webp
+
+24. Alt Text: Cisco Certified Network Professional
+    Source: https://rooman.com/wp-content/uploads/2024/05/Cisco-Certified-Network-Professional.webp
+
+25. Alt Text: Python Programming
+    Source: https://rooman.com/wp-content/uploads/2024/05/Python-Programming.webp
+
+26. Alt Text: Certified Ethical Hacker
+    Source: https://rooman.com/wp-content/uploads/2024/05/Certified-Ethical-Hacker.webp
+
+27. Alt Text: Web Technologies
+    Source: https://rooman.com/wp-content/uploads/2024/05/Web-Technologies.webp
+
+28. Alt Text: Microsoft Azure Solution Architect
+    Source: https://rooman.com/wp-content/uploads/2024/05/Microsoft-Azure-Solution-Architect.webp
+
+29. Alt Text: RedHat Certified System Admin
+    Source: https://rooman.com/wp-content/uploads/2024/05/RedHat-Certified-System-Admin.webp
+
+30. Alt Text: students trained-2
+    Source: https://rooman.com/wp-content/uploads/2024/09/Faculty-3.jpg
+
+31. Alt Text: students trained-1
+    Source: https://rooman.com/wp-content/uploads/2024/09/Faculty-1.jpg
+
+32. Alt Text: Faculty-2
+    Source: https://rooman.com/wp-content/uploads/2024/09/Faculty-2.jpg
+
+33. Alt Text: Faculty-4
+    Source: https://rooman.com/wp-content/uploads/2024/09/Faculty-4.jpg
+
+34. Alt Text: 
+    Source: http://rooman.net/uat/wp-content/uploads/2024/03/goal-img-3.png
+
+35. Alt Text: Economic Times Education Excellence Award - 2025
+    Source: https://rooman.com/wp-content/uploads/2025/08/Economic-Times-Education-Excellence-Award-2025.webp
+
+36. Alt Text: NSDC - Best Practice Recognition Award
+    Source: https://rooman.com/wp-content/uploads/2025/08/NSDC-Best-Practice-Recognition-Award.webp
+
+37. Alt Text: Brands Academy - Education Excellence Award
+    Source: https://rooman.com/wp-content/uploads/2025/08/Brands-Academy-Education-Excellence-Award.webp
+
+38. Alt Text: SKOCH AWARD - Indias Honest Independent Award
+    Source: https://rooman.com/wp-content/uploads/2025/08/SKOCH-AWARD-Indias-Honest-Independent-Award.webp
+
+39. Alt Text: All India Technical and Management Council - Leading Skill Training Partner Award
+    Source: https://rooman.com/wp-content/uploads/2025/08/All-India-Technical-and-Management-Council-Leading-Skill-Training-Partner-Award.webp
+
+40. Alt Text: ASSOCHAM - Summit-cum-Awards in Skilling India
+    Source: https://rooman.com/wp-content/uploads/2025/08/ASSOCHAM-Summit-cum-Awards-in-Skilling-India.webp
+
+41. Alt Text: Prime Time Global Education Excellence Awards-2014
+    Source: https://rooman.com/wp-content/uploads/2025/08/Prime-Time-Global-Education-Excellence-Awards-2014.webp
+
+
+[5] BUTTONS
+--------------------------------------------------------------------------------
+2. X
+4. X
+
+[6] ADDITIONAL TEXT CONTENT
+--------------------------------------------------------------------------------
+• InternshipAI - ML EngineerAI in Cybersecurity InternAI - Data AnalystIT Ops: Network, Server & CloudAI Agent Developer – InternshipAI Product DeveloperWeb Development with Gen AIAI Devops EngineerFor StudentsPROFESSIONAL PROGRAMSCloud and DevOpsFull Stack Development with Gen AIAI and Data AnalyticsCyber Security ExpertGenerative AI and MLOpsGlobal IT CertificationCisco Certified Network AssociateAWS Certified Solutions Architect AssociateJava Certification ProgrammingCisco Certified Network ProfessionalPython ProgrammingCertified Ethical HackerWeb TechnologiesMicrosoft Azure Solution ArchitectRedHat Certified System AdminAWS Certified DevOps Engineer ProfessionalFor CorporatesIT STAFFINGCORPORATE TRAININGROOKIE TRAININGIT ServicesFor Universitiesminor degreehonors degreeimplementing skillhub initiativeIT ServicesCAREER ENHANCEMENT SERVICESCoEPlacementsHackathonsCapstone ProjectsJOBSXContact UsInternshipCyber SecurityIT Ops: Network, Server & CloudAI – ML EngineerAI – Data AnalystAI Product DeveloperAI Devops EngineerAI Agent Developer – InternshipWeb Development with Gen AIFor StudentsInterview PrepInterview Prep ProgramFull Stack DeveloperCloud TechnologiesNetworking & CybersecurityData AnalystJob Guaranteed CoursesNetworking & CybersecurityCloud Computing & DevOpsJava Full Stack DevelopmentData Science & Machine LearningProfessional ProgramCloud and DevOps​Full Stack Development with Gen AIAI and Data AnalyticsCyber Security ExpertGenerative AI and MLOpsMachine Learning & Deep LearningGlobal IT CertificationCisco Certified Network AssociateAWS Certified Solutions Architect AssociateJava Certification ProgrammingCisco Certified Network ProfessionalPython ProgrammingCertified Ethical HackerWeb TechnologiesMicrosoft Azure Solution ArchitectRedHat Certified System AdminAWS Certified DevOps Engineer ProfessionalFor CorporateIT StaffingCorporate TrainingRookie TrainingIT Services – CorporateFor UniversitiesMinor DegreeHonors DegreeImplementing Skill Hub InitiativeIT ServicesCAREER ENHANCEMENT SERVICESCOEPlacementsHackathonCapstone ProjectsJOBSXRooman Virtual Internship ProgramsLearn. Build. Get Certified.Gain industry-ready skills with project-based learning, expert mentorship, and a verified certificate that sets you apart in the job market.Explore ProgramsWant to Crack Interviews withConfidence?A comprehensive 120-hour prep that blends AI-based mock interviews, soft skills, and technical exploration to get freshers job-ready—designed by Rooman.Explore MoreLooking for SkillsThat Guarantee You a Job?Our job-guaranteed pathway blends expert-led learning with real employer engagement—finish qualified and hired.Explore ProgramsHave the Skills?We Have the Jobs.Rooman’s Placement Drive connects your talent to recruiters looking for fresh, skilled graduates.Explore MoreRooman Virtual Internship ProgramsLearn. Build. Get Certified.Gain industry-ready skills with project-based learning, expert mentorship, and a verified certificate that sets you apart in the job market.Explore ProgramsWant to Crack Interviews withConfidence?A comprehensive 120-hour prep that blends AI-based mock interviews, soft skills, and technical exploration to get freshers job-ready—designed by Rooman.Explore MoreLooking for SkillsThat Guarantee You a Job?Our job-guaranteed pathway blends expert-led learning with real employer engagement—finish qualified and hired.Explore ProgramsHave the Skills?We Have the Jobs.Rooman’s Placement Drive connects your talent to recruiters looking for fresh, skilled graduates.Explore MoreMilestones That Define Our Legacy0+Years in OperationM+Learners Trained0M+Careers Enabled0+Hiring Partners0+Industry-Aligned CoursesIn Collaboration With Leading Industry PartnersFEATURED COURSESFind your destinationInternshipsHands-on, Industry-focused learningProfessional ProgramJob-ready skills for modern tech rolesGlobal CertificationGlobally recognized IT credentialsFEATURED COURSESFind your destinationInterview Prep ProgramJob Guaranteed CoursesGlobal IT CertificationInterview PrepIT Ignite, Softskill & AptitudeDuration 300 Hrs15294 LearnersLearn MoreInterview PrepFull Stack DeveloperDuration 300 Hrs15294 LearnersLearn MoreInterview PrepCloud TechnologiesDuration 300 Hrs15294 LearnersLearn MoreInterview PrepNetworking & CybersecurityDuration 400 Hrs15294 LearnersLearn MoreInterview PrepData AnalystDuration 350 Hrs15294 LearnersLearn MoreJob GuaranteedNetworking & CybersecurityDuration 300 Hrs15294 LearnersLearn MoreJob GuaranteedCloud Computing & DevOpsDuration 300 Hrs15294 LearnersLearn MoreJob GuaranteedJava Full Stack DevelopmentDuration 400 Hrs15294 LearnersLearn MoreJob GuaranteedData Science & Machine LearningDuration 350 Hrs15294 LearnersLearn MoreCertificationCCNA (Cisco Certified Network Associate)Duration 50 Hrs281349 LearnersLearn MoreCertificationAWS Certified Solutions Architect AssociateDuration 100 Hrs4578 LearnersLearn MoreCertificationJava Certification ProgrammingDuration 150 Hrs107896 LearnersLearn MoreCertificationCCNP (Cisco Certified Network Professional)Duration 120 Hrs281349 LearnersLearn MoreCertificationPython ProgrammingDuration 120 Hrs281349 LearnersLearn MoreCertificationCertified Ethical HackerDuration 100 Hrs6785 LearnersLearn MoreCertificationWeb TechnologiesDuration 120 Hrs15294 LearnersLearn MoreCertificationMicrosoft Azure Solution ArchitectDuration 80 Hrs13767 LearnersLearn MoreCertificationRedHat Certified System Admin [RHCSA]Duration 120 Hrs9877 LearnersLearn More26 Years of Excellence in Education & TrainingStudents Empowered0M+About Our FacultiesTake the Next Step Towards Your Personal & Professional Goals with our Master TrainersOur master trainers are industry experts dedicated to supporting your growth, both personally and professionally.With our100% Placement Courses, you’ll benefit from their deep knowledge and hands-on experience as you move forward in your career.Over1.2 million studentshave already joined our learning community. You can be next. Discover the right course to boost your skills and build a brighter future.We frequently update our curriculum to reflect the latest industry demands.As a result, you’ll learn the most relevant and in-demand skills employers are looking for today.Our programs include real-world case studies, practical projects, and immersive simulations.This approachprepares you for both the challenges and the opportunities of the modern workplace — all as part of our commitment tocareer-ready, 100% Placement Courses.Success StoriesWhat Students Say About Us?PlayPlayPlayPlayPlayPlayPlayPlayPlayPlayMore Success StoriesWe are one of the most trusted brandsAwards & RecognitionEconomic Times Education Excellence Award - 2025NSDC - Best Practice Recognition AwardBrands Academy - Education Excellence AwardSKOCH AWARD - Indias Honest Independent AwardAll India Technical and Management Council - Leading Skill Training Partner AwardASSOCHAM - Summit-cum-Awards in Skilling IndiaPrime Time Global Education Excellence Awards-2014Follow RoomanIcon-facebookInstagramX-twitterLinkedinYoutubeInternshipAI - ML EngineerAI - Data AnalystDevops EngineerCloud Application DeveloperApplication Developer Web & MobileInterview PrepData AnalystCloud TechnologiesFull Stack DeveloperIT Ignite, Softskill & AptitudeNetworking & CybersecurityJob Guaranteed CoursesNetworking & CybersecurityCloud Computing & DevOpsJava Full Stack DevelopmentData Science & Machine LearningCorporatesIT StaffingIT ServicesRookie TrainingCorporate TrainingDeveloper & ITCompanyJobsBlogCareersAbout UsContact UsCopyrights  © 2026 Rooman TechnologiesPrivacyTerms of use
+• InternshipAI - ML EngineerAI in Cybersecurity InternAI - Data AnalystIT Ops: Network, Server & CloudAI Agent Developer – InternshipAI Product DeveloperWeb Development with Gen AIAI Devops EngineerFor StudentsPROFESSIONAL PROGRAMSCloud and DevOpsFull Stack Development with Gen AIAI and Data AnalyticsCyber Security ExpertGenerative AI and MLOpsGlobal IT CertificationCisco Certified Network AssociateAWS Certified Solutions Architect AssociateJava Certification ProgrammingCisco Certified Network ProfessionalPython ProgrammingCertified Ethical HackerWeb TechnologiesMicrosoft Azure Solution ArchitectRedHat Certified System AdminAWS Certified DevOps Engineer ProfessionalFor CorporatesIT STAFFINGCORPORATE TRAININGROOKIE TRAININGIT ServicesFor Universitiesminor degreehonors degreeimplementing skillhub initiativeIT ServicesCAREER ENHANCEMENT SERVICESCoEPlacementsHackathonsCapstone ProjectsJOBSXContact Us
+• InternshipAI - ML EngineerAI in Cybersecurity InternAI - Data AnalystIT Ops: Network, Server & CloudAI Agent Developer – InternshipAI Product DeveloperWeb Development with Gen AIAI Devops EngineerFor StudentsPROFESSIONAL PROGRAMSCloud and DevOpsFull Stack Development with Gen AIAI and Data AnalyticsCyber Security ExpertGenerative AI and MLOpsGlobal IT CertificationCisco Certified Network AssociateAWS Certified Solutions Architect AssociateJava Certification ProgrammingCisco Certified Network ProfessionalPython ProgrammingCertified Ethical HackerWeb TechnologiesMicrosoft Azure Solution ArchitectRedHat Certified System AdminAWS Certified DevOps Engineer ProfessionalFor CorporatesIT STAFFINGCORPORATE TRAININGROOKIE TRAININGIT ServicesFor Universitiesminor degreehonors degreeimplementing skillhub initiativeIT ServicesCAREER ENHANCEMENT SERVICESCoEPlacementsHackathonsCapstone ProjectsJOBSX
+• AI - ML EngineerAI in Cybersecurity InternAI - Data AnalystIT Ops: Network, Server & CloudAI Agent Developer – InternshipAI Product DeveloperWeb Development with Gen AIAI Devops Engineer
+• AI - ML Engineer
+• AI in Cybersecurity Intern
+• AI - Data Analyst
+• IT Ops: Network, Server & Cloud
+• AI Agent Developer – Internship
+• AI Product Developer
+• Web Development with Gen AI
+• AI Devops Engineer
+
+
+[7] SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Headings: 64
+Total Paragraphs: 8
+Total Links: 117
+Total Images: 41
+Total Buttons: 10
+Total Unique Text Elements: 12
