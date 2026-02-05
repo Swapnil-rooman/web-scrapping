@@ -29,34 +29,8 @@ Parameters:
     Description: Ephemeral storage size for Lambda (/tmp directory) in MB
 
 Resources:
-  # ECR Repository for Docker images
-  ECRRepository:
-    Type: AWS::ECR::Repository
-    Properties:
-      RepositoryName: !Sub '${ProjectName}-repo'
-      ImageScanningConfiguration:
-        ScanOnPush: true
-      LifecyclePolicy:
-        LifecyclePolicyText: |
-          {
-            "rules": [
-              {
-                "rulePriority": 1,
-                "description": "Keep last 5 images",
-                "selection": {
-                  "tagStatus": "any",
-                  "countType": "imageCountMoreThan",
-                  "countNumber": 5
-                },
-                "action": {
-                  "type": "expire"
-                }
-              }
-            ]
-          }
-      Tags:
-        - Key: Project
-          Value: !Ref ProjectName
+  # Note: ECR Repository is created separately (not managed by this stack)
+  # Run: aws ecr create-repository --repository-name web-scraper-repo --region ap-south-1
 
   # S3 Bucket for scraped data
   ScrapedDataBucket:
@@ -141,7 +115,7 @@ Resources:
       PackageType: Image
       Role: !GetAtt LambdaExecutionRole.Arn
       Code:
-        ImageUri: !Sub '${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest'
+        ImageUri: !Sub '${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ProjectName}-repo:latest'
       MemorySize: !Ref LambdaMemorySize
       Timeout: !Ref LambdaTimeout
       EphemeralStorage:
@@ -200,15 +174,11 @@ Resources:
 Outputs:
   ECRRepositoryUri:
     Description: ECR Repository URI for pushing Docker images
-    Value: !GetAtt ECRRepository.RepositoryUri
-    Export:
-      Name: !Sub '${ProjectName}-ecr-uri'
+    Value: !Sub '${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ProjectName}-repo'
 
   ECRRepositoryName:
     Description: ECR Repository Name
-    Value: !Ref ECRRepository
-    Export:
-      Name: !Sub '${ProjectName}-ecr-name'
+    Value: !Sub '${ProjectName}-repo'
 
   S3BucketName:
     Description: S3 Bucket for scraped data
@@ -248,8 +218,8 @@ Outputs:
       
       # Build and push Docker image
       docker build -t ${ProjectName}-repo .
-      docker tag ${ProjectName}-repo:latest ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest
-      docker push ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest
+      docker tag ${ProjectName}-repo:latest ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ProjectName}-repo:latest
+      docker push ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ProjectName}-repo:latest
       
       # Update Lambda function
-      aws lambda update-function-code --function-name ${ProjectName}-function --image-uri ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepository}:latest --region ${AWS::Region}
+      aws lambda update-function-code --function-name ${ProjectName}-function --image-uri ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ProjectName}-repo:latest --region ${AWS::Region}
