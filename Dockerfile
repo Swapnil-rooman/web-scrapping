@@ -1,8 +1,8 @@
-# Define custom function directory
-ARG FUNCTION_DIR="/function"
-
 # Base image with Playwright (this includes Python and browsers)
 FROM mcr.microsoft.com/playwright/python:v1.44.0-jammy
+
+# Define custom function directory
+ARG FUNCTION_DIR="/function"
 
 # Install aws-lambda-cpp build dependencies
 # (Sometimes required for awslambdaric, though strict binary wheels might exist)
